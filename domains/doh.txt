@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 10:54 UTC
-# Version: 2026.0702.1054.34
+# Last modified: 02 Jul 2026 19:17 UTC
+# Version: 2026.0702.1917.54
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3886
+# Number of entries: 3883
 #
 ss.0001.xyz
 003153.xyz
@@ -396,15 +396,12 @@ atsilva.link
 dns.atsilva.link
 dohtrial.att.net
 dns.auapi.fun
-auberge78.site
 dns.audet.cloud
 dns.auffray.org
-adguard.avavd.ru
 vps.avc.cx
 dnstx.axhy.cc
 axistechsupport.com
 dns.axto.me
-dns.aykanbacaksoy.de
 adguard.ayrespace.cc
 adguard2.ayrespace.cc
 home.azagra.dev

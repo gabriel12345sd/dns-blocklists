@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 09:54 UTC
-# Version: 2026.0702.0954.04
+# Last modified: 02 Jul 2026 18:14 UTC
+# Version: 2026.0702.1814.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10000
+# Number of entries: 9999
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -1769,7 +1769,6 @@
 *.aww.al
 *.awwurl.com
 *.awy.to
-*.axees.ir
 *.axiom.link
 *.axios.link
 *.axo.li

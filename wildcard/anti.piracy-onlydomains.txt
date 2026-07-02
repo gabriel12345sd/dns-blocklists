@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 10:34 UTC
-# Version: 2026.0702.1034.57
+# Last modified: 02 Jul 2026 19:10 UTC
+# Version: 2026.0702.1910.38
 # Syntax: Domains (without subdomains)
-# Number of entries: 31074
+# Number of entries: 31066
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -1698,6 +1698,7 @@ tracker.zum.bi
 123movies9.fun
 123movies9.hair
 123movies9.nl
+123movies9.one
 123movies9.rest
 123movies9.skin
 123movies9.surf
@@ -3354,7 +3355,6 @@ audiop2p.com
 audiostuff.ro
 audiotracer.com
 audiozonetorrents.com
-auraplus-streams.buzz
 auratorrent.pl
 aurorabird6.live
 australianmovies.net
@@ -3428,7 +3428,6 @@ bahubaliy-lordfilm.ru
 bahubalys-lordfilm.ru
 baibako.tv
 bainmatch.com
-baixar.club
 baixarfilmetorrent.com
 baixarfilmetorrent.net
 baixarpremium.net
@@ -3491,7 +3490,6 @@ batmanpembawarezeki.com
 batmanstream.cc
 batmanstream.info
 batmanstream.online
-batmanstream.vip
 batmanstream.watch
 batstream.tv
 bayernstream.com
@@ -3587,17 +3585,13 @@ berlin-lordfilm3.ru
 berlinn-lordfilms.ru
 berlinskaya-zhara-lordfilm.lol
 berllin-lordfilms.ru
-besprincipnye-lordfilm.com
 besprintsipnyye-lordfilm.ru
 besslavnye-ublyudki-lordfilm.buzz
 bessmertnaya-gvardiya-lordfilm.ru
-bessonnaya-noch-lordfilm.fun
 besstydniki-lordfilm.buzz
-besstydniki-lordfilm.fun
 besstydniki-lordfilm.ru
 besstyyzhie-lordfilm.ru
 besstyzhie-lordfilm.com
-besstyzhie-lordfilm.fun
 besstyzhie-lordfilm.top
 besstyzhie-lordfilm3.ru
 besstyzhie-lordfilme.ru
@@ -3694,7 +3688,6 @@ binsearch.info
 bintube.com
 bintv.net
 binzb.com
-biografi-lordfilm.fun
 bioscopeblog.net
 biotech-cdmo-gedeonrichter.com
 biotorrents.net
@@ -3807,7 +3800,6 @@ blagblagblag.org
 blagie-znamenia-lordfilms.ru
 blagie-znameniya-lordfilm.top
 blagie-znameniya-lordfilm3.ru
-blagiye-znameniya-lordfilm.fun
 blague-znameniya-lordfilm.ru
 blagye-znamenia-lordfilm.ru
 blazingtorrent.xyz

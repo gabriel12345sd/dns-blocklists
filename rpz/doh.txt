@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782989640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783019820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 10:54 UTC
-; Version: 2026.0702.1054.34
+; Last modified: 02 Jul 2026 19:17 UTC
+; Version: 2026.0702.1917.54
 ; Syntax: RPZ
-; Number of entries: 6866
+; Number of entries: 6860
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1969,8 +1969,6 @@ midgard.asguardian.de CNAME .
 *.midgard.asguardian.de CNAME .
 nilfheim.asguardian.de CNAME .
 *.nilfheim.asguardian.de CNAME .
-dns.aykanbacaksoy.de CNAME .
-*.dns.aykanbacaksoy.de CNAME .
 adguard.bitteeinbyte.de CNAME .
 *.adguard.bitteeinbyte.de CNAME .
 dns.bitup.de CNAME .
@@ -5631,8 +5629,6 @@ arcticstorm.ru CNAME .
 *.arcticstorm.ru CNAME .
 aridia.ru CNAME .
 *.aridia.ru CNAME .
-adguard.avavd.ru CNAME .
-*.adguard.avavd.ru CNAME .
 node3.b4el.ru CNAME .
 *.node3.b4el.ru CNAME .
 baxtri.ru CNAME .
@@ -5947,8 +5943,6 @@ adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
 hk2.1833015459.site CNAME .
 *.hk2.1833015459.site CNAME .
-auberge78.site CNAME .
-*.auberge78.site CNAME .
 callies-online.site CNAME .
 *.callies-online.site CNAME .
 fimoshinckaya-federation.site CNAME .

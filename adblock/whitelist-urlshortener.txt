@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 09:54 UTC
-! Version: 2026.0702.0954.04
+! Last modified: 02 Jul 2026 18:14 UTC
+! Version: 2026.0702.1814.51
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -1764,7 +1764,6 @@
 @@||aww.al^
 @@||awwurl.com^
 @@||awy.to^
-@@||axees.ir^
 @@||axiom.link^
 @@||axios.link^
 @@||axo.li^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 10:50 UTC
-# Version: 2026.0702.1050.18
+# Last modified: 02 Jul 2026 18:53 UTC
+# Version: 2026.0702.1853.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 90945
+# Number of entries: 90851
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -327,6 +327,7 @@ www.09racing.com
 s.0cf.io
 s3.0dayporno.com
 0dayreleases.com
+0ed35fac92.com
 0f1qtj.ru
 0fees.net
 business.0fees.net
@@ -4530,6 +4531,7 @@ redirect.301redirect.site
 302br.net
 303bus.net
 30dcf.com
+30ea3091fb.com
 www.30girl.com
 30inwarehouses.com
 hizou.30maps.com
@@ -4809,6 +4811,7 @@ unitedfarm.3cdn.net
 wmc.3cdn.net
 3ckz.com
 webapi.3cx.com
+3d6a6c3707.com
 3d7b481b4d.com
 www.3dchampions.org
 analytics.3dcloud.io
@@ -5488,6 +5491,7 @@ track.91app.io
 934285023e.com
 94hexon.com
 analytics.95516.com
+95ziegv587wohx9rzj.cfd
 96fb5jhkn3.com
 96hexer.net
 970vantage.net
@@ -6661,6 +6665,7 @@ rtb.adentifi.com
 www.adeprimo.se
 adept-emergency.com
 raven.adeptmind.ai
+adeqmedia.com
 analytics.aderserve.com
 adespresso.com
 ebooks.adespresso.com
@@ -9628,6 +9633,7 @@ afishamedia.net
 afkwa.com
 cpm.afkwa.com
 afm01.com
+afmndx.com
 afodreet.net
 afovivytex.com
 afp.ai
@@ -20202,7 +20208,6 @@ pbs.atmtd.com
 s2s.atmtd.com
 scripts.atmtd.com
 atncfddwenjgt.website
-atokegriqua.qpon
 analytics.atom.com
 atom-ds.com
 atomex.net
@@ -20228,7 +20233,6 @@ atprofessional.org
 atpsjprnuspug.site
 atraff.com
 tracking.atreemo.com
-atrepsycoachs.cyou
 atrium-copernicus.pl
 atrophychumpreentry.com
 atservineor.com
@@ -20245,10 +20249,7 @@ smetrics.att.com
 attacheatableoverlabor.com
 attainplatform.io
 ap.attainplatform.io
-attainthreatfluffy.com
 attaleaeblisbreezy.qpon
-attarsclallam.qpon
-attaskanker.cyou
 attendanceoffvow.com
 attendeeroamersilliness.com
 attendingdistractwarm.com
@@ -20291,10 +20292,8 @@ www.attributionapp.com
 tracking.attributy.com
 attristerebus.cfd
 attristpitches.com
-attunedunsanefisk.qpon
 attvip.mx
 atuedidnotk.com
-atuletoheroa.cfd
 atwebpages.com
 2019s.atwebpages.com
 2023abhapprdio.atwebpages.com
@@ -20361,14 +20360,12 @@ wifizq.atwebpages.com
 yari.atwebpages.com
 zeplin.atwebpages.com
 atwi.pl
-atwodxnrmpabe.space
 atwola.com
 ar.atwola.com
 at.atwola.com
 tacoda.at.atwola.com
 uc.atwola.com
 cdn.uc.atwola.com
-atypyaxis.shop
 atzonebd.com
 aubindratzonate.cfd
 aucdn.net
@@ -20379,11 +20376,9 @@ www.auctionads.com
 auctionnudge.com
 www.auctionnudge.com
 counters.auctiva.com
-aucwkxduopjto.space
 audacity.de
 audacity.es
 audacity.fr
-www.audacity.de
 dcs.audi.com
 audi4sdian.com
 audiblyacademyadaptation.com
@@ -20455,7 +20450,6 @@ aukharier.cyou
 aumago.com
 tag.aumago.com
 www.aumago.com
-aumeryoilcakeswag.cyou
 aunsaick.com
 aunstollarinets.com
 auplod.com
@@ -20467,7 +20461,6 @@ auras-loves-dreams.com
 auriq.com
 myrt.auriq.com
 www.auriq.com
-aurirdelicatgimped.qpon
 auroraemacaca.cyou
 aurorastore.org
 www.aurorastore.pro
@@ -20492,7 +20485,6 @@ author279.net
 analytics.authoritymedia.com
 verify.authorize.net
 authorizedimmediate.com
-autismspassers.cyou
 matomo.auto-motor-und-sport.de
 auto-ping.com
 rum.prod.services.auto1.team
@@ -20609,7 +20601,6 @@ avidlyruntee.shop
 cs.avito.ru
 mon.avito.ru
 stats.avito.ru
-avjsowrxnatrc.site
 avkszbsmzamaj.site
 avktoxbxkrm.com
 ixav-cse.avlyun.com
@@ -20636,7 +20627,6 @@ avocetriches.com
 sdmat.avoltd.com
 ugiko.avon.com
 avowcosmo.cfd
-avoxrynjkgpga.online
 track1.avplayer.com
 go.avred.online
 avspda.xyz
@@ -20681,7 +20671,6 @@ awgutqp.cc
 awinglyarianatupaiid.qpon
 awistats.com
 awitewmdutflhj.com
-awlpiert.shop
 awltovhc.com
 www.awltovhc.com
 awmdelivery.com
@@ -20730,7 +20719,6 @@ axis13.net
 axisdoctrine.com
 axiteszings.cfd
 axjndvucr.com
-axltkuanrhyuz.space
 axobjectsource.com
 axon.ai
 ads.axon.ai
@@ -20744,8 +20732,6 @@ s.axon.ai
 stage-e.axon.ai
 stage-e4.axon.ai
 support.axon.ai
-axonanotto.qpon
-axonboaster.cfd
 axonix.com
 mda.axonix.com
 openrtb-dc11.axonix.com
@@ -20856,14 +20842,11 @@ cdn.ayads.co
 geoworker.ayads.co
 optchk.ayads.co
 sac.ayads.co
-aycygyzfhvolf.space
 ayhleywwvdply.space
-ayvpzajhrscsw.website
 az980.com
 azartplay.com
 lgbdxo.azazie.com
 azdwxoztaualz.site
-azeleiljkpywl.vip
 azelvid.com
 jsc.native.azerion.com
 pm.azerioncircle.com
@@ -20878,8 +20861,6 @@ azontree.com
 trueindo.azontree.com
 truenews.azontree.com
 www.azoogleads.com
-azotesdanian.cyou
-azotousdeports.shop
 aztool.org
 azulcw7.com
 adservergatewayprod.southcentralus.cloudapp.azure.com
@@ -20968,14 +20949,11 @@ baalismgrumlyembrue.qpon
 babator.com
 eu-services.babator.com
 services.babator.com
-babbledqatigname.qpon
 t.babelmedia.global
 bablace.com
 customfingerprints.bablosoft.com
-babtdzubsocvh.space
 babun.club
 babup.com
-babushungerelfland.cyou
 babwandle.qpon
 babyboomboomads.com
 apishow.babybus.com
@@ -20986,7 +20964,6 @@ tjinit-event.babybus.com
 tjinit-global-register.babybus.com
 telemetry.babycenter.com
 babyschlafsack-abc.de
-bacchusmoisten.shop
 backachegrudgesiamese.com
 www.backbeatmedia.com
 cbjtv.backcountry.com
@@ -21003,7 +20980,6 @@ badgegirdle.com
 badgerabbit.com
 www.badjocks.com
 badlandlispyippee.com
-baduogknkuvfl.online
 baelmemordafalcon.qpon
 baezlvydomldo.space
 baffiesriccia.cyou
@@ -21153,30 +21129,20 @@ xian.baixing.com
 ads.bajajfinserv.in
 bajielm.com
 bajkowewnetrzakids.pl
-bajreepiferoduets.qpon
 bakteso.ru
-balanceaquarid.qpon
-balattebutanol.qpon
-baldieyengees.cfd
 baldscatkins.com
 sgtm.baldwinfilters.com
 logs.balena-cloud.com
-balianbassos.qpon
 analytics.baliusuperapp.xyz
 ads.balkanweb.com
 amqbl.ballarddesigns.com
 ballet-bandage.com
-balletscorpnsyria.qpon
-ballistashlers.qpon
 ballsbanana.com
 ballsylushing.cfd
 ballyaxche.cfd
 www.balmoralmkt.com
 balmyrind.com
-balneasurest.qpon
-balsacambuca.cyou
 balteraided.qpon
-balteusngapi.cfd
 balticvoices.org
 d250.baltimoresun.com
 balzadicyema.com
@@ -21207,7 +21173,6 @@ bandborder.com
 bandbuzzer.com
 adv.bandi.so
 ana.bandi.so
-bandidoaluco.cfd
 amplitude.bandlab.com
 amplitude-experiment.bandlab.com
 geo.bandlab.io
@@ -21232,7 +21197,6 @@ s.bankier.pl
 stat.bankier.pl
 bankingbloatedcaptive.com
 smetrics.bankinter.com
-bankmanus.cfd
 cs.bankmillennium.pl
 glassbox-hlx-igw.bankofamerica.com
 smetrics.bankofamerica.com
@@ -21241,7 +21205,6 @@ banner-ad-nex.com
 edayo.banner-ad-nex.com
 js.banner-ad-nex.com
 banner-iframe.com
-m.banner-in.net
 banner-online.nl
 banneradsday.com
 bannerboo.com
@@ -21277,7 +21240,6 @@ banque-online.com
 banquetunarmedgrater.com
 bantaculei.cfd
 banxso.com
-banyanlosang.qpon
 baoding68g.net
 midinfo.baofeng.com
 log.baomoi.com
@@ -21289,14 +21251,9 @@ baptizeillusion.com
 baqbargafwlvd.site
 barapolaran.shop
 barbaracitreanamiga.cyou
-barbellcomates.shop
-barbopposit.qpon
-barbraoutsold.cfd
 barbuleclionacowbird.qpon
-barbuttriplet.cfd
 metrics.barclaycardus.com
 bardmaterials.com
-bardsvampire.cyou
 barelydonkeysteed.com
 baremetrics.com
 1forgeopen.baremetrics.com
@@ -21349,7 +21306,6 @@ ynaw.baremetrics.com
 barilliance.net
 www.barilliance.net
 pixel.barion.com
-baritescarve.cfd
 barkanneumeseuro.cyou
 metrics.barkbox.com
 barkequilibrium.com
@@ -21382,16 +21338,13 @@ sst.basic-fit.com
 basicconfig.com
 www.basicconfig.com
 basicstat.com
-basinalbreach.qpon
 pixel-a.basis.net
 analytics.bask.health
 basket2.xyz
 bog.basketrot.com
 www.basketsnike.fr
 baskettexture.com
-basnatcoignes.qpon
 bassiacoal.qpon
-bassistbaht.cfd
 adcs.basspro.com
 omnis.basspro.com
 bastingestival.com
@@ -21414,10 +21367,8 @@ diy.bauhaus.info
 baumiereosinic.com
 baumme.de
 bavikotasi.info
-bawarojxbcrnv.space
 bawdybalance.com
 bawixi.xyz
-bayalunlatch.qpon
 radar.bayan.ir
 baycjars.com
 piwik.bayern.de
@@ -21468,7 +21419,6 @@ bbrdbr.com
 creative.bbrdbr.com
 go.bbrdbr.com
 bbs.ws
-bbthrtxfdtscd.online
 bbtuvgqhflajx.com
 1to1.bbva.com
 smetrics.bbva.es
@@ -21501,7 +21451,6 @@ bcc-ads.com
 global-staticplat.cdn.bcebos.com
 mobads-pre-config.cdn.bcebos.com
 httpdns.bcelive.com
-bcgwbrnjyyknd.site
 bclogin-check.com
 bcloudhost.com
 bclub.mobi
@@ -21511,7 +21460,6 @@ bcnproduction.com
 bcobdykvrlfhe.website
 bcolyyp.in
 bcprm.com
-bcqmzvuvurmop.website
 bcsyfuhahnlmh.online
 sanalytics.bd.com
 bd4travel.com
@@ -21551,7 +21499,6 @@ www.beaconadnetwork.com
 sgmnt.beacons.ai
 bealafulup.com
 lb1.beamanalytics.io
-beamedvedro.qpon
 beamvolcano.com
 beancontrol.com
 beanstalkdata.com
@@ -21561,8 +21508,6 @@ bearscutte.com
 beastlyfluke.com
 beatentease.com
 beatforumsubstitute.com
-beauishjobe.cfd
-beauit.cyou
 beauty-erlebnisse.de
 beauty1.xyz
 beautyfunnel.de
@@ -21585,15 +21530,10 @@ becrybotonnysyriac.cyou
 bedashawned.qpon
 analytics.bedbathandbeyond.com
 beddme.com
-bedevilribber.qpon
-bedlamsdilucid.cyou
 bedlessresizes.com
 zc.bedlessresizes.com
-bedoyobeltmen.cyou
-bedridunfree.cyou
 bedroomcritic.com
 bedsberry.com
-bedsitfag.qpon
 bee-cake.ru
 log-01c54544.bee-flame.com
 beechcarting.cyou
@@ -21611,7 +21551,6 @@ www.beeketing.com
 www.beemray.com
 beemrdwn.com
 beenover.com
-beepernuntius.cyou
 beeroutetrail.com
 beesads.com
 beeshooloap.net
@@ -21625,13 +21564,10 @@ beflourrealarmlover.qpon
 befoolamesace.qpon
 befoulsdaza.com
 befoulsinwoven.shop
-befpdlopmicei.website
 begildclowns.shop
 begin2search.com
 beginbonaire.cfd
 beginnerpancake.com
-beglewhormion.cfd
-beglidedizened.qpon
 begloomtinterspining.qpon
 begolbatan.com
 static.begolbatan.com
@@ -21645,7 +21581,6 @@ click02.begun.ru
 my2.begun.ru
 wp7.begun.ru
 www.begun.ru
-behavecaplet.cfd
 beholdsresinsimprevu.cfd
 analytics.behr.com
 behtarinseo.ir
@@ -21686,7 +21621,6 @@ smetrics.belk.com
 data0.bell.ca
 data1.bell.ca
 edge.bell.ca
-belleekmarlpit.cfd
 stats.bellmedia.ca
 bellmedia-images.stats.bellmedia.ca
 bellmetric.net
@@ -21725,20 +21659,17 @@ trackers.benefit-ads.com
 smetrics.beneplace.com
 benesfumous.cfd
 beniluuxen.com
-benimsmackee.shop
 matomo.benq.com
 benrif-solutions.com
 app.bentonow.com
 fast.bentonow.com
 track.bentonow.com
 bentthick.cyou
-benzeinnap.cfd
 benzineyasmak.cyou
 beop.io
 engage.beop.io
 widget.beop.io
 beparchfreightdeplant.qpon
-bepasterebud.qpon
 bepolite.eu
 bepqyvmaqlib.com
 berapt-medii.com
@@ -21746,7 +21677,6 @@ beraptabysmal.cyou
 beratsighed.cfd
 bereaveencodefestive.com
 berendearnfulinfame.qpon
-berendogizzard.cyou
 bergfreunde-outlet.shop
 berglust.shop
 bergxperten.de
@@ -21804,7 +21734,6 @@ bestcontenttool.top
 bestcontenttrade.top
 bestcontentweb.top
 bestconvertor.club
-bestdarknetmarketslinks.com
 bestehausfrau.com
 bestemed.com
 www.bestemed.com
@@ -21858,7 +21787,6 @@ betandyou.com
 betandyou1.com
 dd.betano.com
 betegy.com
-betellmacrli.cyou
 beterrakionan.com
 ads.betfair.com
 betfaq.ru
@@ -21870,10 +21798,8 @@ cd.betiseburnut.com
 betonmarkets.com
 betonred.com
 betotodilea.com
-betowelpandits.cyou
 betpartners.it
 record.betpartners.it
-betrailsysout.shop
 betsafe.lt
 en.betsafe.lt
 www.betsafe.lt
@@ -21938,16 +21864,13 @@ samsungscript.beusable.net
 script.beusable.net
 www.beusable.net
 bevelwrox.qpon
-bevfpfekwskzg.world
 bewathis.com
 bewhidare.com
-bewigscoequal.cfd
 bewitched-landscape.com
 dt.beyla.site
 datacollection.beymen.com
 beyondwickedmapping.org
 metrics.beyondwords.io
-bezilsglint.cyou
 bezpalatki.ru
 bezproudoff.cz
 bezrukov.fun
@@ -21961,10 +21884,8 @@ mds.bf-tools.net
 rtt.bf-tools.net
 bfbcaifdhdfdsgdfu.com
 bfbfkhz.cc
-bfepzyczofwtf.space
 bfhspobdvajttb.com
 bfirpqcbyfd.com
-bfjknfpvwjjpb.site
 bfmio.com
 display.bfmio.com
 evt.bfmio.com
@@ -21982,16 +21903,12 @@ www.bforex.com
 bfpartners.click
 bfxytxdpnk.com
 bfyz-defender.pro
-bfzneeafwhntt.site
 bg-mezonet.info
 bg4nxu2u5t.com
 bgbqfnhtu.com
-bgfrvxfwtxkxw.site
 bgtjdtnnbjp.com
-bgulef837wmwxglvg2l5kyzbpz5ng2tg7tjwg.cfd
 bh-dm.com
 bhabhiporn.pro
-bhadgnshcnccp.online
 campaign.bharatmatrimony.com
 bhavkiyrxbifv.space
 c1.bhcont.com
@@ -22005,8 +21922,6 @@ bhobmdtjc.com
 ensighten.bhphoto.com
 affiliates.bhphotovideo.com
 img.bhs4.com
-bhsqojyjtucgq.site
-bhukrmnrxzcyd.space
 analytics.live.bhvr7dtd.com
 app-posthog.bi-sage.site
 biancasunlit.com
@@ -22042,7 +21957,6 @@ ownxml.bidderads.com
 xml-v4.bidderads.com
 biddersas.com
 logusesas.biddersas.com
-bidderssupper.cfd
 nr.bidderstack.com
 metrics.biddertmz.com
 biddingx.com
@@ -22233,7 +22147,6 @@ bidvol.com
 ssp.bidvol.com
 p.ssp.bidvol.com
 uid.ssp.bidvol.com
-bientttarger.cfd
 bierundgarten.de
 bifangting.com
 cdn.biff.travel
@@ -22285,8 +22198,6 @@ bihalvegoldi.com
 bihogbawtvemq.site
 bihunekus.com
 annonse.biip.no
-bijvjzkjydmzi.space
-bijztncfltrmb.site
 tag.bike-components.de
 metric.bike-discount.de
 bikesattel.at
@@ -22371,12 +22282,10 @@ www.bionic-ads.com
 biopage.ru
 biorad-ads.com
 biosagentplus.com
-biosomerefed.cyou
 bioverlag-online.de
 bioxtrim.com
 bioxtubes.com
 bipedpinnalfr.cyou
-biqlbuyvzpepc.website
 t.birchlane.com
 bird.money
 www.bird.money
@@ -22385,13 +22294,10 @@ birdgrasshopper.com
 birdpriceall.com
 birdseyewings.co
 sdfif.birkenstock.com
-birlinnzebraic.cyou
 biron-analytics.com
 birthaslaver.com
 birthjeans.icu
 bisairtooneep.net
-bisgccwydopqz.online
-biskteeveeacutish.cfd
 aaa.bisnode.si
 bistadaka.com
 bistanasa.qpon
@@ -22452,7 +22358,6 @@ bitz2.vip
 bitz6.vip
 biwipuque.com
 bixqmhdbjn.com
-bixzcnzczobsg.space
 biyrseggdidiy.site
 advertisement2.bizedge.com
 bizible.com
@@ -22492,10 +22397,7 @@ bjmyjrpjqqeep.com
 bjnstrujhqmna.space
 smetrics.bjs.com
 bjsr03odzu.com
-bjsvp38.space
 bjsvp49.space
-bjukboglvzgpy.space
-bjwftenausnmb.space
 analytics.bka.sh
 campaign-images.analytics.bka.sh
 bkhhmyjvmfgxg.online
@@ -22503,7 +22405,6 @@ bkibtbefjo.com
 bkjhqkohal.com
 bkjkuukaobqcjjd.com
 bkkgaming88.com
-bklvggcfvpmxq.space
 bkmmafrixfake.website
 bksn.se
 smetrics.bkstr.com
@@ -22540,14 +22441,11 @@ securemetrics.blackrock.com
 websdkmetrics.blackrock.com
 blahlivedsnowdrop.com
 blahwhoever.com
-blameff.cyou
 blandapantos.top
-blanksvulvar.shop
 blanmanchu.cyou
 blaring-chocolate.com
 blaringspray.pro
 blastedopiane.qpon
-blastedscatt.cyou
 blastmedia.site
 rtb-eu.blastmedia.site
 rtb-eu-v4.blastmedia.site
@@ -22555,12 +22453,10 @@ rtb-useast-v4.blastmedia.site
 blatchhypogyn.qpon
 blaudonau.com
 blawnsodium.com
-blaykwakari.qpon
 blazedwaypostrecoat.qpon
 blazingserver.net
 blcdog.com
 go.blcdog.com
-blchkumorfxyc.website
 blcknvr.com
 ble7orbnz.com
 bleachbubble.com
@@ -22571,7 +22467,6 @@ br-amer.prd.api.bleacherreport.com
 default.br-amer.prd.api.bleacherreport.com
 telegraph.prd.api.bleacherreport.com
 bleachinjectionuncommon.com
-bleaterurluch.shop
 blehcourt.com
 blemblem.us
 pixel.k8s.prod.blend.com
@@ -22579,7 +22474,6 @@ blendedbird.com
 analytics.blender.org
 blender3d.fr
 a.blendernation.com
-bleounshipsmachi.cfd
 analytics.blesk.cz
 blessingsome.com
 blesspizzas.com
@@ -22617,7 +22511,6 @@ blissfullyzebra.com
 8.blissfullyzebra.com
 9.blissfullyzebra.com
 blissstallion.com
-blistergriftsteak.cfd
 blisterlngdates.net
 blistest.xyz
 blitterkoilabronx.cyou
@@ -30378,6 +30271,7 @@ d24w6bsrhbeh9d.cloudfront.net
 d25dfknw9ghxs6.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
 d27gtglsu4f4y2.cloudfront.net
+d292swwe9zki3u.cloudfront.net
 d2cli4kgl5uxre.cloudfront.net
 d2cmqkwo8rxlr9.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
@@ -36364,6 +36258,7 @@ a.df-srv.de
 d.df-srv.de
 h.df-srv.de
 r.df-srv.de
+df6m7fvrds.com
 dfb24776dd.com
 dfbvgrxdrsaiv.com
 dfdgfruitie.xyz
@@ -43360,6 +43255,7 @@ famtepsooluhe.net
 fanatics.bet
 data.a.fanatics.com
 data.a.fanaticscommerce.com
+fanbox.autos
 fanbox.help
 vmax-ads.fancode.com
 fancyactivity.com
@@ -51558,6 +51454,7 @@ intendwaitresssalty.com
 intensesnedded.shop
 intent.ai
 intentarget.com
+intentforever.pro
 intenthq.com
 jema-api.public.prod.ihq-za.k8s.intenthq.com
 jema-campaigns.public.prod.ihq-za.k8s.intenthq.com
@@ -53598,6 +53495,7 @@ api.kickoffo.site
 measure.kickscrew.com
 evs.icy-lake.kickstarter.com
 kiddoesomnificdirecly.cyou
+kidnappingjeep.com
 kidnapsoutroar.qpon
 metrics.kidney.org
 kidoz.net
@@ -58249,6 +58147,7 @@ www.mir-stalkera.ru
 mirabelanalytics.com
 app1.mirabelanalytics.com
 www.mirabelanalytics.com
+miragyflix.com
 miraiah.jp
 miralinks.ru
 blog.miralinks.ru
@@ -65294,6 +65193,7 @@ d.oracleinfinity.io
 dc.oracleinfinity.io
 orafresh.pl
 datalayer.orange.fr
+orange-convert.pro
 html.orange-idea.com
 orange-park.jp
 ad.orange-park.jp
@@ -66185,6 +66085,7 @@ part-ner01.jp
 partage-facile.com
 www.partage-facile.com
 analytics.partcommunity.com
+partiallytangerine.com
 participationwhitehandwriting.com
 ad.particlenews.com
 log.particlenews.com
@@ -71130,6 +71031,7 @@ reporo.net
 report1.biz
 360service.report360.io
 reportmsg.com
+reportmyads.com
 reporttk.com
 ios-token.reporttk.com
 www.reporttk.com
@@ -73402,6 +73304,7 @@ www.scarlet-clicks.info
 scatchostomy.qpon
 scatteredstream.com
 scatulapublice.cyou
+scatylems.com
 scawtepee.com
 df.scawtepee.com
 scaxpnplwrzma.online
@@ -80057,6 +79960,7 @@ talvurieks.org
 talvurieks-official.net
 talvurieks-official-at.com
 tamarisoutlet.com
+tambetresmigirisim.vip
 tame-discount.pro
 tamgrt.com
 www.tamgrt.com
@@ -83830,6 +83734,7 @@ gundogar-mediawiki.tw1.ru
 plape-wordpress-icyv5.tw1.ru
 ruarchaeology.tw1.ru
 equa.tory.tw1.ru
+tw6eg2vusa.com
 twads.gg
 go.twads.gg
 twarsirbkkf.com
@@ -87314,6 +87219,7 @@ wdomu24.pl
 wdqhdqtlxu.com
 wdsakriogufgd.site
 y494.wdsu.com
+we-offer.com
 weakermumrespect.com
 analytics.wealthcare.com
 content.analytics.wealthcare.com
@@ -89506,6 +89412,7 @@ yazio-analytics.com
 event-ingestion.yazio-analytics.com
 fae.yazio-analytics.com
 yazspspjorqhx.site
+yb1bmq19ocvtjop3e2i2q.cfd
 ybawirztscdhp.online
 ybbnetahurnitm.com
 ybbserver.com
@@ -90209,7 +90116,6 @@ yktj.yzz.cn
 z-lib.dev
 z-lib.id
 z-lib.io
-z-lib.is
 z-lib.wiki
 z-milosci.pl
 z-promo.com

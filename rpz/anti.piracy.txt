@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782988440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783019400 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 10:34 UTC
-; Version: 2026.0702.1034.57
+; Last modified: 02 Jul 2026 19:10 UTC
+; Version: 2026.0702.1910.38
 ; Syntax: RPZ
-; Number of entries: 62148
+; Number of entries: 62132
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2584,8 +2584,6 @@ altadefinizionex.buzz CNAME .
 *.altadefinizionex.buzz CNAME .
 ataka-titanov-lordfilm.buzz CNAME .
 *.ataka-titanov-lordfilm.buzz CNAME .
-auraplus-streams.buzz CNAME .
-*.auraplus-streams.buzz CNAME .
 barvikha-lordfilm.buzz CNAME .
 *.barvikha-lordfilm.buzz CNAME .
 bednye-smeyutsya-bogatye-plachut-lordfilm.buzz CNAME .
@@ -4700,8 +4698,6 @@ animeua.club CNAME .
 *.animeua.club CNAME .
 baby-beamup.club CNAME .
 *.baby-beamup.club CNAME .
-baixar.club CNAME .
-*.baixar.club CNAME .
 batflixmovies.club CNAME .
 *.batflixmovies.club CNAME .
 bdfun.club CNAME .
@@ -6276,8 +6272,6 @@ tracker.beeimg.com CNAME .
 *.tracker.beeimg.com CNAME .
 bellator.com CNAME .
 *.bellator.com CNAME .
-besprincipnye-lordfilm.com CNAME .
-*.besprincipnye-lordfilm.com CNAME .
 besstyzhie-lordfilm.com CNAME .
 *.besstyzhie-lordfilm.com CNAME .
 best123movies.com CNAME .
@@ -16058,16 +16052,6 @@ animeplex.fun CNAME .
 *.animeplex.fun CNAME .
 animexstream.fun CNAME .
 *.animexstream.fun CNAME .
-bessonnaya-noch-lordfilm.fun CNAME .
-*.bessonnaya-noch-lordfilm.fun CNAME .
-besstydniki-lordfilm.fun CNAME .
-*.besstydniki-lordfilm.fun CNAME .
-besstyzhie-lordfilm.fun CNAME .
-*.besstyzhie-lordfilm.fun CNAME .
-biografi-lordfilm.fun CNAME .
-*.biografi-lordfilm.fun CNAME .
-blagiye-znameniya-lordfilm.fun CNAME .
-*.blagiye-znameniya-lordfilm.fun CNAME .
 bolshoy-potentsial-lordfilm.fun CNAME .
 *.bolshoy-potentsial-lordfilm.fun CNAME .
 bonsaihd.fun CNAME .
@@ -38646,6 +38630,8 @@ wookafr.observer CNAME .
 *.10hitmovies.one CNAME .
 123movies-tv.one CNAME .
 *.123movies-tv.one CNAME .
+123movies9.one CNAME .
+*.123movies9.one CNAME .
 123moviesonline.one CNAME .
 *.123moviesonline.one CNAME .
 321movies.one CNAME .
@@ -59166,8 +59152,6 @@ app-valley.vip CNAME .
 *.app-valley.vip CNAME .
 ashdi.vip CNAME .
 *.ashdi.vip CNAME .
-batmanstream.vip CNAME .
-*.batmanstream.vip CNAME .
 bmovies.vip CNAME .
 *.bmovies.vip CNAME .
 booter.vip CNAME .

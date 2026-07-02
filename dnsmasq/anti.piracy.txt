@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 10:34 UTC
-# Version: 2026.0702.1034.57
+# Last modified: 02 Jul 2026 19:10 UTC
+# Version: 2026.0702.1910.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 31074
+# Number of entries: 31066
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -1698,6 +1698,7 @@ local=/123movies9.farm/
 local=/123movies9.fun/
 local=/123movies9.hair/
 local=/123movies9.nl/
+local=/123movies9.one/
 local=/123movies9.rest/
 local=/123movies9.skin/
 local=/123movies9.surf/
@@ -3354,7 +3355,6 @@ local=/audiop2p.com/
 local=/audiostuff.ro/
 local=/audiotracer.com/
 local=/audiozonetorrents.com/
-local=/auraplus-streams.buzz/
 local=/auratorrent.pl/
 local=/aurorabird6.live/
 local=/australianmovies.net/
@@ -3428,7 +3428,6 @@ local=/bahubaliy-lordfilm.ru/
 local=/bahubalys-lordfilm.ru/
 local=/baibako.tv/
 local=/bainmatch.com/
-local=/baixar.club/
 local=/baixarfilmetorrent.com/
 local=/baixarfilmetorrent.net/
 local=/baixarpremium.net/
@@ -3491,7 +3490,6 @@ local=/batmanpembawarezeki.com/
 local=/batmanstream.cc/
 local=/batmanstream.info/
 local=/batmanstream.online/
-local=/batmanstream.vip/
 local=/batmanstream.watch/
 local=/batstream.tv/
 local=/bayernstream.com/
@@ -3587,17 +3585,13 @@ local=/berlin-lordfilm3.ru/
 local=/berlinn-lordfilms.ru/
 local=/berlinskaya-zhara-lordfilm.lol/
 local=/berllin-lordfilms.ru/
-local=/besprincipnye-lordfilm.com/
 local=/besprintsipnyye-lordfilm.ru/
 local=/besslavnye-ublyudki-lordfilm.buzz/
 local=/bessmertnaya-gvardiya-lordfilm.ru/
-local=/bessonnaya-noch-lordfilm.fun/
 local=/besstydniki-lordfilm.buzz/
-local=/besstydniki-lordfilm.fun/
 local=/besstydniki-lordfilm.ru/
 local=/besstyyzhie-lordfilm.ru/
 local=/besstyzhie-lordfilm.com/
-local=/besstyzhie-lordfilm.fun/
 local=/besstyzhie-lordfilm.top/
 local=/besstyzhie-lordfilm3.ru/
 local=/besstyzhie-lordfilme.ru/
@@ -3694,7 +3688,6 @@ local=/binsearch.info/
 local=/bintube.com/
 local=/bintv.net/
 local=/binzb.com/
-local=/biografi-lordfilm.fun/
 local=/bioscopeblog.net/
 local=/biotech-cdmo-gedeonrichter.com/
 local=/biotorrents.net/
@@ -3807,7 +3800,6 @@ local=/blagblagblag.org/
 local=/blagie-znamenia-lordfilms.ru/
 local=/blagie-znameniya-lordfilm.top/
 local=/blagie-znameniya-lordfilm3.ru/
-local=/blagiye-znameniya-lordfilm.fun/
 local=/blague-znameniya-lordfilm.ru/
 local=/blagye-znamenia-lordfilm.ru/
 local=/blazingtorrent.xyz/

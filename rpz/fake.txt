@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782985920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783015920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 09:52 UTC
-; Version: 2026.0702.0952.07
+; Last modified: 02 Jul 2026 18:12 UTC
+; Version: 2026.0702.1812.55
 ; Syntax: RPZ
-; Number of entries: 33938
+; Number of entries: 33874
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -174,8 +174,6 @@ bayer-heizen.at CNAME .
 *.bayer-heizen.at CNAME .
 bekos.at CNAME .
 *.bekos.at CNAME .
-belenkawien.at CNAME .
-*.belenkawien.at CNAME .
 belkruvozan-ai.at CNAME .
 *.belkruvozan-ai.at CNAME .
 benettonaustria.at CNAME .
@@ -1444,8 +1442,6 @@ babybox-schweiz.ch CNAME .
 *.babybox-schweiz.ch CNAME .
 baumgarten.ch CNAME .
 *.baumgarten.ch CNAME .
-bergmann-mode.ch CNAME .
-*.bergmann-mode.ch CNAME .
 bergmode.ch CNAME .
 *.bergmode.ch CNAME .
 bike-in-jenaz.ch CNAME .
@@ -1556,8 +1552,6 @@ appolvintop.click CNAME .
 *.appolvintop.click CNAME .
 apprvnewsale724.click CNAME .
 *.apprvnewsale724.click CNAME .
-beingpick.click CNAME .
-*.beingpick.click CNAME .
 bestsoluvs.click CNAME .
 *.bestsoluvs.click CNAME .
 blikeuhij.click CNAME .
@@ -3002,8 +2996,6 @@ atvelektro.com CNAME .
 *.atvelektro.com CNAME .
 au-meds.com CNAME .
 *.au-meds.com CNAME .
-audazza.com CNAME .
-*.audazza.com CNAME .
 audiencabee.com CNAME .
 *.audiencabee.com CNAME .
 audienceg.com CNAME .
@@ -3016,8 +3008,6 @@ audiogeraterabatt.com CNAME .
 *.audiogeraterabatt.com CNAME .
 audiomachinery.com CNAME .
 *.audiomachinery.com CNAME .
-augenbrauenlidschatten.com CNAME .
-*.augenbrauenlidschatten.com CNAME .
 augennstern.com CNAME .
 *.augennstern.com CNAME .
 auntsunclestassen.com CNAME .
@@ -3056,8 +3046,6 @@ aurum-fix-corp.com CNAME .
 *.aurum-fix-corp.com CNAME .
 aurum-foundation.com CNAME .
 *.aurum-foundation.com CNAME .
-auspitz-shop.com CNAME .
-*.auspitz-shop.com CNAME .
 aussiecarsupplies.com CNAME .
 *.aussiecarsupplies.com CNAME .
 australiannewstoday.com CNAME .
@@ -3110,8 +3098,6 @@ autoshopbuilder.com CNAME .
 *.autoshopbuilder.com CNAME .
 autoteile-deutschland.com CNAME .
 *.autoteile-deutschland.com CNAME .
-autoteiledirektde.com CNAME .
-*.autoteiledirektde.com CNAME .
 autoteileharbor.com CNAME .
 *.autoteileharbor.com CNAME .
 autoteilejetzt.com CNAME .
@@ -3174,8 +3160,6 @@ awirer.com CNAME .
 *.awirer.com CNAME .
 awishday.com CNAME .
 *.awishday.com CNAME .
-ax-trading.com CNAME .
-*.ax-trading.com CNAME .
 axatechviewou.com CNAME .
 *.axatechviewou.com CNAME .
 axelarigatooslo.com CNAME .
@@ -3190,8 +3174,6 @@ axiogenesis.com CNAME .
 *.axiogenesis.com CNAME .
 axioswatches.com CNAME .
 *.axioswatches.com CNAME .
-axismakup.com CNAME .
-*.axismakup.com CNAME .
 axpsv.com CNAME .
 *.axpsv.com CNAME .
 ayblsuomi.com CNAME .
@@ -3208,8 +3190,6 @@ azurapoolcare.com CNAME .
 *.azurapoolcare.com CNAME .
 azuremodule.com CNAME .
 *.azuremodule.com CNAME .
-b-und-h.com CNAME .
-*.b-und-h.com CNAME .
 b4trade.com CNAME .
 *.b4trade.com CNAME .
 baboktransports.com CNAME .
@@ -3234,8 +3214,6 @@ babyroom-shop.com CNAME .
 *.babyroom-shop.com CNAME .
 babyseat-shop.com CNAME .
 *.babyseat-shop.com CNAME .
-babyshark88h.com CNAME .
-*.babyshark88h.com CNAME .
 babywarepromo.com CNAME .
 *.babywarepromo.com CNAME .
 babyweltde.com CNAME .
@@ -3280,10 +3258,6 @@ baggu-eu.com CNAME .
 *.baggu-eu.com CNAME .
 bags-boxes.com CNAME .
 *.bags-boxes.com CNAME .
-bagtrendshop.com CNAME .
-*.bagtrendshop.com CNAME .
-baguesdefiancailles.com CNAME .
-*.baguesdefiancailles.com CNAME .
 bahiwa.com CNAME .
 *.bahiwa.com CNAME .
 baitcastruten.com CNAME .
@@ -3356,8 +3330,6 @@ barbour-at.com CNAME .
 *.barbour-at.com CNAME .
 barfuss--schuhe.com CNAME .
 *.barfuss--schuhe.com CNAME .
-bargainbayou.com CNAME .
-*.bargainbayou.com CNAME .
 bargainqueensdiscount.com CNAME .
 *.bargainqueensdiscount.com CNAME .
 bargnee.com CNAME .
@@ -3394,8 +3366,6 @@ basquetestoreacd.com CNAME .
 *.basquetestoreacd.com CNAME .
 bassbet1.com CNAME .
 *.bassbet1.com CNAME .
-bassiami.com CNAME .
-*.bassiami.com CNAME .
 baswad.com CNAME .
 *.baswad.com CNAME .
 batchof.com CNAME .
@@ -3536,16 +3506,12 @@ beheizbarekleidung.com CNAME .
 *.beheizbarekleidung.com CNAME .
 beiids.com CNAME .
 *.beiids.com CNAME .
-beipartners.com CNAME .
-*.beipartners.com CNAME .
 bekleidunggadgets.com CNAME .
 *.bekleidunggadgets.com CNAME .
 bekleidungonstore.com CNAME .
 *.bekleidungonstore.com CNAME .
 bekleidungsoutlet.com CNAME .
 *.bekleidungsoutlet.com CNAME .
-belarismall.com CNAME .
-*.belarismall.com CNAME .
 belbachirconcept.com CNAME .
 *.belbachirconcept.com CNAME .
 beleuchtung-online.com CNAME .
@@ -3780,8 +3746,6 @@ betterwishes-shop.com CNAME .
 *.betterwishes-shop.com CNAME .
 bettyshops.com CNAME .
 *.bettyshops.com CNAME .
-bexisassets.com CNAME .
-*.bexisassets.com CNAME .
 bfarmacia.com CNAME .
 *.bfarmacia.com CNAME .
 bfi-finance.com CNAME .
@@ -3892,8 +3856,6 @@ bikerimtapede.com CNAME .
 *.bikerimtapede.com CNAME .
 bikerkultur.com CNAME .
 *.bikerkultur.com CNAME .
-bikes-pro.com CNAME .
-*.bikes-pro.com CNAME .
 bikescompetitive.com CNAME .
 *.bikescompetitive.com CNAME .
 bikeshockabsorberde.com CNAME .
@@ -3930,8 +3892,6 @@ biller-beck.com CNAME .
 *.biller-beck.com CNAME .
 billig-werkzeug.com CNAME .
 *.billig-werkzeug.com CNAME .
-billigbutlers.com CNAME .
-*.billigbutlers.com CNAME .
 billigcampings.com CNAME .
 *.billigcampings.com CNAME .
 billigelektrofahrrad.com CNAME .
@@ -4020,8 +3980,6 @@ bitcoinera.com CNAME .
 *.bitcoinera.com CNAME .
 bitcoingroup-vip.com CNAME .
 *.bitcoingroup-vip.com CNAME .
-bitcoinl3.com CNAME .
-*.bitcoinl3.com CNAME .
 bitcoinmotion.com CNAME .
 *.bitcoinmotion.com CNAME .
 bitcoins-central.com CNAME .
@@ -7122,8 +7080,6 @@ evatrailer.com CNAME .
 *.evatrailer.com CNAME .
 evbam.com CNAME .
 *.evbam.com CNAME .
-evelinsaul.com CNAME .
-*.evelinsaul.com CNAME .
 eveningdressesonsale.com CNAME .
 *.eveningdressesonsale.com CNAME .
 everdeedy.com CNAME .
@@ -21326,8 +21282,6 @@ ayola.de CNAME .
 *.ayola.de CNAME .
 azadgrill-poesneck.de CNAME .
 *.azadgrill-poesneck.de CNAME .
-azarat.de CNAME .
-*.azarat.de CNAME .
 azzunto.de CNAME .
 *.azzunto.de CNAME .
 b-chauffage.de CNAME .
@@ -21512,8 +21466,6 @@ bergmann-mode.de CNAME .
 *.bergmann-mode.de CNAME .
 bergmannmode.de CNAME .
 *.bergmannmode.de CNAME .
-bergundpfadshop.de CNAME .
-*.bergundpfadshop.de CNAME .
 bergxperten.de CNAME .
 *.bergxperten.de CNAME .
 berk-designs.de CNAME .
@@ -21552,8 +21504,6 @@ beschlaegeprofi.de CNAME .
 *.beschlaegeprofi.de CNAME .
 bessere-reifen.de CNAME .
 *.bessere-reifen.de CNAME .
-bessererbaumarkt.de CNAME .
-*.bessererbaumarkt.de CNAME .
 best-garden24.de CNAME .
 *.best-garden24.de CNAME .
 best-grow.de CNAME .
@@ -21608,8 +21558,6 @@ bewolken.de CNAME .
 *.bewolken.de CNAME .
 beziehungspersoenlichkeit.de CNAME .
 *.beziehungspersoenlichkeit.de CNAME .
-bhubbeauty.de CNAME .
-*.bhubbeauty.de CNAME .
 biabe.de CNAME .
 *.biabe.de CNAME .
 bienll.de CNAME .
@@ -21644,8 +21592,6 @@ bikeskraft.de CNAME .
 *.bikeskraft.de CNAME .
 bikiniskin.de CNAME .
 *.bikiniskin.de CNAME .
-bildhauerey.de CNAME .
-*.bildhauerey.de CNAME .
 billigdesignerkleidung.de CNAME .
 *.billigdesignerkleidung.de CNAME .
 billigerstore.de CNAME .
@@ -21654,14 +21600,8 @@ billighandyhullen.de CNAME .
 *.billighandyhullen.de CNAME .
 billigmoebel.de CNAME .
 *.billigmoebel.de CNAME .
-billigphilliplim.de CNAME .
-*.billigphilliplim.de CNAME .
-billigrlx.de CNAME .
-*.billigrlx.de CNAME .
 billigrolexuhren.de CNAME .
 *.billigrolexuhren.de CNAME .
-billigwunder24.de CNAME .
-*.billigwunder24.de CNAME .
 billigzegna.de CNAME .
 *.billigzegna.de CNAME .
 billydeals24.de CNAME .
@@ -30350,8 +30290,6 @@ bestoil24.net CNAME .
 *.bestoil24.net CNAME .
 bitcoin-trader.net CNAME .
 *.bitcoin-trader.net CNAME .
-area.bitnixer.net CNAME .
-*.area.bitnixer.net CNAME .
 bizcox.net CNAME .
 *.bizcox.net CNAME .
 boursecapital.net CNAME .
@@ -33754,8 +33692,6 @@ grandsoft.uz CNAME .
 *.grandsoft.uz CNAME .
 allyours.vip CNAME .
 *.allyours.vip CNAME .
-batsedgx.vip CNAME .
-*.batsedgx.vip CNAME .
 breville.vip CNAME .
 *.breville.vip CNAME .
 coinbasen.vip CNAME .

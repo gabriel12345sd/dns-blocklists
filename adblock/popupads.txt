@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 09:50 UTC
-! Version: 2026.0702.0950.10
+! Last modified: 02 Jul 2026 18:10 UTC
+! Version: 2026.0702.1810.16
 ! Syntax: AdBlock
-! Number of entries: 57007
+! Number of entries: 56921
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -336,7 +336,6 @@
 ||rf.atopjasz.com^
 ||go1.atre.work^
 ||zy.atrenclaypan.shop^
-||fb.atropingtc.digital^
 ||al.attabalyttrias.top^
 ||ni.atticeveigle.com^
 ||yo.attuneuvito.com^
@@ -355,8 +354,6 @@
 ||cu.awaiterovey.com^
 ||soft.awaysoft.com^
 ||xz.awestcauk.com^
-||weeped.awinkflamers.top^
-||ha.awiswara.shop^
 ||amerb.awkbkkqkqejlv.top^
 ||iw.awolhalling.com^
 ||a63452c77db78f54b.awsglobalaccelerator.com^
@@ -365,10 +362,8 @@
 ||ns1.awsnameservers.com^
 ||ns2.awsnameservers.com^
 ||s.axioporn.online^
-||leaks.axstoneaulic.top^
 ||pc.axungefauns.world^
 ||zb.ayapanatwicer.com^
-||ce.ayinsubsets.top^
 ||aoaa.aykqyjzwekwyr.top^
 ||aakr.ayzylwqryabab.top^
 ||rn.azilutcompreg.com^
@@ -385,7 +380,6 @@
 ||a0be2a7d71.b3bdc7e743.com^
 ||708ec1c33c.b4a03471a7.com^
 ||85dcec5317.b8763ae795.com^
-||404049b454.b9de82bb39.com^
 ||zp.babboolcellose.shop^
 ||lp.babpolish.com^
 ||rh.baccharreapply.com^
@@ -395,7 +389,6 @@
 ||es.bagwigsquietus.com^
 ||lk.bahaywriggly.com^
 ||be.bahimatittlin.com^
-||ia.bajuryvulgars.top^
 ||za.balderalrune.com^
 ||xi.baldscatkins.com^
 ||uk.balerdoits.com^
@@ -420,7 +413,6 @@
 ||capinfoproreport.batiactu.com^
 ||aw.battiesnarras.com^
 ||fc.baudspunners.com^
-||zg.bayboltlarva.top^
 ||qg.bayetadutch.click^
 ||mb.baywoodeastlin.com^
 ||track.bcvc.mobi^
@@ -440,28 +432,18 @@
 ||cv.beglarecartels.com^
 ||ij.begobswider.com^
 ||kp.begohmencelia.shop^
-||mf.begowktimbers.help^
 ||nf.begumsbandi.com^
 ||ni.beigekismat.com^
 ||te.bejazzsartor.shop^
 ||ng.belickzoeae.shop^
 ||ba.benchergodpapa.com^
 ||li.benefitsiroc.com^
-||zc.benzoinserose.cyou^
 ||ce.berejacobus.top^
 ||xs.bernesesamp.com^
-||kexmrj.bestafair.net^
-||pqnjj.bestafair.com^
-||pxkxb.bestafair.com^
-||eolnm.bestaffaiirs.net^
-||nrwkax.bestaffaiirs.net^
-||eljxrb.bestaffairs.net^
-||rbbwj.bestaffairs.net^
 ||vozmj.bestdatiingplace.com^
 ||e.bestof51.org^
 ||ml.bethelkamik.com^
 ||qr.betidedlocket.shop^
-||go.betobet.net^
 ||go.aff.betplays.com^
 ||casino.betsson.com^
 ||eg.bettaninons.com^
@@ -469,7 +451,6 @@
 ||rc.beykishen.com^
 ||hc.beylicbesmile.com^
 ||ye.bhpzoaea.com^
-||go1.bhunif.com^
 ||bk.bi.bi.ai^
 ||brs.bi09aso-yo.xyz^
 ||wi.biabopuris.com^
@@ -483,7 +464,6 @@
 ||solanos.bimbofress.world^
 ||tj.bingoputlog.shop^
 ||hethongnoibo.bio.link^
-||jb.bipedalpelmata.top^
 ||rm.birdeangioid.com^
 ||short.bitchute.com^
 ||pw.bittingwrongdo.com^
@@ -498,7 +478,6 @@
 ||gc.bleckaugrim.com^
 ||ws.blesseschazzen.com^
 ||register.blissfulltimes.com^
-||blog.blit.ly^
 ||of.blockyulex.com^
 ||add-friendso.blogspot.com^
 ||mamakatu42.blogspot.com^
@@ -5216,7 +5195,6 @@
 ||093244.com^
 ||093d53d7fc9963f1bd9bae2291541321112775fd107880415dfb70e1.com^
 ||0948x.com^
-||096243309f.com^
 ||098.me^
 ||098.name^
 ||0980b6e8fe.com^
@@ -8562,7 +8540,6 @@
 ||61d7a302a1.com^
 ||61dp.com^
 ||61ds.com^
-||61e564cc00.com^
 ||61fe2d132b.com^
 ||61t2ll6yy.com^
 ||6215.cc^
@@ -8815,7 +8792,6 @@
 ||80ee887d8f.com^
 ||80thz.com^
 ||80zk.cn^
-||81015449c0.com^
 ||812555.com^
 ||81654.com^
 ||8184.cc^
@@ -9117,7 +9093,6 @@
 ||a7a.com^
 ||a7sqltools.com^
 ||a89da11668.com^
-||a8aebc73ca.com^
 ||a9562f872f.com^
 ||a9684972c2.com^
 ||aa1144.com^
@@ -12540,7 +12515,6 @@
 ||atmewtwochan.com^
 ||atmsat.com^
 ||atmtaoda.com^
-||atmyeducat.org^
 ||atnhkodwem.com^
 ||atnyfnjwavesm.com^
 ||atodiler.com^
@@ -12550,7 +12524,6 @@
 ||atonato.de^
 ||atonementhootcongratulate.com^
 ||atonementimmersedlacerate.com^
-||atonygrieben.top^
 ||atorent.site^
 ||atpanchama.com^
 ||atpawniarda.com^
@@ -12578,7 +12551,6 @@
 ||attacksdecisioncafeteria.com^
 ||attainfacilitatetraumatic.com^
 ||attaingeoffrey.com^
-||attainthreatfluffy.com^
 ||attemptingthoroughfareswoop.com^
 ||attemptreservoirangrily.com^
 ||attemptsstately.com^
@@ -12688,7 +12660,6 @@
 ||auftassomt.com^
 ||augacuphub.com^
 ||augailou.com^
-||augejoulser.net^
 ||augerzaffer.click^
 ||aughaitoaph.com^
 ||aughjcqpfvn.com^
@@ -12772,7 +12743,6 @@
 ||authorizesock.com^
 ||authorizevanquishcovering.com^
 ||authorsradius.com^
-||autismspassers.cyou^
 ||autismwatersafety.org^
 ||auto-ads6.site^
 ||auto-save-plus.com^
@@ -12780,7 +12750,6 @@
 ||autobup.com^
 ||autodour.com^
 ||autoelectriciansheffield.com^
-||autoflowbin.cyou^
 ||autoleasespro.com^
 ||automatad.com^
 ||automatedtraffic.com^
@@ -12791,7 +12760,6 @@
 ||automaticencodewept.com^
 ||automaticturkey.com^
 ||automobiledeem.com^
-||autoportgen.space^
 ||autopsyextendedyou.com^
 ||autoscurt24.de^
 ||autosound.cn^
@@ -12827,8 +12795,6 @@
 ||avengeradblocker.com^
 ||aveninetritish.com^
 ||avenuephantomfainted.com^
-||aversionatrocious.com^
-||aversionrestore.com^
 ||aveuglediking.com^
 ||avglvolxsgfkp.site^
 ||avhbnnljlzfa.com^
@@ -12840,7 +12806,6 @@
 ||avionicasaltamontes.com^
 ||avjbjbekaaaev.top^
 ||avlmy.com^
-||avlsjb.com^
 ||avning.com^
 ||avocams.com^
 ||avocetriches.com^
@@ -12924,7 +12889,6 @@
 ||awempire.com^
 ||awempt.com^
 ||awemwh.com^
-||awenn.cn^
 ||awentw.com^
 ||aweproto.com^
 ||aweprotostatic.com^
@@ -12958,7 +12922,6 @@
 ||awkbkkqkqmmva.top^
 ||awkward-body.pro^
 ||awkward-clue.com^
-||awkward-director.com^
 ||awkwardemergency.com^
 ||awkwardextension.pro^
 ||awkwardtelegram.com^
@@ -12995,7 +12958,6 @@
 ||axhkkigc.com^
 ||axhoqjpimjfo.com^
 ||axhowsbpupab.com^
-||axhqzjtpfwrfg.tech^
 ||axiaffiliates.com^
 ||axillovely.com^
 ||axiomaticanger.com^
@@ -13021,12 +12983,10 @@
 ||ay.delivery^
 ||ay267.com^
 ||ayads.co^
-||ayagirbxqzmkt.global^
 ||ayakyualjj.com^
 ||ayarkkbmakkja.top^
 ||ayarkkbmakvjj.top^
 ||aycrxa.com^
-||ayencc.top^
 ||ayensexilic.com^
 ||ayfixvgbijkba.online^
 ||ayghoddmrzret.space^
@@ -13037,7 +12997,6 @@
 ||aymaraalgins.com^
 ||aymoabxgahihu.world^
 ||aymomaxssspsr.site^
-||ayoukpts.guru^
 ||aypa8.com^
 ||aypgkxgnetnxd.site^
 ||ayqdjausppwxom.com^
@@ -13053,12 +13012,10 @@
 ||azbjjbwvqozvj.top^
 ||azbtyfvqjuiyc.store^
 ||azegraigroako.net^
-||azeleiljkpywl.vip^
 ||azenka.one^
 ||azeriondigital.com^
 ||azgpciab.com^
 ||azgsulgfakux.com^
-||azideavicide.top^
 ||azjmp.com^
 ||azjuilzwebhss.com^
 ||azkwwrejomwjb.top^
@@ -13071,9 +13028,6 @@
 ||aznapoz.info^
 ||azoniumtiangue.top^
 ||azoogleads.com^
-||azorbe.com^
-||azoteabullety.cfd^
-||azotesdanian.cyou^
 ||azotizeloofas.com^
 ||azovo.com^
 ||azow.org^
@@ -13184,7 +13138,6 @@
 ||badsecs.com^
 ||badskies.com^
 ||badspads.com^
-||badtopwitch.work^
 ||bafflecouriernoble.com^
 ||bafflesatindaylight.com^
 ||bafyiwdcpkbkk.online^
@@ -13200,7 +13153,6 @@
 ||baggyrepackingrocky.com^
 ||baggywave.pro^
 ||bagliaroutside.com^
-||bagmanhousel.shop^
 ||bagnfqmhhbkdt.online^
 ||bagpipemonogamypercent.com^
 ||bagsgarnish.com^
@@ -13221,10 +13173,8 @@
 ||baijinjy.com^
 ||bailiffstrapwanted.com^
 ||bailiffzealous.com^
-||bailliedormin.shop^
 ||baipahanoop.net^
 ||bairnssmile.com^
-||baisakhnainsel.shop^
 ||baitdyed.com^
 ||baitenthenaga.com^
 ||baithoopsoavopu.com^
@@ -13257,7 +13207,6 @@
 ||baletingo.com^
 ||balkcarious.com^
 ||ballcrown.com^
-||balldollars.com^
 ||ballet-bandage.com^
 ||ballettrespassinfantry.com^
 ||ballisticforgotten.com^
@@ -13281,7 +13230,6 @@
 ||bananasrevolveoccupy.com^
 ||banclip.com^
 ||bandageretaliateemail.com^
-||banddisordergraceless.com^
 ||bandisoft.org^
 ||bandizip.pro^
 ||bandoraclink.com^
@@ -13364,7 +13312,6 @@
 ||barleyconsequently.com^
 ||barlo.xyz^
 ||barmanonymity.shop^
-||barmingorrhoid.shop^
 ||barnabaskeyholeobey.com^
 ||barnabaslinger.com^
 ||barnaclecocoonjest.com^
@@ -13390,7 +13337,6 @@
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
 ||basementyachtendorsement.com^
-||basenjikusha.cfd^
 ||baseporno.com^
 ||basepush.com^
 ||basesfiles.com^
@@ -13417,7 +13363,6 @@
 ||basketballbelieve.com^
 ||basketballshameless.com^
 ||basketballstars.app^
-||basnetjosip.cyou^
 ||basogadenied.com^
 ||bassalone.com^
 ||bassoonavatara.com^
@@ -13456,7 +13401,6 @@
 ||bauptost.net^
 ||bavaria-cup.ru^
 ||bavdxafbegkvr.space^
-||bavettefiglike.shop^
 ||bawatklitj.com^
 ||bawixi.xyz^
 ||bawlerhanoi.website^
@@ -13481,7 +13425,6 @@
 ||bb628.top^
 ||bb63136099.com^
 ||bbatkopeyuogn.website^
-||bbbbspbcka.cc^
 ||bbbmtdcv.com^
 ||bbcrgate.com^
 ||bbd834il.de^
@@ -13492,7 +13435,6 @@
 ||bbhszcabrptsq.space^
 ||bbimacfomotju.com^
 ||bbipawjflxpct.site^
-||bbjzly.top^
 ||bbkwxjbvj.com^
 ||bblck.me^
 ||bbltdkrbdhap.com^
@@ -13514,7 +13456,6 @@
 ||bcaahcahnt.com^
 ||bcafchldfejnd.online^
 ||bcdas8.com^
-||bcdpbzif.icu^
 ||bcgame.top^
 ||bcgwetajinklt.website^
 ||bcgzqzjkyjmfd.store^
@@ -13536,7 +13477,6 @@
 ||bd51static.com^
 ||bdatmrfm.com^
 ||bdbc7dce8e.com^
-||bdblpy.top^
 ||bdcuudklnavrn.net^
 ||bdd549304d.com^
 ||bddhprzriicus.world^
@@ -13588,7 +13528,6 @@
 ||beatforumsubstitute.com^
 ||beatingvoid.com^
 ||beauismflavous.com^
-||beautiful-rub.pro^
 ||beautifulcater.com^
 ||beautifulintention.pro^
 ||beautifulphysical.pro^
@@ -13605,12 +13544,10 @@
 ||bebi.com^
 ||becametotalrepeat.com^
 ||bechatotan.com^
-||bechicreseeds.world^
 ||becketcoffee.com^
 ||beckmysterious.com^
 ||beckonindoin.shop^
 ||beckoning-whitecat.com^
-||becksplagium.cfd^
 ||beckybread.com^
 ||becomeapartner.io^
 ||becomeolder.com^
@@ -13620,7 +13557,6 @@
 ||becrustleom.com^
 ||bedaslonejul.cc^
 ||beddingfetched.com^
-||bedirtdunt.cfd^
 ||bedlessresizes.com^
 ||bedodrioer.com^
 ||bedodrioon.com^
@@ -13672,9 +13608,7 @@
 ||begolbatan.com^
 ||begolettan.com^
 ||begonaoidausek.com^
-||begorraagents.click^
 ||begracetindery.com^
-||begrimecolter.shop^
 ||begun.ru^
 ||behalfplead.com^
 ||behave.com^
@@ -13752,7 +13686,6 @@
 ||beltenefloit.com^
 ||belterglaikit.com^
 ||beludicolor.com^
-||belwrite.com^
 ||bemachopor.com^
 ||bemate.com^
 ||bemiresunlevel.com^
@@ -13787,7 +13720,6 @@
 ||bennetguarantee.com^
 ||bennettlawbirmingham.com^
 ||benoopto.com^
-||bensheesneer.shop^
 ||bensonshowd.com^
 ||bentpersuasive.com^
 ||bentsdiorism.com^
@@ -13863,8 +13795,6 @@
 ||bestadsforyou.com^
 ||bestaffaiir.com^
 ||bestaffaiirs.com^
-||bestafffaiir.com^
-||bestafffaiir.net^
 ||bestafffair.com^
 ||bestafffair.net^
 ||bestanimegame.com^
@@ -13911,7 +13841,6 @@
 ||besthitsnow.com^
 ||bestiegirl.com^
 ||bestinfinitelovelinks.com^
-||bestmmogame.com^
 ||bestmoviesflix.xyz^
 ||bestoacmoaltou.net^
 ||bestodds.com^
@@ -13928,14 +13857,10 @@
 ||bestproducttesters.com^
 ||bestratedelectricbike.com^
 ||bestrevenuenetwork.com^
-||bestsmartvpn.com^
-||beststreamvpn.com^
-||bestsummernails.com^
 ||bestsurferprotector.com^
 ||bestsweetconnection.com^
 ||besttmatch.net^
 ||besttreasurecoastroofing.com^
-||bestudsdriest.top^
 ||bestunfollow.com^
 ||bestway-france.com^
 ||bestxchat.net^
@@ -13994,7 +13919,6 @@
 ||betterswering.shop^
 ||bettertogetheer.com^
 ||bettinginvulnerablebarbed.com^
-||bettingmet.com^
 ||bettingpartners.com^
 ||bettingsomeone.com^
 ||bettogel.shop^
@@ -14014,22 +13938,16 @@
 ||betzapdoson.com^
 ||betzone2000.com^
 ||beverageprivacywhom.com^
-||bevfpfekwskzg.world^
 ||bewailindigestionunhappy.com^
 ||bewailknotcorruption.com^
-||bewailsitcze.cfd^
 ||bewailwheelsdisloyal.com^
 ||bewathis.com^
-||bewearycommit.shop^
-||bewgfbytrstaz.space^
 ||bewhidare.com^
 ||bewilderedblade.com^
-||bewiredfrument.shop^
 ||bewitched-display.pro^
 ||bewitched-landscape.com^
 ||bewitchedbybeauty.com^
 ||bewitchedpin.pro^
-||bewitchedrate.com^
 ||bewitchtower.com^
 ||bewoobaton.com^
 ||beyanmaan.com^
@@ -14096,7 +14014,6 @@
 ||bhrltiziiipad.website^
 ||bhshm.com^
 ||bhtuukgrerzjmchn.com^
-||bhutiamoony.world^
 ||bi333.com^
 ||biancasunlit.com^
 ||biancheng5.com^
@@ -14148,7 +14065,6 @@
 ||bigdatajsext.com^
 ||bigelowcleaning.com^
 ||bigfubook.com^
-||biggedchocard.com^
 ||biggerluck.com^
 ||bighasslebacked.com^
 ||bighearted-cloud.com^
@@ -14226,7 +14142,6 @@
 ||biodegradablegrand.com^
 ||biodegradablesky.com^
 ||biodegradableyellow.pro^
-||biolithberm.top^
 ||biologicaldeveloped.com^
 ||biopsyardoursheriff.com^
 ||biopsybookshelf.com^
@@ -14250,7 +14165,6 @@
 ||bisabsaroaz.net^
 ||bisairtooneep.net^
 ||bisaxdovvatb.com^
-||biscuitmortify.com^
 ||bisetsoliped.com^
 ||bistadaka.com^
 ||bit-ad.com^
@@ -14271,7 +14185,6 @@
 ||bitesized-resident.pro^
 ||bitesized-script.pro^
 ||bitesized-yard.com^
-||bitforestgreen.com^
 ||bitgetnextlevel666.com^
 ||bithow.com^
 ||bitingauthors.com^
@@ -14293,7 +14206,6 @@
 ||biuealqjtqkyk.website^
 ||bivsawomqp.com^
 ||bivvmhkimlqzq.store^
-||bivvywhoot.top^
 ||biwei-cn.com^
 ||biwipuque.com^
 ||biwmurtpr.xyz^
@@ -14325,7 +14237,6 @@
 ||bjjky.cfd^
 ||bjlsvzikxpjxq.space^
 ||bjokokdeoccv.com^
-||bjsvp35.space^
 ||bjtvacwkzetxc.store^
 ||bjvhcjulwwnmk.space^
 ||bjxusfnfstjae.online^
@@ -14335,7 +14246,6 @@
 ||bkjcspqtrlafh.online^
 ||bkjgqyasbalgk.website^
 ||bkjhqkohal.com^
-||bklbwrqp.icu^
 ||bklhutjteyhiye.com^
 ||bknkkqjlpwm.xyz^
 ||bkpmmpsqgluwj.online^
@@ -14391,7 +14301,6 @@
 ||blainhokiest.com^
 ||blamads.com^
 ||blamingnuclearplasma.com^
-||blancgraip.com^
 ||blancoshrimp.com^
 ||blandalternative.pro^
 ||blandapantos.top^
@@ -23592,6 +23501,7 @@
 ||famsmdfn.net^
 ||famtepsooluhe.net^
 ||fanatics.bet^
+||fanbox.autos^
 ||fanbox.help^
 ||fancifuidates.net^
 ||fancyactivity.com^
@@ -39301,6 +39211,7 @@
 ||oqxgslayjonn.com^
 ||oraearshin.com^
 ||oralismyelloch.com^
+||orange-convert.pro^
 ||orange-guitar.pro^
 ||orangeads.fr^
 ||orangeassistant.pro^
@@ -47583,6 +47494,7 @@
 ||sourshaped.com^
 ||sousefulhead.com^
 ||sousehushoa.net^
+||souszhi.com^
 ||southabsorbed.com^
 ||southbrave.com^
 ||southernbreakdown.com^
@@ -48316,6 +48228,7 @@
 ||stootsou.net^
 ||stoowipicke.com^
 ||stop-adblocker.info^
+||stopads-now.com^
 ||stopadzblock.net^
 ||stoparmature.com^
 ||stopblockads.com^
@@ -53833,6 +53746,7 @@
 ||wdtryisrzshiw.space^
 ||wdwadkgqylntz.space^
 ||wdyrupcbmvwt.com^
+||we-offer.com^
 ||weakcompromise.com^
 ||weakdesire.pro^
 ||weakermumrespect.com^

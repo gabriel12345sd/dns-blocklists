@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 09:52 UTC
-! Version: 2026.0702.0952.07
+! Last modified: 02 Jul 2026 18:12 UTC
+! Version: 2026.0702.1812.55
 ! Syntax: AdBlock
-! Number of entries: 16969
+! Number of entries: 16937
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -41,7 +41,6 @@
 ||o.bglgtzht83.life^
 ||app.bilinterface.com^
 ||m.bit2meua.com^
-||area.bitnixer.net^
 ||projetxtreme.blogspot.fr^
 ||www.crypto2.bnd-group.com^
 ||web.bossaapp.com^
@@ -1592,7 +1591,6 @@
 ||atvelektro.de^
 ||au-meds.com^
 ||auclimited.cc^
-||audazza.com^
 ||audelion.de^
 ||audiencabee.com^
 ||audienceg.com^
@@ -1608,7 +1606,6 @@
 ||aufsperrdienst-hilfe.at^
 ||aufsperrdienst-service.at^
 ||aufsperrhilfe.at^
-||augenbrauenlidschatten.com^
 ||augennstern.com^
 ||augsburgerkunstschachtel.de^
 ||auntsunclestassen.com^
@@ -1638,7 +1635,6 @@
 ||aurum-fix-corp.com^
 ||aurum-foundation.com^
 ||ausgewalhtheim.de^
-||auspitz-shop.com^
 ||aussiecarsupplies.com^
 ||australiannewstoday.com^
 ||australianonlinepharmacy.org^
@@ -1699,7 +1695,6 @@
 ||autoteile-waschlowsky.de^
 ||autoteile-wf.de^
 ||autoteileanton.de^
-||autoteiledirektde.com^
 ||autoteilefachmarkt.de^
 ||autoteileharbor.com^
 ||autoteilejetzt.com^
@@ -1752,7 +1747,6 @@
 ||awirer.com^
 ||awishday.com^
 ||awo-baumarkt.de^
-||ax-trading.com^
 ||axatechviewou.com^
 ||axelarigatojapan.net^
 ||axelarigatooslo.com^
@@ -1763,7 +1757,6 @@
 ||axiogenesis.com^
 ||axiomdealslab.shop^
 ||axioswatches.com^
-||axismakup.com^
 ||axl-staking.de^
 ||axmof.de^
 ||axpsv.com^
@@ -1776,7 +1769,6 @@
 ||ayola.de^
 ||ayqeha.shop^
 ||azadgrill-poesneck.de^
-||azarat.de^
 ||azeluna.com^
 ||azfittings-shop.com^
 ||azielstore.com^
@@ -1784,7 +1776,6 @@
 ||azuremodule.com^
 ||azzunto.de^
 ||b-chauffage.de^
-||b-und-h.com^
 ||b196kaufen.de^
 ||b2b-consulting.net^
 ||b2b-sphere.de^
@@ -1808,7 +1799,6 @@
 ||babyschlafsack-abc.de^
 ||babyseat-shop.com^
 ||babysetonline.shop^
-||babyshark88h.com^
 ||babytoysangebote.de^
 ||babywarepromo.com^
 ||babyweltde.com^
@@ -1838,8 +1828,6 @@
 ||bagfashionhub.com^
 ||baggu-eu.com^
 ||bags-boxes.com^
-||bagtrendshop.com^
-||baguesdefiancailles.com^
 ||bahiwa.com^
 ||bahnemanninvest.net^
 ||bahnhof-apotheke-hersbruck.de^
@@ -1899,7 +1887,6 @@
 ||barbourgermany.de^
 ||barfuss--schuhe.com^
 ||barfussbalance.de^
-||bargainbayou.com^
 ||bargainqueensdiscount.com^
 ||bargnee.com^
 ||baristadiscount.com^
@@ -1926,7 +1913,6 @@
 ||basquetestoreacd.com^
 ||bassbet1.com^
 ||bassbetcasino-online.de^
-||bassiami.com^
 ||basspool.de^
 ||baswad.com^
 ||batchof.com^
@@ -1934,7 +1920,6 @@
 ||bates-boots.com^
 ||bathroomdisplay.com^
 ||bathroomstylish.com^
-||batsedgx.vip^
 ||bau-profis24.de^
 ||baubali.com^
 ||bauen-shop-de.com^
@@ -2050,16 +2035,12 @@
 ||beiermode.de^
 ||beiids.com^
 ||beinfit.de^
-||beingpick.click^
-||beipartners.com^
 ||beja.shop^
 ||bekleidunggadgets.com^
 ||bekleidungonstore.com^
 ||bekleidungsoutlet.com^
 ||bekos.at^
-||belarismall.com^
 ||belbachirconcept.com^
-||belenkawien.at^
 ||beleuchtung-online.com^
 ||beleuchtungprada.com^
 ||belezapreventiva.com^
@@ -2116,13 +2097,11 @@
 ||berglust.shop^
 ||bergmann.com^
 ||bergmann-dusseldorf.de^
-||bergmann-mode.ch^
 ||bergmann-mode.de^
 ||bergmanngoldschmied.com^
 ||bergmannmode.de^
 ||bergmode.ch^
 ||bergstrommotorsport.com^
-||bergundpfadshop.de^
 ||bergwalt-mode.com^
 ||bergwanderershop.com^
 ||bergwerkpunk.com^
@@ -2171,7 +2150,6 @@
 ||besseregesudheit.com^
 ||besseregesundheit.com^
 ||besseregesunheit.com^
-||bessererbaumarkt.de^
 ||best-apotheke.online^
 ||best-bike-outdoor.com^
 ||best-camping-deals.com^
@@ -2281,7 +2259,6 @@
 ||beweich.de^
 ||bewerte-den-shop.de^
 ||bewolken.de^
-||bexisassets.com^
 ||bextradefx.online^
 ||beze.co^
 ||beziehungspersoenlichkeit.de^
@@ -2297,7 +2274,6 @@
 ||bglshop.at^
 ||bhajandarshan.com^
 ||bhmbp.com^
-||bhubbeauty.de^
 ||bhuvikasolar.online^
 ||biabe.de^
 ||bicelio.com^
@@ -2365,7 +2341,6 @@
 ||bikerentalnearcentralpark.com^
 ||bikerimtapede.com^
 ||bikerkultur.com^
-||bikes-pro.com^
 ||bikesattel.at^
 ||bikescompetitive.com^
 ||bikeshockabsorberde.com^
@@ -2381,14 +2356,12 @@
 ||bikiniskin.de^
 ||biladishop.com^
 ||bilago.com^
-||bildhauerey.de^
 ||bildsieg.com^
 ||billabongwien.at^
 ||billardpros.com^
 ||billardsportshop.com^
 ||biller-beck.com^
 ||billig-werkzeug.com^
-||billigbutlers.com^
 ||billigcampings.com^
 ||billigdesignerkleidung.de^
 ||billigelektrofahrrad.com^
@@ -2403,13 +2376,10 @@
 ||billighandyhullen.de^
 ||billigmoebel.de^
 ||billigmountainbike.com^
-||billigphilliplim.de^
-||billigrlx.de^
 ||billigrolexuhren.de^
 ||billigschuh.com^
 ||billiguhrenshops.com^
 ||billigwerkzeug.com^
-||billigwunder24.de^
 ||billigzegna.de^
 ||billydeals24.de^
 ||biltaskerabatt.com^
@@ -2471,7 +2441,6 @@
 ||bitcoineer.de^
 ||bitcoinera.com^
 ||bitcoingroup-vip.com^
-||bitcoinl3.com^
 ||bitcoinmotion.com^
 ||bitcoinmotion.io^
 ||bitcoinrevolution.org^
@@ -5130,7 +5099,6 @@
 ||evansdplaw.com^
 ||evatrailer.com^
 ||evbam.com^
-||evelinsaul.com^
 ||evelline.de^
 ||evelo.shop^
 ||eveningdressesonsale.com^

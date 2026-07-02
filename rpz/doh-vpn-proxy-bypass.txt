@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782988860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783019880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 10:41 UTC
-; Version: 2026.0702.1041.08
+; Last modified: 02 Jul 2026 19:18 UTC
+; Version: 2026.0702.1918.54
 ; Syntax: RPZ
-; Number of entries: 34408
+; Number of entries: 34318
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -4685,8 +4685,6 @@ auronvpn.com CNAME .
 *.auronvpn.com CNAME .
 aurorajiasu.com CNAME .
 *.aurorajiasu.com CNAME .
-www.securly.com.australianwildharvest.com CNAME .
-*.www.securly.com.australianwildharvest.com CNAME .
 auth-secure-socket.com CNAME .
 *.auth-secure-socket.com CNAME .
 autobilly.com CNAME .
@@ -4759,58 +4757,6 @@ b9b7099bb27a6ea166072732a91324d6a836ec39.com CNAME .
 *.b9b7099bb27a6ea166072732a91324d6a836ec39.com CNAME .
 babelsnow.com CNAME .
 *.babelsnow.com CNAME .
-education.babushkamail.com CNAME .
-*.education.babushkamail.com CNAME .
-education1082.babushkamail.com CNAME .
-*.education1082.babushkamail.com CNAME .
-education123.babushkamail.com CNAME .
-*.education123.babushkamail.com CNAME .
-education12897.babushkamail.com CNAME .
-*.education12897.babushkamail.com CNAME .
-education13232.babushkamail.com CNAME .
-*.education13232.babushkamail.com CNAME .
-education14195.babushkamail.com CNAME .
-*.education14195.babushkamail.com CNAME .
-education15257.babushkamail.com CNAME .
-*.education15257.babushkamail.com CNAME .
-education18968.babushkamail.com CNAME .
-*.education18968.babushkamail.com CNAME .
-education19066.babushkamail.com CNAME .
-*.education19066.babushkamail.com CNAME .
-education21336.babushkamail.com CNAME .
-*.education21336.babushkamail.com CNAME .
-education23400.babushkamail.com CNAME .
-*.education23400.babushkamail.com CNAME .
-education23695.babushkamail.com CNAME .
-*.education23695.babushkamail.com CNAME .
-education25932.babushkamail.com CNAME .
-*.education25932.babushkamail.com CNAME .
-education26144.babushkamail.com CNAME .
-*.education26144.babushkamail.com CNAME .
-education27423.babushkamail.com CNAME .
-*.education27423.babushkamail.com CNAME .
-education29217.babushkamail.com CNAME .
-*.education29217.babushkamail.com CNAME .
-education30974.babushkamail.com CNAME .
-*.education30974.babushkamail.com CNAME .
-education31880.babushkamail.com CNAME .
-*.education31880.babushkamail.com CNAME .
-education32550.babushkamail.com CNAME .
-*.education32550.babushkamail.com CNAME .
-education32619.babushkamail.com CNAME .
-*.education32619.babushkamail.com CNAME .
-education4391.babushkamail.com CNAME .
-*.education4391.babushkamail.com CNAME .
-education5394.babushkamail.com CNAME .
-*.education5394.babushkamail.com CNAME .
-education6353.babushkamail.com CNAME .
-*.education6353.babushkamail.com CNAME .
-education6833.babushkamail.com CNAME .
-*.education6833.babushkamail.com CNAME .
-education7035.babushkamail.com CNAME .
-*.education7035.babushkamail.com CNAME .
-education9588.babushkamail.com CNAME .
-*.education9588.babushkamail.com CNAME .
 badrsgpr.com CNAME .
 *.badrsgpr.com CNAME .
 dns.bai0012.com CNAME .
@@ -4823,18 +4769,8 @@ httpsdns.baidu.com CNAME .
 *.httpsdns.baidu.com CNAME .
 httpdns.baidubce.com CNAME .
 *.httpdns.baidubce.com CNAME .
-education.balalaikamail.com CNAME .
-*.education.balalaikamail.com CNAME .
 ballbang.com CNAME .
 *.ballbang.com CNAME .
-hint.bamastuff.com CNAME .
-*.hint.bamastuff.com CNAME .
-trig.bamastuff.com CNAME .
-*.trig.bamastuff.com CNAME .
-trigg.bamastuff.com CNAME .
-*.trigg.bamastuff.com CNAME .
-triggg.bamastuff.com CNAME .
-*.triggg.bamastuff.com CNAME .
 banana-vpn.com CNAME .
 *.banana-vpn.com CNAME .
 bananavpn.com CNAME .
@@ -5281,8 +5217,6 @@ help.billigerhost.com CNAME .
 *.help.billigerhost.com CNAME .
 bingojiasu.com CNAME .
 *.bingojiasu.com CNAME .
-birgerboy.com CNAME .
-*.birgerboy.com CNAME .
 bitaqwlx.com CNAME .
 *.bitaqwlx.com CNAME .
 tips.bitesmagazine.com CNAME .
@@ -16103,8 +16037,6 @@ nilfheim.asguardian.de CNAME .
 *.nilfheim.asguardian.de CNAME .
 auto-aufladen.de CNAME .
 *.auto-aufladen.de CNAME .
-dns.aykanbacaksoy.de CNAME .
-*.dns.aykanbacaksoy.de CNAME .
 over.bernhard-rau.de CNAME .
 *.over.bernhard-rau.de CNAME .
 v2202510290637393088.bestsrv.de CNAME .
@@ -19903,8 +19835,6 @@ dns.virtual-qr.ir CNAME .
 *.dns.virtual-qr.ir CNAME .
 xqnetwork.ir CNAME .
 *.xqnetwork.ir CNAME .
-lemonlimesuckers.barabesta.is CNAME .
-*.lemonlimesuckers.barabesta.is CNAME .
 lifeline.barabesta.is CNAME .
 *.lifeline.barabesta.is CNAME .
 welovemath89.barabesta.is CNAME .
@@ -21137,8 +21067,6 @@ ababaershop67thatscostaquartar.404.mn CNAME .
 *.ababaershop67thatscostaquartar.404.mn CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
-franzosen.bad.mn CNAME .
-*.franzosen.bad.mn CNAME .
 spaceis.bad.mn CNAME .
 *.spaceis.bad.mn CNAME .
 alumn.tests.bad.mn CNAME .
@@ -28889,8 +28817,6 @@ galaxv6-is-never-comming-out.axsetubal.pt CNAME .
 *.galaxv6-is-never-comming-out.axsetubal.pt CNAME .
 visit-portugal.axsetubal.pt CNAME .
 *.visit-portugal.axsetubal.pt CNAME .
-z.axsetubal.pt CNAME .
-*.z.axsetubal.pt CNAME .
 dnscry.pt CNAME .
 *.dnscry.pt CNAME .
 qewqew.estamoson.pt CNAME .
@@ -29339,8 +29265,6 @@ aridia.ru CNAME .
 *.aridia.ru CNAME .
 aurevia.ru CNAME .
 *.aurevia.ru CNAME .
-adguard.avavd.ru CNAME .
-*.adguard.avavd.ru CNAME .
 avo-vpn.ru CNAME .
 *.avo-vpn.ru CNAME .
 node3.b4el.ru CNAME .
@@ -30729,8 +30653,6 @@ arnsvr.site CNAME .
 *.arnsvr.site CNAME .
 artclass.site CNAME .
 *.artclass.site CNAME .
-auberge78.site CNAME .
-*.auberge78.site CNAME .
 auronsvr.site CNAME .
 *.auronsvr.site CNAME .
 auronvpn.site CNAME .
@@ -32403,20 +32325,10 @@ wheresyourmoneyhehe.bangerade.us CNAME .
 *.4.baumgardner.us CNAME .
 67.baumgardner.us CNAME .
 *.67.baumgardner.us CNAME .
-desmos.edu.baumgardner.us CNAME .
-*.desmos.edu.baumgardner.us CNAME .
 i.hate.fink.baumgardner.us CNAME .
 *.i.hate.fink.baumgardner.us CNAME .
 garden.baumgardner.us CNAME .
 *.garden.baumgardner.us CNAME .
-haha-no.one-knows.how.to.make-links.baumgardner.us CNAME .
-*.haha-no.one-knows.how.to.make-links.baumgardner.us CNAME .
-fern-is.nice.baumgardner.us CNAME .
-*.fern-is.nice.baumgardner.us CNAME .
-bun.s.baumgardner.us CNAME .
-*.bun.s.baumgardner.us CNAME .
-gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us CNAME .
-*.gn-math.is-annoying.cuz-of.the-soundboard.baumgardner.us CNAME .
 bensvpn.us CNAME .
 *.bensvpn.us CNAME .
 bluegray.us CNAME .
@@ -33373,8 +33285,6 @@ belldream.xyz CNAME .
 *.belldream.xyz CNAME .
 bestproxy.xyz CNAME .
 *.bestproxy.xyz CNAME .
-bigjimmy.xyz CNAME .
-*.bigjimmy.xyz CNAME .
 blockmesh.xyz CNAME .
 *.blockmesh.xyz CNAME .
 bluedns.xyz CNAME .
