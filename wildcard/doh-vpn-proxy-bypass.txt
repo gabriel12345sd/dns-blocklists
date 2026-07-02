@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 19:05 UTC
-# Version: 2026.0701.1905.51
+# Last modified: 02 Jul 2026 07:57 UTC
+# Version: 2026.0702.0757.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17222
+# Number of entries: 17208
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -143,7 +143,6 @@
 *.tyo.883933770.xyz
 *.dns.886886886.xyz
 *.dns.888654.xyz
-*.dns.890806.xyz
 *.rammerhead.8bit.ca
 *.tatakai001.8bit.ca
 *.arts.field.8tb.net
@@ -280,7 +279,6 @@
 *.ajlxwk4kedu5.absq.ch
 *.pebdbvi58gbc.absq.ch
 *.block.abstergo.it
-*.doh.iucc.ac.il
 *.adguard1.unima.ac.id
 *.adguard2.unima.ac.id
 *.open-resolver1.unima.ac.id
@@ -310,11 +308,9 @@
 *.dns.adguarddns.com
 *.family.adguarddns.com
 *.unfiltered.adguarddns.com
-*.dashboard.adidasnmdcitysock.com
 *.dns.adnull.com
 *.dns.adrianlam.com
 *.adguard.adrianofrongillo.ovh
-*.drive.google.com.adultboss.pl
 *.y3suyx0cg2lewi2dmn.advaitghaisas.in
 *.builtlikearat.advanced-orchestra.site
 *.tetra.aeins.at
@@ -360,10 +356,7 @@
 *.httpdns-sc.aliyuncs.com
 *.fgsdhfch.allenbarnes.com
 *.interesting.allintime.space
-*.6767676767676767676162.allisons.org
 *.676767676767676767616864.allisons.org
-*.67676767676767676762.allisons.org
-*.cool67.allisons.org
 *.fern2.allisons.org
 *.fern3.allisons.org
 *.fern4.allisons.org
@@ -430,7 +423,6 @@
 *.dsl-app.s3.us-east-2.amazonaws.com
 *.innov-windows.s3.us-east-2.amazonaws.com
 *.commandedurchin.amber-cypress.com
-*.jobixtetoyuri.ames.website
 *.dns.amigo-mgn.ru
 *.adguard.aminetwork.biz
 *.blog2.amlegion.org
@@ -7473,7 +7465,6 @@
 *.8wgohwr.online
 *.9184e7e5d684dc56def4c6186122231660620807.com
 *.91ftq.com
-*.91vpn02.cfd
 *.91zfdao.com
 *.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com
 *.935a0c6f55dc46d2dcf2522c4d8bd546.top
@@ -7706,7 +7697,6 @@
 *.admir21.ru
 *.adresseip.com
 *.adsimix.com
-*.adslimit.info
 *.adsnexage.com
 *.adsnzebv.com
 *.adsoasis.xyz
@@ -7744,7 +7734,6 @@
 *.aicx99.shop
 *.aihe.app
 *.aiiaguli.info
-*.ailivechatweb.com
 *.ailogogenerator.top
 *.ainavigate.app
 *.aioz.network
@@ -7853,7 +7842,6 @@
 *.angdwml6.com
 *.angelvpn.com
 *.angrysky.ru
-*.anhphamhn82.uk
 *.animeproxy.net
 *.aniscartujo.com
 *.anixlab.com
@@ -7861,7 +7849,6 @@
 *.annual2025.uk
 *.ano404.top
 *.anol.loan
-*.anomivpn.com
 *.anonine.com
 *.anonto.pw
 *.anonvpn.io
@@ -7898,7 +7885,6 @@
 *.aox777.xyz
 *.aoxblog.com
 *.aoxera.xyz
-*.aoxinvite.com
 *.aoxjiasu.com
 *.aoxjsq666.com
 *.aoxlink.com

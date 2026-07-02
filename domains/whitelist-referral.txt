@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 06:36 UTC
-# Version: 2026.0701.0636.05
+# Last modified: 02 Jul 2026 06:38 UTC
+# Version: 2026.0702.0638.22
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2249
+# Number of entries: 2258
 #
 1-aclk.net
 1aurl.io
@@ -388,6 +388,7 @@ seu2.cleverreach.com
 151339.seu2.cleverreach.com
 154366.seu2.cleverreach.com
 156485.seu2.cleverreach.com
+157275.seu2.cleverreach.com
 157656.seu2.cleverreach.com
 158455.seu2.cleverreach.com
 160196.seu2.cleverreach.com
@@ -450,6 +451,7 @@ seu2.cleverreach.com
 245789.seu2.cleverreach.com
 246754.seu2.cleverreach.com
 246876.seu2.cleverreach.com
+248553.seu2.cleverreach.com
 248844.seu2.cleverreach.com
 248977.seu2.cleverreach.com
 249348.seu2.cleverreach.com
@@ -547,6 +549,7 @@ seu2.cleverreach.com
 357563.seu2.cleverreach.com
 359327.seu2.cleverreach.com
 359752.seu2.cleverreach.com
+359951.seu2.cleverreach.com
 361290.seu2.cleverreach.com
 363224.seu2.cleverreach.com
 365213.seu2.cleverreach.com
@@ -570,6 +573,7 @@ seu2.cleverreach.com
 410317.seu2.cleverreach.com
 411956.seu2.cleverreach.com
 413084.seu2.cleverreach.com
+414859.seu2.cleverreach.com
 415017.seu2.cleverreach.com
 415753.seu2.cleverreach.com
 417795.seu2.cleverreach.com
@@ -815,7 +819,6 @@ open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
-07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
 104ffb11.open.convertkit-mail4.com
@@ -965,8 +968,8 @@ ssapi.ad.cpe.dotomi.com
 sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
-c80669.csd.dotomi.com
 c82564.csd.dotomi.com
+c83573.csd.dotomi.com
 c83578.csd.dotomi.com
 ad.doubleclick.net
 dpbolvw.net
@@ -1014,6 +1017,7 @@ suite26.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
 suite3.emarsys.net
+suite3-cf.emarsys.net
 suite30.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
@@ -1079,6 +1083,7 @@ ew3.io
 m.exactag.com
 tp-emea.exactag.com
 s1.exacttarget.com
+inbound.s1.exacttarget.com
 pub.s1.exacttarget.com
 s10.exacttarget.com
 bounce.s10.exacttarget.com
@@ -1099,7 +1104,6 @@ bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
 members.s12.exacttarget.com
-virt.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
@@ -1127,12 +1131,10 @@ mc.s51.exacttarget.com
 s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
-mc.s6.exacttarget.com
 members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
-virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
@@ -1157,6 +1159,7 @@ fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
+neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1310,6 +1313,7 @@ group0.sites.hscoscdn-eu1.net
 145830670.group0.sites.hscoscdn-eu1.net
 146213786.group0.sites.hscoscdn-eu1.net
 146325655.group0.sites.hscoscdn-eu1.net
+146638686.group0.sites.hscoscdn-eu1.net
 24879817.group0.sites.hscoscdn-eu1.net
 25229496.group0.sites.hscoscdn-eu1.net
 25488337.group0.sites.hscoscdn-eu1.net
@@ -1525,6 +1529,7 @@ clk.mfilter.net
 track.mfilter.net
 micpn.com
 email.microsoft.com
+bounce4.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1627,6 +1632,7 @@ mkto-ab560119.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
+mkto-ab600004.com
 mkto-ab610035.com
 mkto-ab610084.com
 mkto-ab620024.com
@@ -1682,6 +1688,7 @@ mkto-lon070192.com
 mkto-lon080006.com
 mkto-lon080059.com
 mkto-lon080118.com
+mkto-lon080147.com
 mkto-lon090040.com
 mkto-lon090045.com
 mkto-lon090082.com
@@ -1708,6 +1715,7 @@ mkto-nld1040117.com
 mkto-nld1040152.com
 mkto-nld1040186.com
 mkto-nld1050007.com
+mkto-nld1050048.com
 mkto-nld1050103.com
 mkto-nld1050130.com
 mkto-o0039.com
@@ -2252,6 +2260,7 @@ redirect.appmetrica.yandex.ru
 4541467.redirect.appmetrica.yandex.com
 4609852.redirect.appmetrica.yandex.com
 6263440.redirect.appmetrica.yandex.com
+6294319.redirect.appmetrica.yandex.com
 clck.yandex.ru
 yellowbook.com
 t.yesware.com

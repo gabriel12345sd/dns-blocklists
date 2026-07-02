@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 19:05 UTC
-# Version: 2026.0701.1905.51
+# Last modified: 02 Jul 2026 07:57 UTC
+# Version: 2026.0702.0757.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17222
+# Number of entries: 17208
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -143,7 +143,6 @@ local=/dns19.854000.xyz/
 local=/tyo.883933770.xyz/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
-local=/dns.890806.xyz/
 local=/rammerhead.8bit.ca/
 local=/tatakai001.8bit.ca/
 local=/arts.field.8tb.net/
@@ -280,7 +279,6 @@ local=/resolver3.absolight.net/
 local=/ajlxwk4kedu5.absq.ch/
 local=/pebdbvi58gbc.absq.ch/
 local=/block.abstergo.it/
-local=/doh.iucc.ac.il/
 local=/adguard1.unima.ac.id/
 local=/adguard2.unima.ac.id/
 local=/open-resolver1.unima.ac.id/
@@ -310,11 +308,9 @@ local=/dns-unfiltered.adguard.com/
 local=/dns.adguarddns.com/
 local=/family.adguarddns.com/
 local=/unfiltered.adguarddns.com/
-local=/dashboard.adidasnmdcitysock.com/
 local=/dns.adnull.com/
 local=/dns.adrianlam.com/
 local=/adguard.adrianofrongillo.ovh/
-local=/drive.google.com.adultboss.pl/
 local=/y3suyx0cg2lewi2dmn.advaitghaisas.in/
 local=/builtlikearat.advanced-orchestra.site/
 local=/tetra.aeins.at/
@@ -360,10 +356,7 @@ local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
 local=/fgsdhfch.allenbarnes.com/
 local=/interesting.allintime.space/
-local=/6767676767676767676162.allisons.org/
 local=/676767676767676767616864.allisons.org/
-local=/67676767676767676762.allisons.org/
-local=/cool67.allisons.org/
 local=/fern2.allisons.org/
 local=/fern3.allisons.org/
 local=/fern4.allisons.org/
@@ -430,7 +423,6 @@ local=/xv-client-json-configuration.s3.us-east-1.amazonaws.com/
 local=/dsl-app.s3.us-east-2.amazonaws.com/
 local=/innov-windows.s3.us-east-2.amazonaws.com/
 local=/commandedurchin.amber-cypress.com/
-local=/jobixtetoyuri.ames.website/
 local=/dns.amigo-mgn.ru/
 local=/adguard.aminetwork.biz/
 local=/blog2.amlegion.org/
@@ -7473,7 +7465,6 @@ local=/8v9m.com/
 local=/8wgohwr.online/
 local=/9184e7e5d684dc56def4c6186122231660620807.com/
 local=/91ftq.com/
-local=/91vpn02.cfd/
 local=/91zfdao.com/
 local=/9249c7687ddbc42eb7167e0e9030ef06b9528c98.com/
 local=/935a0c6f55dc46d2dcf2522c4d8bd546.top/
@@ -7706,7 +7697,6 @@ local=/adguardvpn.lol/
 local=/admir21.ru/
 local=/adresseip.com/
 local=/adsimix.com/
-local=/adslimit.info/
 local=/adsnexage.com/
 local=/adsnzebv.com/
 local=/adsoasis.xyz/
@@ -7744,7 +7734,6 @@ local=/aibuddytech.com/
 local=/aicx99.shop/
 local=/aihe.app/
 local=/aiiaguli.info/
-local=/ailivechatweb.com/
 local=/ailogogenerator.top/
 local=/ainavigate.app/
 local=/aioz.network/
@@ -7853,7 +7842,6 @@ local=/andyvpn.cc/
 local=/angdwml6.com/
 local=/angelvpn.com/
 local=/angrysky.ru/
-local=/anhphamhn82.uk/
 local=/animeproxy.net/
 local=/aniscartujo.com/
 local=/anixlab.com/
@@ -7861,7 +7849,6 @@ local=/anker-beton.ru/
 local=/annual2025.uk/
 local=/ano404.top/
 local=/anol.loan/
-local=/anomivpn.com/
 local=/anonine.com/
 local=/anonto.pw/
 local=/anonvpn.io/
@@ -7898,7 +7885,6 @@ local=/aox666.com/
 local=/aox777.xyz/
 local=/aoxblog.com/
 local=/aoxera.xyz/
-local=/aoxinvite.com/
 local=/aoxjiasu.com/
 local=/aoxjsq666.com/
 local=/aoxlink.com/

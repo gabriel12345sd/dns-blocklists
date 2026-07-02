@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jul 2026 18:05 UTC
-# Version: 2026.0701.1805.35
+# Last modified: 02 Jul 2026 06:49 UTC
+# Version: 2026.0702.0649.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57127
+# Number of entries: 57037
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -151,25 +151,19 @@
 *.0f85bcb09c.97f477047f.com
 *.01ca03c5d7.9a131ab3ce.com
 *.055479b29b.9a57160d5c.com
-*.0e1e95cbae.9bd5ed5b06.com
-*.abs.a-dating.site
 *.girls.a-makeup.com
 *.33e575cb57.a02e31b105.com
-*.907900f0d0.a08b551f9a.com
 *.c92a8a2de1.a0d3dd0c89.com
 *.44b6d66394.a2e5b82fea.com
 *.go1.a2ure.work
 *.c713c37a1b.a402304fa2.com
 *.ef6f055a34.a54a8ff97b.com
 *.0eab70c429.a567dda4c2.com
-*.622bac31c1.a73c42223a.com
-*.24a5c5f3df.a7d709d40c.com
 *.1ca6e3e357.a8ca394de0.com
 *.6c7cd0e530.a970dc123c.com
 *.inbound.aa1111.com
 *.u51.aabdmn.com
 *.yekkl.ab4all.com
-*.ei.abamawristed.shop
 *.yu.abarisseamed.shop
 *.rl.abayclaik.com
 *.ndtnc-dual.abimimojo2.com
@@ -180,7 +174,6 @@
 *.jeodo.acclaimeddate.net
 *.eq.accupymoss.com
 *.mi.acervalpaussid.com
-*.qy.achaqueotkon.shop
 *.le.achiercarton.com
 *.yo.acinggentler.com
 *.gm.acknewbuyers.com
@@ -199,7 +192,6 @@
 *.go.adstroop.com
 *.r.advg.agency
 *.track.adwad.ru
-*.go.adxoclick.com
 *.uh.aediletwelfth.com
 *.bj.aeonistcoffins.com
 *.wk.aeropetarlies.com
@@ -227,9 +219,7 @@
 *.pd.aimakarkie.com
 *.pc.airglowavenses.com
 *.ga.airingsjerky.com
-*.vnwxkk.airinlove.com
 *.av.airishoctapla.com
-*.ns115.aj2640.bid
 *.zm.akamnikclanks.com
 *.bd.akhlamesouchy.com
 *.mh.albantepal.com
@@ -239,7 +229,6 @@
 *.co.aldusmiskals.com
 *.divine.alegria-verte.com
 *.dy.alepoleoutrang.com
-*.sh.alertlyrepound.com
 *.vp.aleutexplait.com
 *.ii.alexinsgawcie.shop
 *.zg.alfetstamps.com
@@ -249,7 +238,6 @@
 *.st.alneingloat.com
 *.bk.alpacahizz.com
 *.qj.altoistmyiases.com
-*.users.alumnusairglow.rest
 *.lc.alvanhaybox.com
 *.trewel.alveoleductile.help
 *.gz.alvitebewwept.com
@@ -272,13 +260,6 @@
 *.entrecard.s3.amazonaws.com
 *.crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com
 *.tubakinohimitsu.amebaownd.com
-*.elwwvg.amouronliine.net
-*.warvnq.amouronliine.net
-*.blono.amouronlline.com
-*.ekokr.amouronlline.com
-*.gzrdo.amouronlline.com
-*.kqmdw.amouronlline.com
-*.lldrx.amouronlline.com
 *.live.amplifo.com
 *.qv.ampullatonant.com
 *.rn.amtmanalchimy.com
@@ -432,6 +413,9 @@
 *.darian.bantengan.xyz
 *.uc.barbelfaldfee.com
 *.do.barmfellists.com
+*.chiyouranai.base.shop
+*.tokujiro.base.shop
+*.uranai1111.base.shop
 *.ah.basothomug.com
 *.bv.basquedbeloam.com
 *.ck.bastardzingaro.com
@@ -1896,6 +1880,15 @@
 *.ko.hissesgestapo.com
 *.sl.hitchdong.com
 *.jt.hitchelunspun.com
+*.app-google-zh.hl.cn
+*.go-todesk.hl.cn
+*.google-google-chrome-google-com.hl.cn
+*.line-go.hl.cn
+*.qh-qishuiyinyue.hl.cn
+*.qishuimusic-cn.hl.cn
+*.todesk-web.hl.cn
+*.todesk-zh.hl.cn
+*.zh-todesk-cn.hl.cn
 *.map.hnchj.com
 *.m10.hoes.tube
 *.yy.hogacotset.com
@@ -8849,7 +8842,6 @@
 *.84302764.xyz
 *.847h7f51.de
 *.84eb50d125.com
-*.84fa5dcb33.com
 *.84gs08xe1.com
 *.850728.org
 *.85152.com
@@ -8884,10 +8876,8 @@
 *.888promos.com
 *.888vip.vip
 *.889dbee9c9.com
-*.88bb36fab4.com
 *.88ben.com
 *.88btbtt.com
-*.88d3a9a9a1.com
 *.88ddebd3d3.com
 *.88dfav.com
 *.88eq7spm.de
@@ -9058,10 +9048,8 @@
 *.99riav14.com
 *.9a8f641701.com
 *.9ads.mobi
-*.9b4069b2fa.com
 *.9c1e54fbf4.com
 *.9c36d51a22.com
-*.9c431580d3.com
 *.9c786ff5cd.com
 *.9c867e2056.com
 *.9c8b7403e9.com
@@ -9074,9 +9062,7 @@
 *.9e83087e91.com
 *.9eb0066c79.com
 *.9eb10b7a3d04a.com
-*.9eebf015a5.com
 *.9ekk.com
-*.9f0e7c5370.com
 *.9f91b59591.com
 *.9fe84e92a1.com
 *.9flash.com
@@ -9112,7 +9098,6 @@
 *.a06c9a4dd7.com
 *.a07ccac956.com
 *.a09861247b.com
-*.a0b5779711.com
 *.a11k.com
 *.a11ybar.com
 *.a1475.com
@@ -9124,7 +9109,6 @@
 *.a2ics.eu
 *.a2nn5eri7ce.com
 *.a2tw6yoodsag.com
-*.a3a706a0ae.com
 *.a3c72512d5.com
 *.a3yqjsrczwwp.com
 *.a41ffeba4a.com
@@ -9136,7 +9120,6 @@
 *.a568e472d6.com
 *.a585.com
 *.a58b8ec9c6.com
-*.a5ddb5cd30.com
 *.a61bc11442.com
 *.a63e.com
 *.a64x.com
@@ -9147,13 +9130,11 @@
 *.a7sqltools.com
 *.a89da11668.com
 *.a8aebc73ca.com
-*.a8bea9eb5d.com
 *.a9562f872f.com
 *.a9684972c2.com
 *.aa1144.com
 *.aa5527.com
 *.aa5736.com
-*.aa6941.com
 *.aa8166.com
 *.aaa8f4d18b.com
 *.aaaaaco.com
@@ -9178,7 +9159,6 @@
 *.aarcsd.com
 *.aarossqnat.com
 *.aasssaa.com
-*.aauedwmoofyox.buzz
 *.aauswxfwuqu.com
 *.aavnnupfepbgp.space
 *.aawdlgngyyfhn.online
@@ -9229,7 +9209,6 @@
 *.abdicatebirchcoolness.com
 *.abdicateeffectlucky.com
 *.abdlnk.com
-*.abdlnkjs.com
 *.abdmhqftzxvbg.store
 *.abdomencompelled.com
 *.abdurantom.com
@@ -9264,7 +9243,6 @@
 *.abkxpohfu.com
 *.abkxyinpiffsk.site
 *.ablakparkany.hu
-*.ablazemahjong.shop
 *.ablazesubconsciousadulate.com
 *.ablecheap.com
 *.ablehandbookrepugnant.com
@@ -9330,11 +9308,9 @@
 *.abruptcooperationbummer.com
 *.abruptlydummy.com
 *.abruptlyinstitution.com
-*.abruptlyjumpbeside.com
 *.abruptnesscarrier.com
 *.abruptroad.com
 *.abrupttactic.com
-*.absalomwigger.top
 *.absentairport.com
 *.absentcleannewspapers.com
 *.absentlymoreoverwell.com
@@ -9371,7 +9347,6 @@
 *.abtr4all.com
 *.abtrcker.com
 *.abubalive.com
-*.abundancesluice.com
 *.abundantminussteal.com
 *.abuse-faint.com
 *.abusedbabysitters.com
@@ -9379,14 +9354,11 @@
 *.abvdkeat.com
 *.abxalpognw.com
 *.abxchzpgqdvoahrbzk.com
-*.abysseschuff.shop
 *.abyssfar.com
 *.abzkyjleooqja.top
 *.ac-b2b-partners.com
 *.ac28816960.com
 *.ac359edaf2.com
-*.ac3fc8f2a5.com
-*.aca4f6c07c.com
 *.acaaforums.com
 *.acacdn.com
 *.acaciafilterfrantically.com
@@ -9420,7 +9392,6 @@
 *.access-mc.com
 *.access-the-website.com
 *.accessaccent.com
-*.accessibletighterchorus.com
 *.accessorygraph.com
 *.accidentalcrownincredible.com
 *.accidentallycopiespatted.com
@@ -9469,12 +9440,10 @@
 *.accuratemaintenance.pro
 *.accuratemournful.com
 *.accuratephrase.com
-*.accuratevotingorthodox.com
 *.accuratewistful.com
 *.accusationroad.com
 *.accuserutility.com
 *.accustomedinaccessible.com
-*.accustomednettlecurt.com
 *.acdcdn.com
 *.acdpainters.com
 *.ace-adserver.com
@@ -9489,7 +9458,6 @@
 *.acermired.com
 *.acertb.com
 *.acg669.com
-*.acgbmh.com
 *.acgngames.com
 *.achcdn.com
 *.achechonly.com
@@ -9515,9 +9483,7 @@
 *.acj4.com
 *.ackcdn.net
 *.acknowledgecalculated.com
-*.acknowledgedlatest.com
 *.acknowledgepronounablaze.com
-*.acktrsznzeubr.one
 *.aclickads.com
 *.aclktrkr.com
 *.aclomxokn.com
@@ -9551,7 +9517,6 @@
 *.acrobatic-mess.pro
 *.acrobaticcouple.com
 *.acrobaticgap.pro
-*.acronychoofers.cfd
 *.acronym.com
 *.acrosssparedhash.com
 *.acsaofatjaiau.store
@@ -9570,11 +9535,9 @@
 *.active-bat.com
 *.active-plant.pro
 *.activedancer.com
-*.activefan.pro
 *.activejavgg124.fun
 *.activelymoonlight.com
 *.activemetering.com
-*.activepoststale.com
 *.activexsportswear.com
 *.activitycommence.com
 *.activityravedisparity.com
@@ -9639,7 +9602,6 @@
 *.ad756.com
 *.ad7mylo.com
 *.ad999.biz
-*.ada9d543ce.com
 *.adacado.com
 *.adactioner.com
 *.adacts.com
@@ -9760,7 +9722,6 @@
 *.addinginstancesroadmap.com
 *.addingirritationdesk.com
 *.addiply.com
-*.additionabusivevaluable.com
 *.additionalcasualcabinet.com
 *.additionalconfirmed.com
 *.additionalmedia.com
@@ -9825,7 +9786,6 @@
 *.adfusion.com
 *.adfyre.co
 *.adgage.es
-*.adgard.net
 *.adgatemedia.com
 *.adgcufmqcuedr.online
 *.adgear.com
@@ -9901,7 +9861,6 @@
 *.adk2x.com
 *.adkaora.space
 *.adkernel.com
-*.adklicyjfcjuo.tech
 *.adklimages.com
 *.adklip.com
 *.adkmbc.com
@@ -10190,7 +10149,6 @@
 *.adsfast.com
 *.adsfcdn.com
 *.adsforallmedia.com
-*.adsfuse.com
 *.adshack.com
 *.adshopping.com
 *.adshostnet.com
@@ -10503,7 +10461,6 @@
 *.aerospaceaccess.com
 *.aeru.tv
 *.aeru365.jp
-*.aerydesorbs.top
 *.aeskgcinerpyxqk.net
 *.aespmnbpqhpvu.space
 *.aetherandearthliving.com
@@ -10547,7 +10504,6 @@
 *.affectedwrestproven.com
 *.affectionatedragon.com
 *.affectionateeasilyillness.com
-*.affectionatefurniturehypothesis.com
 *.affectionateinspection.pro
 *.affectionoverturn.com
 *.affectionparson.com
@@ -10691,7 +10647,6 @@
 *.agagaure.com
 *.again-agreement.com
 *.againandagain.biz
-*.againboundless.com
 *.againsnow.com
 *.againstdoubted.com
 *.againstmascaraordinal.com
@@ -10708,7 +10663,6 @@
 *.agathisdented.com
 *.agatorkoaltor.com
 *.agavictinier.com
-*.agbbw.com
 *.agbfgatnhzdeb.online
 *.agbois.com
 *.agcdn.com
@@ -10719,7 +10673,6 @@
 *.agedvalue.pro
 *.ageevjvw.net
 *.agegodfatherbritish.com
-*.ageismpita.world
 *.agelessgems.com
 *.agency2.ru
 *.agencybriefly.com
@@ -10730,7 +10683,6 @@
 *.agenteimmobiliare.info
 *.agenthomeless.com
 *.agentporno.com
-*.agentsx.cn
 *.agentvaldez.com
 *.agentweakermental.com
 *.agfmwgopktnc.com
@@ -10765,11 +10717,9 @@
 *.agitated-tone.com
 *.agitatedfoot.com
 *.agitatedleadership.com
-*.agitatedparquetscam.com
 *.agitationconsiderable.com
 *.agitationfourthplug.com
 *.agitationmedicdrug.com
-*.agitationselfservice.com
 *.agkbhvkpuuzxf.site
 *.agkgppder.com
 *.agl001.bid
@@ -10785,7 +10735,6 @@
 *.agmvwgwhgpnyu.online
 *.agonizing-initiative.pro
 *.agonizingcontrol.pro
-*.agonizingfollowing.pro
 *.agootictaticol.com
 *.agooxouy.net
 *.agore.xyz
@@ -10807,7 +10756,6 @@
 *.agriculturedoubloonsdesk.com
 *.agricultureprowesscardinal.com
 *.agriglyphs.com
-*.agroundrandoms.world
 *.agruleetogree.com
 *.agtzazkci.com
 *.agurgeed.net
@@ -10833,7 +10781,6 @@
 *.ahjibbjaxrfmpi.com
 *.ahkapsalz.com
 *.ahkbpootnm.com
-*.ahkjuekgpccmj.world
 *.ahkmdc.com
 *.ahliting.com
 *.ahmktufipp.com
@@ -10846,7 +10793,6 @@
 *.aht42trk.com
 *.ahtchorus.com
 *.ahtfmealpjtu.com
-*.ahui123.cn
 *.ahukfcpfknenp.website
 *.ahvqydcujtjgo.website
 *.ahvskihu.com
@@ -10866,7 +10812,6 @@
 *.aibeautia1.jp
 *.aibeftuhesoax.com
 *.aibeltaidoogli.com
-*.aibsgc.com
 *.aickojounsals.xyz
 *.aickopoodxy.com
 *.aiclaude.jp
@@ -10882,7 +10827,6 @@
 *.aidsswaggertrimness.com
 *.aiduai.com
 *.aidudaithaid.net
-*.aielsuffari.top
 *.aifapiao.cn
 *.aifmpdaqommzn.store
 *.aifolr.com
@@ -10935,10 +10879,8 @@
 *.aiqyylcdfvdqpek.com
 *.air-look-send.com
 *.air-we4.com
-*.airabledeipara.top
 *.airairgu.com
 *.airbornemiser.com
-*.airbornetranslation.com
 *.aircaredallas.com
 *.aircheerfulhometown.com
 *.aircraftairliner.com
@@ -10951,7 +10893,6 @@
 *.airlessquotationtroubled.com
 *.airlinerappetizingcoast.com
 *.airlinesassist.com
-*.airplaneprosperretreat.com
 *.airseahawaii.com
 *.airshedcoart.com
 *.airtightcounty.com
@@ -11061,7 +11002,6 @@
 *.ajardesk.pro
 *.ajaressay.pro
 *.ajartoalsushy.com
-*.ajenjosampi.life
 *.ajewzcsnmnjex.site
 *.ajfnee.com
 *.ajgjivqat.com
@@ -11087,7 +11027,6 @@
 *.ajx272.online
 *.ajx291.online
 *.ajxx98.online
-*.ajzupjfxoddqz.love
 *.ak-is.net
 *.ak-is2.net
 *.ak-tracker.com
@@ -11106,7 +11045,6 @@
 *.akgi45sas.jp
 *.akhanzlawnko.com
 *.akhoondathecae.shop
-*.akhrotflakes.com
 *.akilifox.com
 *.akinsectionwalter.com
 *.akinswreckersales.com
@@ -11199,7 +11137,6 @@
 *.alfredthwart.com
 *.alfredvariablecavalry.com
 *.algediduala.com
-*.algesismesse.cyou
 *.algiersreests.com
 *.algocashmaster.com
 *.algolduckan.com
@@ -11219,7 +11156,6 @@
 *.alibisprocessessyntax.com
 *.alicekdsod.com
 *.alicerogersdeathdoula.com
-*.alichelsquit.cfd
 *.aliciagarza.com
 *.alickparents.com
 *.alienatecommit.com
@@ -11251,7 +11187,6 @@
 *.alividolx.com
 *.aliwjo.com
 *.aliyucs.com
-*.aljmhztthtchf.icu
 *.aljornjragr.com
 *.alklinker.com
 *.all-audio.pro
@@ -11296,7 +11231,6 @@
 *.allocatedense.com
 *.allocatefemaleshunger.com
 *.allocationcaller.com
-*.allodawakes.top
 *.alloha.tv
 *.allongewakers.com
 *.allotdiscussiondivision.com
@@ -11306,7 +11240,6 @@
 *.allowseshehasn.com
 *.allowssnagaffinity.com
 *.allowssortingdrove.com
-*.allowwholikedtoco.com
 *.alloyaccess-demo.com
 *.alloydigital.com
 *.alloystart.com
@@ -11349,12 +11282,9 @@
 *.aloftloan.com
 *.aloftrecedestatistics.com
 *.aloftriottomato.com
-*.alogiagramme.top
 *.alohasafealert.org
-*.alohasturin.shop
 *.alonedisallowrearview.com
 *.alonefabulous.com
-*.alonehepatitisenough.com
 *.alony.site
 *.aloofdissemble.com
 *.aloofpunish.com
@@ -11382,7 +11312,6 @@
 *.alrightcorozo.com
 *.alrightkindergarten.com
 *.alsdebaticalfelixsto.org
-*.alskillseery.org
 *.alsolrocktor.com
 *.alsowhirl.com
 *.altarpee.com
@@ -11428,7 +11357,6 @@
 *.alysson.de
 *.alzgidnru.com
 *.am15.net
-*.ama-wave.info
 *.amaabfvuyispa.space
 *.amabileblocage.com
 *.amaenbo.jp
@@ -11461,7 +11389,6 @@
 *.ambeerskoo.com
 *.ambercalledmethod.com
 *.ambermomentarilyaversion.com
-*.ambie.site
 *.ambientplatform.vn
 *.ambiguityornamenttell.com
 *.ambiguousafternoon.com
@@ -11540,7 +11467,6 @@
 *.amoralwhackestimate.com
 *.amoredate.com
 *.amorousconvenientwhere.com
-*.amorphousankle.com
 *.amorphouscomprise.com
 *.amountdonutproxy.com
 *.amourconnects.com
@@ -11620,7 +11546,6 @@
 *.analyticsq2.com
 *.analytiwave.com
 *.anamaembush.com
-*.anamfizzles.top
 *.anamuel-careslie.com
 *.ananymkidsman.com
 *.anapirate.com
@@ -11632,7 +11557,6 @@
 *.anattospursier.com
 *.anbauny.com
 *.anbbhgjx.com
-*.anceenablesasm.com
 *.anchored-sell.com
 *.anchored-upper.pro
 *.anchoredcollar.pro
@@ -11640,7 +11564,6 @@
 *.anchorrespitefire.com
 *.anchovyliversquirt.com
 *.anchovysubstantial.com
-*.anchovytied.shop
 *.ancient-community.pro
 *.ancient-guidance.jp
 *.ancient-pipe.com
@@ -11650,7 +11573,6 @@
 *.andalucia-naturalsoap.com
 *.andaraco.ai
 *.andbeyond.media
-*.andcomemunicateth.com
 *.andcomemunicateth.info
 *.andkektur.com
 *.andohs.net
@@ -11660,7 +11582,6 @@
 *.androidduvetscribble.com
 *.andujnnddguhtz.com
 *.andylaws.net
-*.anedukerationpeci.com
 *.aneld.com
 *.anemiachoky.com
 *.aneorwd.com
@@ -11683,7 +11604,6 @@
 *.angerfondnessspecified.com
 *.anget-direct.info
 *.angkorecoresidence.com
-*.angledefencesoft.com
 *.anglescommentregards.com
 *.anglezinccompassionate.com
 *.angrilyanimatorcuddle.com
@@ -11698,7 +11618,6 @@
 *.anhtrxiyxgy.com
 *.aniafitnut.com
 *.aniapi.com
-*.anidianmunite.cyou
 *.aniltramps.top
 *.anima-conferences.com
 *.animasoorie.com
@@ -11758,7 +11677,6 @@
 *.annoyingclover.com
 *.annoyingnightmareedit.com
 *.annual-gamers-choice.com
-*.annual-spend.com
 *.annualcombination.pro
 *.annuitiessold.com
 *.annulmentequitycereals.com
@@ -11766,20 +11684,17 @@
 *.annulusagt.com
 *.anomaloustinge.com
 *.anonymousads.com
-*.anopportunitytost.com
 *.another2020.net
 *.anothercable.pro
 *.anothereldestprogeny.com
 *.anotherindication.pro
 *.anothertuesdaypattern.com
-*.anothingfruit.org
 *.anrfvqiycrybr.store
 *.ansionscor.com
 *.ansnxnkxsagnp.website
 *.ansqxxwag.com
 *.ansuksar.com
 *.ant-top.ru
-*.antagonizedetour.com
 *.antananarbdivu.com
 *.antarcticoffended.com
 *.antcixn.com
@@ -11892,7 +11807,6 @@
 *.aovchina.com
 *.aovoasbmjf.com
 *.aoxvlbejkrvvh.online
-*.aozltbnbfwlww.xyz
 *.ap2h9d2g3.com
 *.apahoovffgr.com
 *.apaiksookoomihi.net
@@ -11900,7 +11814,6 @@
 *.aparentinsilverspring.com
 *.apartgamble.com
 *.apartmentamusingforbidden.com
-*.apartmentsellerprotest.com
 *.apatheticformingalbeit.com
 *.apathyjav128.fun
 *.apautsaiftoa.com
@@ -11923,7 +11836,6 @@
 *.apexneedful.com
 *.apglinks.net
 *.apgpaphuksz.com
-*.aphacicscotism.cyou
 *.aphasiacarrels.com
 *.aphealxgt.net
 *.apheekoudoastuh.com
@@ -11949,7 +11861,6 @@
 *.apologiesneedleworkrising.com
 *.apologiesoccursdepressed.com
 *.apologizepitfall.com
-*.aporiapicris.digital
 *.aporodiko.com
 *.apostasbrasil.com
 *.apostlesouvenir.com
@@ -11994,7 +11905,6 @@
 *.applesometimes.com
 *.applestepheninoculate.com
 *.appletdejectedsounds.com
-*.appletrelentlessfreeway.com
 *.appliancecolaprofessor.com
 *.appliancerepairs101.com
 *.applicantmanneraugust.com
@@ -13507,7 +13417,6 @@
 *.bartramagynous.com
 *.barytemarkup.com
 *.barytethynnid.com
-*.base.shop
 *.baseballletters.com
 *.basejudgementquizmaster.com
 *.basementunfamiliar.com
@@ -20846,7 +20755,6 @@
 *.divisiondrearilyunfiled.com
 *.divlnedates.com
 *.divorceresentmentconsists.com
-*.divtqucu.xyz
 *.dixhrutqxceptsi.com
 *.dixxiowrgeame.online
 *.diygardenhome.com
@@ -22261,6 +22169,7 @@
 *.eiaffrjrykttz.online
 *.eiagus.com
 *.eiaidoefd.com
+*.eibjggfihcjiiheeaach.world
 *.eidersalias.com
 *.eidersrettory.com
 *.eideticcrucian.life
@@ -28521,7 +28430,6 @@
 *.hkwrwuqlcpelq.site
 *.hkygalzumaqv.com
 *.hkzhongzhuangzhan.cc
-*.hl.cn
 *.hl2u.com
 *.hlbmaat.com
 *.hldijphcjszui.store
@@ -50532,12 +50440,14 @@
 *.tormentfragment.com
 *.tornactivity.pro
 *.tornadosurvival.com
+*.torninteraction.pro
 *.tornmonitor.pro
 *.tornsteeringmimic.com
 *.tornwalk.pro
 *.toroadvertising.com
 *.toroaster.info
 *.toroexoclk.com
+*.torontocasbahs.com
 *.tororango.com
 *.toroseconfine.com
 *.torothnutlets.website

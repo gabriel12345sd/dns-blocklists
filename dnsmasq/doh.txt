@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 08:01 UTC
-# Version: 2026.0625.0801.24
+# Last modified: 02 Jul 2026 07:56 UTC
+# Version: 2026.0702.0756.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3437
+# Number of entries: 3434
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -103,7 +103,6 @@ local=/dns19.854000.xyz/
 local=/tyo.883933770.xyz/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
-local=/dns.890806.xyz/
 local=/arches-srv1.8ws.net/
 local=/arches-srv2.8ws.net/
 local=/outie.8ws.net/
@@ -143,7 +142,6 @@ local=/resolver3.absolight.net/
 local=/ajlxwk4kedu5.absq.ch/
 local=/pebdbvi58gbc.absq.ch/
 local=/block.abstergo.it/
-local=/doh.iucc.ac.il/
 local=/adguard1.unima.ac.id/
 local=/adguard2.unima.ac.id/
 local=/open-resolver1.unima.ac.id/
@@ -3003,7 +3001,6 @@ local=/andrewnw.xyz/
 local=/andrey93rus.ru/
 local=/andy123123.xyz/
 local=/angrysky.ru/
-local=/anhphamhn82.uk/
 local=/anixlab.com/
 local=/applied-privacy.net/
 local=/arashi.solutions/

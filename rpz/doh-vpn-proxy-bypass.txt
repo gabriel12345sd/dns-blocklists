@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782932700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782979020 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jul 2026 19:05 UTC
-; Version: 2026.0701.1905.51
+; Last modified: 02 Jul 2026 07:57 UTC
+; Version: 2026.0702.0757.03
 ; Syntax: RPZ
-; Number of entries: 34444
+; Number of entries: 34416
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2261,8 +2261,6 @@ ychen.cf CNAME .
 *.ychen.cf CNAME .
 815moniquelane.cfd CNAME .
 *.815moniquelane.cfd CNAME .
-91vpn02.cfd CNAME .
-*.91vpn02.cfd CNAME .
 amplifyz.cfd CNAME .
 *.amplifyz.cfd CNAME .
 bog-bot.cfd CNAME .
@@ -4243,8 +4241,6 @@ family.adguarddns.com CNAME .
 *.family.adguarddns.com CNAME .
 unfiltered.adguarddns.com CNAME .
 *.unfiltered.adguarddns.com CNAME .
-dashboard.adidasnmdcitysock.com CNAME .
-*.dashboard.adidasnmdcitysock.com CNAME .
 dns.adnull.com CNAME .
 *.dns.adnull.com CNAME .
 adresseip.com CNAME .
@@ -4315,8 +4311,6 @@ aibuddytech.com CNAME .
 *.aibuddytech.com CNAME .
 dns.aicreate360.com CNAME .
 *.dns.aicreate360.com CNAME .
-ailivechatweb.com CNAME .
-*.ailivechatweb.com CNAME .
 airjiasu.com CNAME .
 *.airjiasu.com CNAME .
 aiskyapp.com CNAME .
@@ -4505,8 +4499,6 @@ sanns.aniuo.com CNAME .
 *.sanns.aniuo.com CNAME .
 anixlab.com CNAME .
 *.anixlab.com CNAME .
-anomivpn.com CNAME .
-*.anomivpn.com CNAME .
 anonine.com CNAME .
 *.anonine.com CNAME .
 anonwebproxy.com CNAME .
@@ -4541,8 +4533,6 @@ aox666.com CNAME .
 *.aox666.com CNAME .
 aoxblog.com CNAME .
 *.aoxblog.com CNAME .
-aoxinvite.com CNAME .
-*.aoxinvite.com CNAME .
 aoxjiasu.com CNAME .
 *.aoxjiasu.com CNAME .
 aoxjsq666.com CNAME .
@@ -18467,8 +18457,6 @@ wasd.my.qh.ie CNAME .
 *.wasd.my.qh.ie CNAME .
 web-rated.ie CNAME .
 *.web-rated.ie CNAME .
-doh.iucc.ac.il CNAME .
-*.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
 *.ag.hostme.co.il CNAME .
 nordvpn.co.il CNAME .
@@ -18669,8 +18657,6 @@ alidns.51top.info CNAME .
 *.7713.info CNAME .
 777surfer.info CNAME .
 *.777surfer.info CNAME .
-adslimit.info CNAME .
-*.adslimit.info CNAME .
 aiiaguli.info CNAME .
 *.aiiaguli.info CNAME .
 aisleep.info CNAME .
@@ -26609,14 +26595,8 @@ akkcloud.org CNAME .
 *.akkcloud.org CNAME .
 algebraicformulas.org CNAME .
 *.algebraicformulas.org CNAME .
-6767676767676767676162.allisons.org CNAME .
-*.6767676767676767676162.allisons.org CNAME .
 676767676767676767616864.allisons.org CNAME .
 *.676767676767676767616864.allisons.org CNAME .
-67676767676767676762.allisons.org CNAME .
-*.67676767676767676762.allisons.org CNAME .
-cool67.allisons.org CNAME .
-*.cool67.allisons.org CNAME .
 fern2.allisons.org CNAME .
 *.fern2.allisons.org CNAME .
 fern3.allisons.org CNAME .
@@ -28611,8 +28591,6 @@ ds.appl.pk CNAME .
 *.ds.appl.pk CNAME .
 work.idea.salman.pk CNAME .
 *.work.idea.salman.pk CNAME .
-drive.google.com.adultboss.pl CNAME .
-*.drive.google.com.adultboss.pl CNAME .
 antycenzor.pl CNAME .
 *.antycenzor.pl CNAME .
 southpo.lo.aar.apolinarski.pl CNAME .
@@ -32187,8 +32165,6 @@ zxcvb.pp.ua CNAME .
 *.365vpn.uk CNAME .
 dns.airmaxcloud.uk CNAME .
 *.dns.airmaxcloud.uk CNAME .
-anhphamhn82.uk CNAME .
-*.anhphamhn82.uk CNAME .
 annual2025.uk CNAME .
 *.annual2025.uk CNAME .
 adguard.camn.uk CNAME .
@@ -32835,8 +32811,6 @@ polisitogel.webcam CNAME .
 *.1vpn.website CNAME .
 777schoolutilities.website CNAME .
 *.777schoolutilities.website CNAME .
-jobixtetoyuri.ames.website CNAME .
-*.jobixtetoyuri.ames.website CNAME .
 blog.artweb.website CNAME .
 *.blog.artweb.website CNAME .
 buy.artweb.website CNAME .
@@ -33319,8 +33293,6 @@ dns.888654.xyz CNAME .
 *.dns.888654.xyz CNAME .
 890634.xyz CNAME .
 *.890634.xyz CNAME .
-dns.890806.xyz CNAME .
-*.dns.890806.xyz CNAME .
 dns.920313.xyz CNAME .
 *.dns.920313.xyz CNAME .
 959818.xyz CNAME .

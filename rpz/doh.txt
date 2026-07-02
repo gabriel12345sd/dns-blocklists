@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782374460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782978960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Jun 2026 08:01 UTC
-; Version: 2026.0625.0801.24
+; Last modified: 02 Jul 2026 07:56 UTC
+; Version: 2026.0702.0756.18
 ; Syntax: RPZ
-; Number of entries: 6874
+; Number of entries: 6868
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2911,8 +2911,6 @@ doh.zephyrus.id CNAME .
 *.doh.zephyrus.id CNAME .
 web-rated.ie CNAME .
 *.web-rated.ie CNAME .
-doh.iucc.ac.il CNAME .
-*.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
 *.ag.hostme.co.il CNAME .
 us.aab.im CNAME .
@@ -6347,8 +6345,6 @@ zxcvb.pp.ua CNAME .
 *.zxcvb.pp.ua CNAME .
 dns.airmaxcloud.uk CNAME .
 *.dns.airmaxcloud.uk CNAME .
-anhphamhn82.uk CNAME .
-*.anhphamhn82.uk CNAME .
 adguard.camn.uk CNAME .
 *.adguard.camn.uk CNAME .
 adguard.aa4.co.uk CNAME .
@@ -6687,8 +6683,6 @@ dns.886886886.xyz CNAME .
 *.dns.886886886.xyz CNAME .
 dns.888654.xyz CNAME .
 *.dns.888654.xyz CNAME .
-dns.890806.xyz CNAME .
-*.dns.890806.xyz CNAME .
 dns.920313.xyz CNAME .
 *.dns.920313.xyz CNAME .
 959818.xyz CNAME .
