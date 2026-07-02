@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782975120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782985920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 06:52 UTC
-; Version: 2026.0702.0652.03
+; Last modified: 02 Jul 2026 09:52 UTC
+; Version: 2026.0702.0952.07
 ; Syntax: RPZ
-; Number of entries: 33952
+; Number of entries: 33938
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -2862,8 +2862,6 @@ armedangelsoutlet.com CNAME .
 *.armedangelsoutlet.com CNAME .
 armodamobilya.com CNAME .
 *.armodamobilya.com CNAME .
-arms-mall.com CNAME .
-*.arms-mall.com CNAME .
 armxn.com CNAME .
 *.armxn.com CNAME .
 aroidsale.com CNAME .
@@ -2924,8 +2922,6 @@ asicsale.com CNAME .
 *.asicsale.com CNAME .
 shop.askdrkan.com CNAME .
 *.shop.askdrkan.com CNAME .
-asolousoutlet.com CNAME .
-*.asolousoutlet.com CNAME .
 asomch.com CNAME .
 *.asomch.com CNAME .
 aspierhireworksde.com CNAME .
@@ -2962,8 +2958,6 @@ astronomyh.com CNAME .
 *.astronomyh.com CNAME .
 wombatscityhostelviennathelounge.at-austria.com CNAME .
 *.wombatscityhostelviennathelounge.at-austria.com CNAME .
-atacadao-pneus.com CNAME .
-*.atacadao-pneus.com CNAME .
 atdasjournal.com CNAME .
 *.atdasjournal.com CNAME .
 learn.atdaslelabor.com CNAME .
@@ -21148,8 +21142,6 @@ aquarisonlineshop.de CNAME .
 *.aquarisonlineshop.de CNAME .
 arabues.de CNAME .
 *.arabues.de CNAME .
-araschuheoutlet.de CNAME .
-*.araschuheoutlet.de CNAME .
 arbitrage-solar.de CNAME .
 *.arbitrage-solar.de CNAME .
 arcaktuell.de CNAME .
@@ -21160,8 +21152,6 @@ arcteryxoutletdeutschland.de CNAME .
 *.arcteryxoutletdeutschland.de CNAME .
 aresc.de CNAME .
 *.aresc.de CNAME .
-ariatde.de CNAME .
-*.ariatde.de CNAME .
 ariatshopdeutschland.de CNAME .
 *.ariatshopdeutschland.de CNAME .
 arila.de CNAME .
@@ -31560,8 +31550,6 @@ algexia.pro CNAME .
 *.algexia.pro CNAME .
 alpenpellets.pro CNAME .
 *.alpenpellets.pro CNAME .
-installateur.artpro-24.pro CNAME .
-*.installateur.artpro-24.pro CNAME .
 aurorastore.pro CNAME .
 *.aurorastore.pro CNAME .
 bitaiapp.pro CNAME .
@@ -33814,8 +33802,6 @@ fast-solutions.work CNAME .
 *.fast-solutions.work CNAME .
 karcher.work CNAME .
 *.karcher.work CNAME .
-aspierhireworksde.works CNAME .
-*.aspierhireworksde.works CNAME .
 earnavioat.works CNAME .
 *.earnavioat.works CNAME .
 flexiworkde.works CNAME .

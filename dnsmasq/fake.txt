@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 06:52 UTC
-# Version: 2026.0702.0652.03
+# Last modified: 02 Jul 2026 09:52 UTC
+# Version: 2026.0702.0952.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16976
+# Number of entries: 16969
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -27,7 +27,6 @@ local=/store.aktuellerezensionen.de/
 local=/de.apemans.com/
 local=/webtrader.aptos-ai.net/
 local=/try.articblast.co/
-local=/installateur.artpro-24.pro/
 local=/webtrader.arvelon-barnyx.com/
 local=/shop.askdrkan.com/
 local=/wombatscityhostelviennathelounge.at-austria.com/
@@ -1434,7 +1433,6 @@ local=/aquascapers-galerie.com/
 local=/aquavibespro.com/
 local=/arabankloan.online/
 local=/arabues.de/
-local=/araschuheoutlet.de/
 local=/arbeit-zuhause.com/
 local=/arbeitsanzuge24.com/
 local=/arbeitskleidung-shop.net/
@@ -1460,7 +1458,6 @@ local=/arena-jeux.com/
 local=/aresc.de/
 local=/arialscompany.at/
 local=/ariat-osterreich.at/
-local=/ariatde.de/
 local=/ariatfactoryoutlet.com/
 local=/ariatshopdeutschland.de/
 local=/arila.de/
@@ -1480,7 +1477,6 @@ local=/armedangelsrabatt.de/
 local=/armodafinil.cz/
 local=/armodamobilya.com/
 local=/armodamunchen.de/
-local=/arms-mall.com/
 local=/armxn.com/
 local=/arnstadter-einkauf.de/
 local=/aroidsale.com/
@@ -1539,11 +1535,9 @@ local=/asicsat.at/
 local=/asicsdeutschland.de/
 local=/asicsoutlet.at/
 local=/asicsshoe.net/
-local=/asolousoutlet.com/
 local=/asomch.com/
 local=/aspacommerce.shop/
 local=/aspierhireworksde.com/
-local=/aspierhireworksde.works/
 local=/asse-groupe.com/
 local=/assemblytoolprada.com/
 local=/assess-health.com/
@@ -1564,7 +1558,6 @@ local=/astrahorizon.com/
 local=/astromaster.shop/
 local=/astronomyh.com/
 local=/at-setrafimoney.org/
-local=/atacadao-pneus.com/
 local=/atacadobras25.shop/
 local=/ataspec.org/
 local=/atdasjournal.com/

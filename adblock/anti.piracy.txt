@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 07:49 UTC
-! Version: 2026.0702.0749.37
+! Last modified: 02 Jul 2026 10:34 UTC
+! Version: 2026.0702.1034.57
 ! Syntax: AdBlock
 ! Number of entries: 31074
 !
@@ -3221,7 +3221,6 @@
 ||appzworld.com^
 ||aprilga.beer^
 ||aptoide.com^
-||apunka.games^
 ||apunkagames.com^
 ||apunkagames.cyou^
 ||apunkagames.icu^
@@ -30117,6 +30116,7 @@
 ||watchwrestling.la^
 ||watchwrestling24.net^
 ||watermage-lordfilm.ru^
+||waterpump41.world^
 ||wawa-mania.ws^
 ||wawacity.blue^
 ||wawacity.ec^

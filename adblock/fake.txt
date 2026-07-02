@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 06:52 UTC
-! Version: 2026.0702.0652.03
+! Last modified: 02 Jul 2026 09:52 UTC
+! Version: 2026.0702.0952.07
 ! Syntax: AdBlock
-! Number of entries: 16976
+! Number of entries: 16969
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -28,7 +28,6 @@
 ||de.apemans.com^
 ||webtrader.aptos-ai.net^
 ||try.articblast.co^
-||installateur.artpro-24.pro^
 ||webtrader.arvelon-barnyx.com^
 ||shop.askdrkan.com^
 ||wombatscityhostelviennathelounge.at-austria.com^
@@ -1435,7 +1434,6 @@
 ||aquavibespro.com^
 ||arabankloan.online^
 ||arabues.de^
-||araschuheoutlet.de^
 ||arbeit-zuhause.com^
 ||arbeitsanzuge24.com^
 ||arbeitskleidung-shop.net^
@@ -1461,7 +1459,6 @@
 ||aresc.de^
 ||arialscompany.at^
 ||ariat-osterreich.at^
-||ariatde.de^
 ||ariatfactoryoutlet.com^
 ||ariatshopdeutschland.de^
 ||arila.de^
@@ -1481,7 +1478,6 @@
 ||armodafinil.cz^
 ||armodamobilya.com^
 ||armodamunchen.de^
-||arms-mall.com^
 ||armxn.com^
 ||arnstadter-einkauf.de^
 ||aroidsale.com^
@@ -1540,11 +1536,9 @@
 ||asicsdeutschland.de^
 ||asicsoutlet.at^
 ||asicsshoe.net^
-||asolousoutlet.com^
 ||asomch.com^
 ||aspacommerce.shop^
 ||aspierhireworksde.com^
-||aspierhireworksde.works^
 ||asse-groupe.com^
 ||assemblytoolprada.com^
 ||assess-health.com^
@@ -1565,7 +1559,6 @@
 ||astromaster.shop^
 ||astronomyh.com^
 ||at-setrafimoney.org^
-||atacadao-pneus.com^
 ||atacadobras25.shop^
 ||ataspec.org^
 ||atdasjournal.com^

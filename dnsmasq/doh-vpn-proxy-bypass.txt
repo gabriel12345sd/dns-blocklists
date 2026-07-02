@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 07:57 UTC
-# Version: 2026.0702.0757.03
+# Last modified: 02 Jul 2026 10:41 UTC
+# Version: 2026.0702.1041.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17208
+# Number of entries: 17204
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -493,7 +493,6 @@ local=/blog.artweb.website/
 local=/buy.artweb.website/
 local=/resolver.as203038.net/
 local=/doh.asagiri.moe/
-local=/grgrgrkeepcalmkeepcalm.asatid12.ir/
 local=/doh.asecdns.com/
 local=/dot.asecdns.com/
 local=/midgard.asguardian.de/
@@ -513,7 +512,6 @@ local=/adguardhome.atakorah.com/
 local=/goofygoober.atamanco.eu/
 local=/ieatmonsters.atamanco.eu/
 local=/overcloaked.atamanco.eu/
-local=/pulsewire.atamanco.eu/
 local=/next.atomix.in/
 local=/vps.atomix.in/
 local=/dohtrial.att.net/
@@ -7963,7 +7961,6 @@ local=/arisaka.io/
 local=/ark.to/
 local=/ark-vpn.com/
 local=/arnsvr.site/
-local=/arrives.run/
 local=/artclass.lol/
 local=/artclass.site/
 local=/artemis.bar/
@@ -7997,7 +7994,6 @@ local=/astrill2.com/
 local=/astrillcn.com/
 local=/astrilldownloads.com/
 local=/astrilljiasu.com/
-local=/astrilljsvpn.com/
 local=/astrillvpnapp.com/
 local=/astroutercn.com/
 local=/astrovpn.co/

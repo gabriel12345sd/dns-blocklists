@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 07:33 UTC
-# Version: 2026.0702.0733.15
+# Last modified: 02 Jul 2026 10:50 UTC
+# Version: 2026.0702.1050.18
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 90955
+# Number of entries: 90945
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -5188,6 +5188,7 @@
 0.0.0.0 587.jp
 0.0.0.0 588589.com
 0.0.0.0 5azc.xyz
+0.0.0.0 5bpajgg436.com
 0.0.0.0 creative.5ch.fun
 0.0.0.0 5clo0xmbf.com
 0.0.0.0 5cyi6tp6h.com
@@ -5248,6 +5249,7 @@
 0.0.0.0 6000brixtix.com
 0.0.0.0 6000function.com
 0.0.0.0 6000nexeo.com
+0.0.0.0 600fiber.net
 0.0.0.0 600network.com
 0.0.0.0 600rexola.net
 0.0.0.0 6060instruments.net
@@ -5297,6 +5299,7 @@
 0.0.0.0 metric.6p71hs.top
 0.0.0.0 6pq.cc
 0.0.0.0 6s5acf8d.com
+0.0.0.0 6s78n1rj4r.com
 0.0.0.0 j.6sc.co
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 6uliq2uive.com
@@ -12486,6 +12489,7 @@
 0.0.0.0 antlerlode.com
 0.0.0.0 antmyth.com
 0.0.0.0 antresboing.qpon
+0.0.0.0 antrumsletups.cyou
 0.0.0.0 ants.vn
 0.0.0.0 t.ants.vn
 0.0.0.0 www.ants.vn
@@ -19669,7 +19673,6 @@
 0.0.0.0 aptabase.com
 0.0.0.0 eu.aptabase.com
 0.0.0.0 analytics.aptania.com
-0.0.0.0 aptestabend.qpon
 0.0.0.0 aptina.com
 0.0.0.0 www.aptina.com
 0.0.0.0 aptoide-mmp.aptoide.com
@@ -19688,7 +19691,6 @@
 0.0.0.0 apyecom.com
 0.0.0.0 apyoth.com
 0.0.0.0 aqauikfd.com
-0.0.0.0 aqazqbqdueeob.website
 0.0.0.0 aqdlwqnlttt.com
 0.0.0.0 aqeognplbpirm.space
 0.0.0.0 aqfyrgb.in
@@ -19723,7 +19725,6 @@
 0.0.0.0 aralithmoon.com
 0.0.0.0 arangoclawk.com
 0.0.0.0 arapahoclinbribes.cfd
-0.0.0.0 ararobafozy.cyou
 0.0.0.0 arbachakov.ru
 0.0.0.0 piwik.arbeiterkammer.at
 0.0.0.0 arbigo.com
@@ -19762,7 +19763,6 @@
 0.0.0.0 px.arcspire.io
 0.0.0.0 smetrics.arcteryx.com
 0.0.0.0 arcticattention.com
-0.0.0.0 arctoidarmeria.shop
 0.0.0.0 image.ard.de
 0.0.0.0 ardalio.com
 0.0.0.0 app.ardalio.com
@@ -19794,14 +19794,12 @@
 0.0.0.0 static.areyouwatchingthis.com
 0.0.0.0 www.areyouwatchingthis.com
 0.0.0.0 arferrothorna.com
-0.0.0.0 argalsagua.cyou
 0.0.0.0 argansnubbin.qpon
 0.0.0.0 argantalcs.com
 0.0.0.0 arglesmtn.com
 0.0.0.0 arglingpistole.com
 0.0.0.0 argolidwealden.cfd
 0.0.0.0 argrowlitheor.com
-0.0.0.0 argyllbests.qpon
 0.0.0.0 qltag.ariat.com
 0.0.0.0 sgtm.ariat.com
 0.0.0.0 aricinquerida.com
@@ -19809,7 +19807,6 @@
 0.0.0.0 arieslongues.cfd
 0.0.0.0 arightdaturic.shop
 0.0.0.0 www.ariix.com
-0.0.0.0 arimaspthram.qpon
 0.0.0.0 arin-solar.ch
 0.0.0.0 arisefeistyleery.com
 0.0.0.0 www.arisetechindia.com
@@ -19852,10 +19849,8 @@
 0.0.0.0 arpoyoiriphet.space
 0.0.0.0 arpun.com
 0.0.0.0 www.arpun.com
-0.0.0.0 arqznlwbyvlrj.top
 0.0.0.0 arrakis2.com
 0.0.0.0 arridedunfeary.qpon
-0.0.0.0 arrierotuik.shop
 0.0.0.0 arroapp.com
 0.0.0.0 arrogancedanderuntruth.com
 0.0.0.0 secure.arrow.com
@@ -19901,7 +19896,6 @@
 0.0.0.0 arvigorothan.com
 0.0.0.0 arwhpetevielbj.com
 0.0.0.0 arwobaton.com
-0.0.0.0 arwwalylihgph.online
 0.0.0.0 aryacoin.io
 0.0.0.0 aryancrack.com
 0.0.0.0 arylsynetic.cyou
@@ -19929,12 +19923,10 @@
 0.0.0.0 us-east4-production-rtb-wins.ascendeummedia.com
 0.0.0.0 us-west4-production-rtb-wins.ascendeummedia.com
 0.0.0.0 ascentaudiologycherryhill.com
-0.0.0.0 ascidiaoffbeat.cyou
 0.0.0.0 omniture-ssl.direct.asda.com
 0.0.0.0 asdfix.com
 0.0.0.0 p.asdfix.com
 0.0.0.0 asdnow.xyz
-0.0.0.0 asdzuuanyktyr.site
 0.0.0.0 analytics.fabiz.ase.ro
 0.0.0.0 ads.asee.org
 0.0.0.0 asensoithecb.com
@@ -19987,7 +19979,6 @@
 0.0.0.0 askewrefusaltrashy.com
 0.0.0.0 www.askingpoint.com
 0.0.0.0 events.askjdhaa.com
-0.0.0.0 askkoskyjzjxf.website
 0.0.0.0 askme4date.com
 0.0.0.0 askmebefore.biz
 0.0.0.0 askstaxihope.com
@@ -20026,7 +20017,6 @@
 0.0.0.0 uo.assessschisma.com
 0.0.0.0 assetsconfigcdn.org
 0.0.0.0 assignlabor.com
-0.0.0.0 assisspoof.shop
 0.0.0.0 assistads.net
 0.0.0.0 adserver.assistads.net
 0.0.0.0 media.assistads.net
@@ -20074,7 +20064,6 @@
 0.0.0.0 astfhcceyvyag.site
 0.0.0.0 asthmanotchcave.com
 0.0.0.0 asthmasburr.cyou
-0.0.0.0 astintpyrryl.cyou
 0.0.0.0 astjigglypuffchan.com
 0.0.0.0 astonishingfood.com
 0.0.0.0 astonishlandmassnervy.com
@@ -20100,7 +20089,6 @@
 0.0.0.0 ingestion.events.asurion.com
 0.0.0.0 aswpapius.com
 0.0.0.0 aswpsdkus.com
-0.0.0.0 asylerifest.qpon
 0.0.0.0 asyn.cn
 0.0.0.0 aszhusho.org
 0.0.0.0 at-ninja.jp
@@ -20137,7 +20125,6 @@
 0.0.0.0 www.atasehirescortlari.com
 0.0.0.0 atatottlesozolic.cyou
 0.0.0.0 bm-rx.atatus.com
-0.0.0.0 atavismoozier.qpon
 0.0.0.0 atbhlvyasqeo.com
 0.0.0.0 atchao.jp
 0.0.0.0 atclauncheran.com
@@ -20189,7 +20176,6 @@
 0.0.0.0 xsgdt.play.aiseet.atianqi.com
 0.0.0.0 tv.aiseet.atianqi.com
 0.0.0.0 tv6.aiseet.atianqi.com
-0.0.0.0 atikfierjwwew.online
 0.0.0.0 atimygud.cyou
 0.0.0.0 atinternet.com
 0.0.0.0 blog.atinternet.com
@@ -43636,6 +43622,7 @@
 0.0.0.0 felineenarch.shop
 0.0.0.0 fellfortunatepassive.com
 0.0.0.0 felllilyforegoing.com
+0.0.0.0 fellowearnwave.com
 0.0.0.0 fellowshiplyricsceasless.com
 0.0.0.0 t.felmat.net
 0.0.0.0 feltyrewoken.cfd
@@ -43842,6 +43829,7 @@
 0.0.0.0 findyourdelight.com
 0.0.0.0 fine-cloud.net
 0.0.0.0 sp.fine-days.net
+0.0.0.0 fine-specialist.pro
 0.0.0.0 finearisetoothpaste.com
 0.0.0.0 spatial.fineboost.com
 0.0.0.0 fineeravistiderip.qpon
@@ -48118,6 +48106,7 @@
 0.0.0.0 x7.hebiichigo.com
 0.0.0.0 hebrewssusianmetier.cyou
 0.0.0.0 www.hebronrc.org
+0.0.0.0 hecticwelcomingassociation.com
 0.0.0.0 hectorounce.cyou
 0.0.0.0 hedgingfingan.cfd
 0.0.0.0 heelremeet.qpon
@@ -62800,6 +62789,7 @@
 0.0.0.0 data.nexxt.com
 0.0.0.0 nezhna.com
 0.0.0.0 nf2nfatrk.com
+0.0.0.0 nf57yq1mepnm8c.cfd
 0.0.0.0 nffmuvludurqc.com
 0.0.0.0 nfiihqftpdfyz.website
 0.0.0.0 smetrics.nfl.com

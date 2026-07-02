@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 06:49 UTC
-! Version: 2026.0702.0649.54
+! Last modified: 02 Jul 2026 09:50 UTC
+! Version: 2026.0702.0950.10
 ! Syntax: AdBlock
-! Number of entries: 57037
+! Number of entries: 57007
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -303,7 +303,6 @@
 ||bc.arabeskcaproyl.com^
 ||arabs.arabxporn.net^
 ||st.arbalostously.com^
-||yajeine.arckedobelise.shop^
 ||aj.arcoaffray.com^
 ||qw.argelchanger.com^
 ||ts.arhatfreer.com^
@@ -334,7 +333,6 @@
 ||wagzrx.astonlshlngdates.com^
 ||v6.astralune.net^
 ||sub.astroline.today^
-||indiary.asuangxicaque.world^
 ||rf.atopjasz.com^
 ||go1.atre.work^
 ||zy.atrenclaypan.shop^
@@ -414,9 +412,6 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
-||chiyouranai.base.shop^
-||tokujiro.base.shop^
-||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1881,15 +1876,6 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
-||app-google-zh.hl.cn^
-||go-todesk.hl.cn^
-||google-google-chrome-google-com.hl.cn^
-||line-go.hl.cn^
-||qh-qishuiyinyue.hl.cn^
-||qishuimusic-cn.hl.cn^
-||todesk-web.hl.cn^
-||todesk-zh.hl.cn^
-||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||m10.hoes.tube^
 ||yy.hogacotset.com^
@@ -8561,6 +8547,7 @@
 ||5wzgtq8dpk.com^
 ||6-partner.com^
 ||6000function.com^
+||600fiber.net^
 ||600z.com^
 ||60418.com^
 ||60440.com^
@@ -11739,6 +11726,7 @@
 ||antonellapouncedcrewels.com^
 ||antonyexpected.com^
 ||antrtb.com^
+||antrumsletups.cyou^
 ||antthrobchannel.com^
 ||anubiscycliae.com^
 ||anunqsghebpjy.store^
@@ -11959,20 +11947,17 @@
 ||appunification.net^
 ||appwebview.com^
 ||appxufopj.com^
-||appyrinceas.org^
 ||apqchxhjdcudb.online^
 ||apqqwpshxpgaq.xyz^
 ||apremgacvfcwv.online^
 ||aprilineffective.com^
 ||aprilpanicfirsthand.com^
-||aprilxnet4.xyz^
 ||apritvun.com^
 ||apromoweb.com^
 ||apronmemorableidentify.com^
 ||apronspam.com^
 ||apsoacou.xyz^
 ||apsoopseevou.net^
-||apstrfanba.com^
 ||apt-country.com^
 ||apt-go.com^
 ||apt-outcome.com^
@@ -12031,7 +12016,6 @@
 ||aquaticowl.com^
 ||aquentlytujim.com^
 ||aquete.com^
-||aquiliahajib.rest^
 ||aquinassearchpartners.com^
 ||aquivex.com^
 ||aqusrpypahg.com^
@@ -12046,7 +12030,6 @@
 ||aralego.com^
 ||aralithmoon.com^
 ||aralomomolachan.com^
-||aramb.site^
 ||araneidboruca.com^
 ||arangaclower.com^
 ||arauraickeeftab.net^
@@ -12149,7 +12132,6 @@
 ||arkharmonious.com^
 ||arkivalmemories.com^
 ||arkkwqfhvefgti.com^
-||arkosicensnow.shop^
 ||arkwglkwhnhce.store^
 ||arludoom.com^
 ||armanet.co^
@@ -12174,7 +12156,6 @@
 ||army.delivery^
 ||armyshilling.com^
 ||armythrowsplinter.com^
-||arnedtolethi.com^
 ||arnffunhoos.com^
 ||arnimalconeer.com^
 ||arointslouther.com^
@@ -12195,12 +12176,10 @@
 ||arqjnojtrrwfd.space^
 ||arquitglassfm.com^
 ||arraignmentjump.com^
-||arraignmentreturn.com^
 ||arrakis2.com^
 ||arrangedateslocally.com^
 ||arrangementsfilter.com^
 ||arrangeunstablehuman.com^
-||arrasinutile.com^
 ||arrawqnh.com^
 ||arraydepressinginnocence.com^
 ||arrfhqatlseth.online^
@@ -12245,7 +12224,6 @@
 ||artistestate.com^
 ||artistic-employer.com^
 ||artistic-run.com^
-||artistictastesn.org^
 ||artlessspaceship.com^
 ||artmaker.cn^
 ||artmaxim.ru^
@@ -12264,13 +12242,11 @@
 ||asafesite.com^
 ||asagazsfxlgvx.space^
 ||asap15.com^
-||asarhcheezit.cyou^
 ||asaroneoraison.com^
 ||asbfala.com^
 ||asbfrrqdt.com^
 ||asbiupcvlaip.com^
 ||asbulbasaura.com^
-||ascarecrees.shop^
 ||asccdn.com^
 ||asce.xyz^
 ||asceireiymnfd.website^
@@ -12385,7 +12361,6 @@
 ||aspfxfnvoj.com^
 ||aspignitean.com^
 ||aspiranoma.pro^
-||aspirantjudged.com^
 ||aspirationlocksmithsupplant.com^
 ||aspirationprogrammecontains.com^
 ||aspiredemeaningmarvelous.com^
@@ -12398,7 +12373,6 @@
 ||asqcukoh.com^
 ||asqlh.com^
 ||asqsphwgybanh.com^
-||asquatstrepen.cyou^
 ||asrbyvjdlhqqt.store^
 ||asregisteelchan.com^
 ||asrety.com^
@@ -12417,7 +12391,6 @@
 ||assignedascertainfitting.com^
 ||assignedtwentiesmarshy.com^
 ||assignlabor.com^
-||assignmentlonesome.com^
 ||assimilatecigarettes.com^
 ||assistedtogether.com^
 ||assistimplemented.com^
@@ -12444,7 +12417,6 @@
 ||assured-vehicle.pro^
 ||assyctifor.com^
 ||ast2ya4ee8wtnax.com^
-||astacusstraked.shop^
 ||astcorphishor.com^
 ||asteevulaushor.com^
 ||astelicbanes.com^
@@ -12489,7 +12461,6 @@
 ||astumbreonon.com^
 ||asuamenopausa.com^
 ||asunderfacilitydealt.com^
-||aswirlbugi.cfd^
 ||aswlubstgg.com^
 ||asylumrope.com^
 ||asylumwoerolling.com^
@@ -12512,7 +12483,6 @@
 ||atdeerlinga.com^
 ||atdriczfuli.com^
 ||atdwhoqtigke.com^
-||ateletssuint.shop^
 ||atelier-goo.com^
 ||atelier-goo.net^
 ||atelier-hp.jp^
@@ -12532,7 +12502,6 @@
 ||aterasigin.com^
 ||ateraslog.com^
 ||ateratera.com^
-||aterhouseoyope.com^
 ||atgmzemuf.com^
 ||atgogmvi.com^
 ||atgvmlnbtnlxl.website^
@@ -12550,10 +12519,8 @@
 ||athletic-shoulder.com^
 ||athletic-substance.com^
 ||athlg.com^
-||atholicncesispe.com^
 ||atholicncesispe.info^
 ||athwartendorsetwinkle.com^
-||athyriaafara.shop^
 ||atibsaihoortep.net^
 ||aticalmaster.com^
 ||atimehost.com^
@@ -13418,6 +13385,7 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
+||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -28006,6 +27974,7 @@
 ||hebeishangcheng.com^
 ||hebhgyiqqgpkf.com^
 ||hectarbiddies.shop^
+||hecticwelcomingassociation.com^
 ||hedeuntacks.com^
 ||hedgehoghugsyou.com^
 ||hedgesniffle.com^
@@ -28431,6 +28400,7 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
+||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^

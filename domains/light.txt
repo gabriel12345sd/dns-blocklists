@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 07:33 UTC
-# Version: 2026.0702.0733.15
+# Last modified: 02 Jul 2026 10:50 UTC
+# Version: 2026.0702.1050.18
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 90955
+# Number of entries: 90945
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -5188,6 +5188,7 @@ tracklog.58.com
 587.jp
 588589.com
 5azc.xyz
+5bpajgg436.com
 creative.5ch.fun
 5clo0xmbf.com
 5cyi6tp6h.com
@@ -5248,6 +5249,7 @@ www.5thfinger.com
 6000brixtix.com
 6000function.com
 6000nexeo.com
+600fiber.net
 600network.com
 600rexola.net
 6060instruments.net
@@ -5297,6 +5299,7 @@ www.62nds.com
 metric.6p71hs.top
 6pq.cc
 6s5acf8d.com
+6s78n1rj4r.com
 j.6sc.co
 epsilon.6sense.com
 6uliq2uive.com
@@ -12486,6 +12489,7 @@ antj.link
 antlerlode.com
 antmyth.com
 antresboing.qpon
+antrumsletups.cyou
 ants.vn
 t.ants.vn
 www.ants.vn
@@ -19669,7 +19673,6 @@ kunde.apt.no
 aptabase.com
 eu.aptabase.com
 analytics.aptania.com
-aptestabend.qpon
 aptina.com
 www.aptina.com
 aptoide-mmp.aptoide.com
@@ -19688,7 +19691,6 @@ apycdn.com
 apyecom.com
 apyoth.com
 aqauikfd.com
-aqazqbqdueeob.website
 aqdlwqnlttt.com
 aqeognplbpirm.space
 aqfyrgb.in
@@ -19723,7 +19725,6 @@ sync.aralego.com
 aralithmoon.com
 arangoclawk.com
 arapahoclinbribes.cfd
-ararobafozy.cyou
 arbachakov.ru
 piwik.arbeiterkammer.at
 arbigo.com
@@ -19762,7 +19763,6 @@ public.arcspire.io
 px.arcspire.io
 smetrics.arcteryx.com
 arcticattention.com
-arctoidarmeria.shop
 image.ard.de
 ardalio.com
 app.ardalio.com
@@ -19794,14 +19794,12 @@ metabet.static.api.areyouwatchingthis.com
 static.areyouwatchingthis.com
 www.areyouwatchingthis.com
 arferrothorna.com
-argalsagua.cyou
 argansnubbin.qpon
 argantalcs.com
 arglesmtn.com
 arglingpistole.com
 argolidwealden.cfd
 argrowlitheor.com
-argyllbests.qpon
 qltag.ariat.com
 sgtm.ariat.com
 aricinquerida.com
@@ -19809,7 +19807,6 @@ arid-aside.com
 arieslongues.cfd
 arightdaturic.shop
 www.ariix.com
-arimaspthram.qpon
 arin-solar.ch
 arisefeistyleery.com
 www.arisetechindia.com
@@ -19852,10 +19849,8 @@ aroxumtoe.com
 arpoyoiriphet.space
 arpun.com
 www.arpun.com
-arqznlwbyvlrj.top
 arrakis2.com
 arridedunfeary.qpon
-arrierotuik.shop
 arroapp.com
 arrogancedanderuntruth.com
 secure.arrow.com
@@ -19901,7 +19896,6 @@ arvenorstore.com
 arvigorothan.com
 arwhpetevielbj.com
 arwobaton.com
-arwwalylihgph.online
 aryacoin.io
 aryancrack.com
 arylsynetic.cyou
@@ -19929,12 +19923,10 @@ sdk.ascendeummedia.com
 us-east4-production-rtb-wins.ascendeummedia.com
 us-west4-production-rtb-wins.ascendeummedia.com
 ascentaudiologycherryhill.com
-ascidiaoffbeat.cyou
 omniture-ssl.direct.asda.com
 asdfix.com
 p.asdfix.com
 asdnow.xyz
-asdzuuanyktyr.site
 analytics.fabiz.ase.ro
 ads.asee.org
 asensoithecb.com
@@ -19987,7 +19979,6 @@ askesiscyclene.cfd
 askewrefusaltrashy.com
 www.askingpoint.com
 events.askjdhaa.com
-askkoskyjzjxf.website
 askme4date.com
 askmebefore.biz
 askstaxihope.com
@@ -20026,7 +20017,6 @@ js.assemblyexchange.com
 uo.assessschisma.com
 assetsconfigcdn.org
 assignlabor.com
-assisspoof.shop
 assistads.net
 adserver.assistads.net
 media.assistads.net
@@ -20074,7 +20064,6 @@ www.asterpix.com
 astfhcceyvyag.site
 asthmanotchcave.com
 asthmasburr.cyou
-astintpyrryl.cyou
 astjigglypuffchan.com
 astonishingfood.com
 astonishlandmassnervy.com
@@ -20100,7 +20089,6 @@ events.asurion.com
 ingestion.events.asurion.com
 aswpapius.com
 aswpsdkus.com
-asylerifest.qpon
 asyn.cn
 aszhusho.org
 at-ninja.jp
@@ -20137,7 +20125,6 @@ atasehirescortlari.com
 www.atasehirescortlari.com
 atatottlesozolic.cyou
 bm-rx.atatus.com
-atavismoozier.qpon
 atbhlvyasqeo.com
 atchao.jp
 atclauncheran.com
@@ -20189,7 +20176,6 @@ vvoice.play.aiseet.atianqi.com
 xsgdt.play.aiseet.atianqi.com
 tv.aiseet.atianqi.com
 tv6.aiseet.atianqi.com
-atikfierjwwew.online
 atimygud.cyou
 atinternet.com
 blog.atinternet.com
@@ -43636,6 +43622,7 @@ feldot.com
 felineenarch.shop
 fellfortunatepassive.com
 felllilyforegoing.com
+fellowearnwave.com
 fellowshiplyricsceasless.com
 t.felmat.net
 feltyrewoken.cfd
@@ -43842,6 +43829,7 @@ findresultsquick.com
 findyourdelight.com
 fine-cloud.net
 sp.fine-days.net
+fine-specialist.pro
 finearisetoothpaste.com
 spatial.fineboost.com
 fineeravistiderip.qpon
@@ -48118,6 +48106,7 @@ x6.hebiichigo.com
 x7.hebiichigo.com
 hebrewssusianmetier.cyou
 www.hebronrc.org
+hecticwelcomingassociation.com
 hectorounce.cyou
 hedgingfingan.cfd
 heelremeet.qpon
@@ -62800,6 +62789,7 @@ www.nexx360.io
 data.nexxt.com
 nezhna.com
 nf2nfatrk.com
+nf57yq1mepnm8c.cfd
 nffmuvludurqc.com
 nfiihqftpdfyz.website
 smetrics.nfl.com

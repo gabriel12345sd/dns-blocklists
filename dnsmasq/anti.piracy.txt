@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 07:49 UTC
-# Version: 2026.0702.0749.37
+# Last modified: 02 Jul 2026 10:34 UTC
+# Version: 2026.0702.1034.57
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 31074
 #
@@ -3220,7 +3220,6 @@ local=/appzuniverse.org/
 local=/appzworld.com/
 local=/aprilga.beer/
 local=/aptoide.com/
-local=/apunka.games/
 local=/apunkagames.com/
 local=/apunkagames.cyou/
 local=/apunkagames.icu/
@@ -30116,6 +30115,7 @@ local=/watchwrestling.in/
 local=/watchwrestling.la/
 local=/watchwrestling24.net/
 local=/watermage-lordfilm.ru/
+local=/waterpump41.world/
 local=/wawa-mania.ws/
 local=/wawacity.blue/
 local=/wawacity.ec/

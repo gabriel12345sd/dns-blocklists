@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782979020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782988860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 07:57 UTC
-; Version: 2026.0702.0757.03
+; Last modified: 02 Jul 2026 10:41 UTC
+; Version: 2026.0702.1041.08
 ; Syntax: RPZ
-; Number of entries: 34416
+; Number of entries: 34408
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -4653,8 +4653,6 @@ astrilldownloads.com CNAME .
 *.astrilldownloads.com CNAME .
 astrilljiasu.com CNAME .
 *.astrilljiasu.com CNAME .
-astrilljsvpn.com CNAME .
-*.astrilljsvpn.com CNAME .
 astrillvpnapp.com CNAME .
 *.astrillvpnapp.com CNAME .
 astroutercn.com CNAME .
@@ -17069,8 +17067,6 @@ ieatmonsters.atamanco.eu CNAME .
 *.ieatmonsters.atamanco.eu CNAME .
 overcloaked.atamanco.eu CNAME .
 *.overcloaked.atamanco.eu CNAME .
-pulsewire.atamanco.eu CNAME .
-*.pulsewire.atamanco.eu CNAME .
 home.basthorst.eu CNAME .
 *.home.basthorst.eu CNAME .
 dns.bermeitinger.eu CNAME .
@@ -19823,8 +19819,6 @@ net01.youcef.io CNAME .
 *.net01.youcef.io CNAME .
 zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
-grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
-*.grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 atvsh.ir CNAME .
 *.atvsh.ir CNAME .
 avaaaal.ir CNAME .
@@ -30423,8 +30417,6 @@ zymverto.ru CNAME .
 *.zymverto.ru CNAME .
 zyvola.ru CNAME .
 *.zyvola.ru CNAME .
-arrives.run CNAME .
-*.arrives.run CNAME .
 canuletmeeep.run CNAME .
 *.canuletmeeep.run CNAME .
 chester.run CNAME .

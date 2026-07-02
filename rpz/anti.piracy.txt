@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1782978540 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1782988440 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 07:49 UTC
-; Version: 2026.0702.0749.37
+; Last modified: 02 Jul 2026 10:34 UTC
+; Version: 2026.0702.1034.57
 ; Syntax: RPZ
 ; Number of entries: 62148
 ;
@@ -16402,8 +16402,6 @@ vegamovies.gallery CNAME .
 *.vegamovies.gallery CNAME .
 altadefinizione01.games CNAME .
 *.altadefinizione01.games CNAME .
-apunka.games CNAME .
-*.apunka.games CNAME .
 dontorrent.games CNAME .
 *.dontorrent.games CNAME .
 emulator.games CNAME .
@@ -60528,6 +60526,8 @@ vegamovies.world CNAME .
 *.vegamovies.world CNAME .
 vumoo.world CNAME .
 *.vumoo.world CNAME .
+waterpump41.world CNAME .
+*.waterpump41.world CNAME .
 xalaflix2.world CNAME .
 *.xalaflix2.world CNAME .
 xalaflixs.world CNAME .

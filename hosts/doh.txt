@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 07:56 UTC
-# Version: 2026.0702.0756.18
+# Last modified: 02 Jul 2026 10:54 UTC
+# Version: 2026.0702.1054.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3887
+# Number of entries: 3886
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -375,7 +375,6 @@
 0.0.0.0 dns.artikel10.org
 0.0.0.0 resolver.as203038.net
 0.0.0.0 doh.asagiri.moe
-0.0.0.0 grgrgrkeepcalmkeepcalm.asatid12.ir
 0.0.0.0 doh.asecdns.com
 0.0.0.0 dot.asecdns.com
 0.0.0.0 midgard.asguardian.de
