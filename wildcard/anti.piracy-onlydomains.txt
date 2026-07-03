@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 19:10 UTC
-# Version: 2026.0702.1910.38
+# Last modified: 03 Jul 2026 02:30 UTC
+# Version: 2026.0703.0230.38
 # Syntax: Domains (without subdomains)
-# Number of entries: 31066
+# Number of entries: 31060
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -617,6 +617,8 @@ pre.fyp.nl
 ettv.g3g.fun
 yuptracker.gaijinent.com
 yuptracker-eu.gaijinent.com
+yuptracker-sa.gaijinent.com
+yuptracker-us.gaijinent.com
 bt-tracker.gamexp.ru
 tracker.gaytor.rent
 hh.gbdev.io
@@ -3881,7 +3883,6 @@ bojtes-hodyachih-mertwecov-lordfilm.ru
 bokashoka.com
 bolly4u.bayern
 bolly4u.cologne
-bolly4u.tube
 bollyflix.army
 bollyflix.baby
 bollyflix.bond
@@ -3892,7 +3893,6 @@ bollyflix.esq
 bollyflix.faith
 bollyflix.fish
 bollyflix.fit
-bollyflix.frl
 bollyflix.ist
 bollyflix.life
 bollyflix.med
@@ -3901,7 +3901,6 @@ bollyflix.one
 bollyflix.online
 bollyflix.pet
 bollyflix.pro
-bollyflix.promo
 bollyflix.pub
 bollyflix.run
 bollyflix.services
@@ -3916,7 +3915,6 @@ bollyflix1.xyz
 bollyflix4.com
 bollyflixmovies.online
 bollyflixpet.site
-bollyflixreview.com
 bollywood.eu
 bolmovies.com
 bolnica-piit-lordfilm.ru
@@ -3936,7 +3934,6 @@ bonoov.fr
 bonsaihd.fun
 bonsaiprolink.shop
 bonsaiprolink.site
-bonsaiprolink.space
 boogiymans-lordfilm.ru
 bookaudiobook.net
 bookawarezone.digital
@@ -3950,7 +3947,6 @@ books-share.com
 booktracker.org
 boomep.com
 boommovie.org
-booook.bond
 boorn-lordfilm.ru
 boostfluence.com
 boot.lu
@@ -3967,7 +3963,6 @@ bootylounge.org
 bootyou.net
 bootytape.com
 bootytorrents.com
-booxhare.xyz
 born-lordfilm3.ru
 borutois-lordfilm.ru
 borutos-lordfilm.ru
@@ -3988,7 +3983,6 @@ box.sk
 box4k.com
 boxbit.org
 boxfilmes.net
-boxingstreams100.com
 boxingusa.info
 boxofficewatch.com
 boxopus.com

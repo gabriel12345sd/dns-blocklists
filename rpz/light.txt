@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783018380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783046700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 18:53 UTC
-; Version: 2026.0702.1853.01
+; Last modified: 03 Jul 2026 02:45 UTC
+; Version: 2026.0703.0245.53
 ; Syntax: RPZ
-; Number of entries: 87068
+; Number of entries: 86996
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -2408,6 +2408,8 @@ stake.ceo CNAME .
 *.381iiejz6hn4lf.cfd CNAME .
 3l26385fiv11kvyo.cfd CNAME .
 *.3l26385fiv11kvyo.cfd CNAME .
+3lp5jbwp4ep5oh9x.cfd CNAME .
+*.3lp5jbwp4ep5oh9x.cfd CNAME .
 3r5xxmp421rnkqwhowj.cfd CNAME .
 *.3r5xxmp421rnkqwhowj.cfd CNAME .
 3uyo22q87l653qqj4wvi.cfd CNAME .
@@ -2580,8 +2582,6 @@ blitzwallet.cfd CNAME .
 *.blitzwallet.cfd CNAME .
 bloopsbordel.cfd CNAME .
 *.bloopsbordel.cfd CNAME .
-bodockvirent.cfd CNAME .
-*.bodockvirent.cfd CNAME .
 boguingmowra.cfd CNAME .
 *.boguingmowra.cfd CNAME .
 bokoawreak.cfd CNAME .
@@ -2590,12 +2590,6 @@ boltedacyetic.cfd CNAME .
 *.boltedacyetic.cfd CNAME .
 bonierunsized.cfd CNAME .
 *.bonierunsized.cfd CNAME .
-bonserdalteen.cfd CNAME .
-*.bonserdalteen.cfd CNAME .
-bonsoirforlorn.cfd CNAME .
-*.bonsoirforlorn.cfd CNAME .
-booingtruddo.cfd CNAME .
-*.booingtruddo.cfd CNAME .
 boozilyhaircap.cfd CNAME .
 *.boozilyhaircap.cfd CNAME .
 boresorson.cfd CNAME .
@@ -2604,8 +2598,6 @@ bottierrangleneavil.cfd CNAME .
 *.bottierrangleneavil.cfd CNAME .
 bq2okgjfhn9v924z.cfd CNAME .
 *.bq2okgjfhn9v924z.cfd CNAME .
-braceroinnerly.cfd CNAME .
-*.braceroinnerly.cfd CNAME .
 brazennibung.cfd CNAME .
 *.brazennibung.cfd CNAME .
 brazensstaling.cfd CNAME .
@@ -2618,8 +2610,6 @@ bremberbiaural.cfd CNAME .
 *.bremberbiaural.cfd CNAME .
 bricklylobbers.cfd CNAME .
 *.bricklylobbers.cfd CNAME .
-brioletspikily.cfd CNAME .
-*.brioletspikily.cfd CNAME .
 briskbluffer.cfd CNAME .
 *.briskbluffer.cfd CNAME .
 brocardnizey.cfd CNAME .
@@ -3424,6 +3414,8 @@ l2jnxmbrmge5xi.cfd CNAME .
 *.l2jnxmbrmge5xi.cfd CNAME .
 l3uvrk68bj4bw1l1ttqpguw12bt9b.cfd CNAME .
 *.l3uvrk68bj4bw1l1ttqpguw12bt9b.cfd CNAME .
+l7vrv4crj8g5rc.cfd CNAME .
+*.l7vrv4crj8g5rc.cfd CNAME .
 lactosegucks.cfd CNAME .
 *.lactosegucks.cfd CNAME .
 lairdinnerly.cfd CNAME .
@@ -4322,6 +4314,8 @@ tsantsajunctor.cfd CNAME .
 *.tsantsajunctor.cfd CNAME .
 ttjg3zq3evr826.cfd CNAME .
 *.ttjg3zq3evr826.cfd CNAME .
+ttyn7py8l4ql3ny.cfd CNAME .
+*.ttyn7py8l4ql3ny.cfd CNAME .
 ttzhmzji8bjm53bve3f2tnpwg2.cfd CNAME .
 *.ttzhmzji8bjm53bve3f2tnpwg2.cfd CNAME .
 tudorfresco.cfd CNAME .
@@ -6374,12 +6368,12 @@ s3.0dayporno.com CNAME .
 *.s3.0dayporno.com CNAME .
 0dayreleases.com CNAME .
 *.0dayreleases.com CNAME .
-0ed35fac92.com CNAME .
-*.0ed35fac92.com CNAME .
 0hqq3dnjf.com CNAME .
 *.0hqq3dnjf.com CNAME .
 0i0i0i0.com CNAME .
 *.0i0i0i0.com CNAME .
+0l7t5qhb4.com CNAME .
+*.0l7t5qhb4.com CNAME .
 0network.com CNAME .
 *.0network.com CNAME .
 0nyzdw2maq.com CNAME .
@@ -6774,6 +6768,8 @@ sst.1passwordservices.com CNAME .
 *.sst.1passwordservices.com CNAME .
 telemetry.1passwordservices.com CNAME .
 *.telemetry.1passwordservices.com CNAME .
+1r0br5zeq.com CNAME .
+*.1r0br5zeq.com CNAME .
 1rtb.com CNAME .
 *.1rtb.com CNAME .
 1sapp.com CNAME .
@@ -7050,8 +7046,6 @@ analytics.300624.com CNAME .
 *.300daytravel.com CNAME .
 30dcf.com CNAME .
 *.30dcf.com CNAME .
-30ea3091fb.com CNAME .
-*.30ea3091fb.com CNAME .
 www.30girl.com CNAME .
 *.www.30girl.com CNAME .
 30inwarehouses.com CNAME .
@@ -7162,8 +7156,6 @@ api-log.3bmeteo.com CNAME .
 *.3ckz.com CNAME .
 webapi.3cx.com CNAME .
 *.webapi.3cx.com CNAME .
-3d6a6c3707.com CNAME .
-*.3d6a6c3707.com CNAME .
 3d7b481b4d.com CNAME .
 *.3d7b481b4d.com CNAME .
 www.3deepspace.com CNAME .
@@ -7380,6 +7372,8 @@ sp.qf.56.com CNAME .
 *.561890.com CNAME .
 5761b6af55.com CNAME .
 *.5761b6af55.com CNAME .
+57703b28d4.com CNAME .
+*.57703b28d4.com CNAME .
 57b7140971.com CNAME .
 *.57b7140971.com CNAME .
 advert.58.com CNAME .
@@ -7610,6 +7604,8 @@ px-img.7mdt.com CNAME .
 *.82query.com CNAME .
 83phwin.com CNAME .
 *.83phwin.com CNAME .
+84067f6a2e.com CNAME .
+*.84067f6a2e.com CNAME .
 848trk.com CNAME .
 *.848trk.com CNAME .
 85a30cce17.com CNAME .
@@ -9668,8 +9664,6 @@ afkwa.com CNAME .
 *.afkwa.com CNAME .
 afm01.com CNAME .
 *.afm01.com CNAME .
-afmndx.com CNAME .
-*.afmndx.com CNAME .
 afovivytex.com CNAME .
 *.afovivytex.com CNAME .
 afrdtech.com CNAME .
@@ -17986,8 +17980,6 @@ bluestacksdownloads.com CNAME .
 *.bluestacksdownloads.com CNAME .
 s0b.bluestreak.com CNAME .
 *.s0b.bluestreak.com CNAME .
-bluetackclasp.com CNAME .
-*.bluetackclasp.com CNAME .
 bluetrafficstream.com CNAME .
 *.bluetrafficstream.com CNAME .
 bluevinebooks.com CNAME .
@@ -18090,8 +18082,6 @@ boannre.com CNAME .
 *.boannre.com CNAME .
 metrics.boat-ed.com CNAME .
 *.metrics.boat-ed.com CNAME .
-boatjadeinconsistency.com CNAME .
-*.boatjadeinconsistency.com CNAME .
 metrics.boatsgroup.com CNAME .
 *.metrics.boatsgroup.com CNAME .
 bob-recs.com CNAME .
@@ -18706,8 +18696,6 @@ brocode3s.com CNAME .
 *.brocode3s.com CNAME .
 brodmn.com CNAME .
 *.brodmn.com CNAME .
-brodownload8s.com CNAME .
-*.brodownload8s.com CNAME .
 www.brokerbabe.com CNAME .
 *.www.brokerbabe.com CNAME .
 bronzecedarleaf.com CNAME .
@@ -24372,6 +24360,8 @@ e3eb4eq0v.com CNAME .
 *.e3eb4eq0v.com CNAME .
 e3j60qqdk.com CNAME .
 *.e3j60qqdk.com CNAME .
+e427d04a02.com CNAME .
+*.e427d04a02.com CNAME .
 e59c256d56ea60ed930cb7a416555cff78f41f6bf650b649bea85a87.com CNAME .
 *.e59c256d56ea60ed930cb7a416555cff78f41f6bf650b649bea85a87.com CNAME .
 e69c935570.com CNAME .
@@ -56536,34 +56526,18 @@ boganhands.cyou CNAME .
 *.boganhands.cyou CNAME .
 bogletsalmon.cyou CNAME .
 *.bogletsalmon.cyou CNAME .
-bonasacarga.cyou CNAME .
-*.bonasacarga.cyou CNAME .
 boneycootchturakoo.cyou CNAME .
 *.boneycootchturakoo.cyou CNAME .
 bonsaiaccisefoaming.cyou CNAME .
 *.bonsaiaccisefoaming.cyou CNAME .
 bonzermixupclaxons.cyou CNAME .
 *.bonzermixupclaxons.cyou CNAME .
-bookedalloy.cyou CNAME .
-*.bookedalloy.cyou CNAME .
 boonkaleshot.cyou CNAME .
 *.boonkaleshot.cyou CNAME .
-borghcheskey.cyou CNAME .
-*.borghcheskey.cyou CNAME .
-botellahidable.cyou CNAME .
-*.botellahidable.cyou CNAME .
-bournedisced.cyou CNAME .
-*.bournedisced.cyou CNAME .
 brackedignotus.cyou CNAME .
 *.brackedignotus.cyou CNAME .
 bragidylismtooken.cyou CNAME .
 *.bragidylismtooken.cyou CNAME .
-bregmaaurally.cyou CNAME .
-*.bregmaaurally.cyou CNAME .
-briseisnodules.cyou CNAME .
-*.briseisnodules.cyou CNAME .
-briskyfab.cyou CNAME .
-*.briskyfab.cyou CNAME .
 bruitspifero.cyou CNAME .
 *.bruitspifero.cyou CNAME .
 buenolowsedgara.cyou CNAME .
@@ -61442,10 +61416,6 @@ bmmwa.info CNAME .
 *.bmmwa.info CNAME .
 bonertraffic13.info CNAME .
 *.bonertraffic13.info CNAME .
-bouwdirect.info CNAME .
-*.bouwdirect.info CNAME .
-bouwplus.info CNAME .
-*.bouwplus.info CNAME .
 bunaersam.info CNAME .
 *.bunaersam.info CNAME .
 burningpushing.info CNAME .
@@ -67312,8 +67282,6 @@ d26xw8rp6mlgfg.cloudfront.net CNAME .
 *.d26xw8rp6mlgfg.cloudfront.net CNAME .
 d27gtglsu4f4y2.cloudfront.net CNAME .
 *.d27gtglsu4f4y2.cloudfront.net CNAME .
-d292swwe9zki3u.cloudfront.net CNAME .
-*.d292swwe9zki3u.cloudfront.net CNAME .
 d2cli4kgl5uxre.cloudfront.net CNAME .
 *.d2cli4kgl5uxre.cloudfront.net CNAME .
 d2cmqkwo8rxlr9.cloudfront.net CNAME .
@@ -73186,10 +73154,6 @@ bigrbmvjmorry.online CNAME .
 *.bigrbmvjmorry.online CNAME .
 bkhhmyjvmfgxg.online CNAME .
 *.bkhhmyjvmfgxg.online CNAME .
-bptigavzsmjuy.online CNAME .
-*.bptigavzsmjuy.online CNAME .
-bqiacikyzzero.online CNAME .
-*.bqiacikyzzero.online CNAME .
 bracdn.online CNAME .
 *.bracdn.online CNAME .
 bsbhmvllsgmnd.online CNAME .
@@ -76106,6 +76070,8 @@ nothingimportant.pro CNAME .
 *.nothingimportant.pro CNAME .
 oast.pro CNAME .
 *.oast.pro CNAME .
+occasional-prize.pro CNAME .
+*.occasional-prize.pro CNAME .
 ocop-defender.pro CNAME .
 *.ocop-defender.pro CNAME .
 offensivefamily.pro CNAME .
@@ -76166,6 +76132,8 @@ satisfied-physics.pro CNAME .
 *.satisfied-physics.pro CNAME .
 serpentine-bat.pro CNAME .
 *.serpentine-bat.pro CNAME .
+serpentine-church.pro CNAME .
+*.serpentine-church.pro CNAME .
 shameless-respond.pro CNAME .
 *.shameless-respond.pro CNAME .
 simbad.pro CNAME .
@@ -76434,28 +76402,16 @@ blightiambijaseyed.qpon CNAME .
 *.blightiambijaseyed.qpon CNAME .
 blinkperloirfiddley.qpon CNAME .
 *.blinkperloirfiddley.qpon CNAME .
-blowenstork.qpon CNAME .
-*.blowenstork.qpon CNAME .
 bluerstenar.qpon CNAME .
 *.bluerstenar.qpon CNAME .
 bluestrode.qpon CNAME .
 *.bluestrode.qpon CNAME .
-blumesaccoy.qpon CNAME .
-*.blumesaccoy.qpon CNAME .
 boatedcourts.qpon CNAME .
 *.boatedcourts.qpon CNAME .
-boersgrim.qpon CNAME .
-*.boersgrim.qpon CNAME .
 boersstarryscanty.qpon CNAME .
 *.boersstarryscanty.qpon CNAME .
-bolkdoutous.qpon CNAME .
-*.bolkdoutous.qpon CNAME .
-bombingdwt.qpon CNAME .
-*.bombingdwt.qpon CNAME .
 bomborasling.qpon CNAME .
 *.bomborasling.qpon CNAME .
-bookletlurky.qpon CNAME .
-*.bookletlurky.qpon CNAME .
 boopislucific.qpon CNAME .
 *.boopislucific.qpon CNAME .
 borecressy.qpon CNAME .
@@ -76464,24 +76420,12 @@ borishagamas.qpon CNAME .
 *.borishagamas.qpon CNAME .
 boronsbeverse.qpon CNAME .
 *.boronsbeverse.qpon CNAME .
-bosonicbtisesimblot.qpon CNAME .
-*.bosonicbtisesimblot.qpon CNAME .
 botagleeksimpresa.qpon CNAME .
 *.botagleeksimpresa.qpon CNAME .
-bougarspassquilly.qpon CNAME .
-*.bougarspassquilly.qpon CNAME .
 bougeebayingmealy.qpon CNAME .
 *.bougeebayingmealy.qpon CNAME .
-bramefluent.qpon CNAME .
-*.bramefluent.qpon CNAME .
 brandlediscase.qpon CNAME .
 *.brandlediscase.qpon CNAME .
-brassedunicism.qpon CNAME .
-*.brassedunicism.qpon CNAME .
-briarshops.qpon CNAME .
-*.briarshops.qpon CNAME .
-briersabrupt.qpon CNAME .
-*.briersabrupt.qpon CNAME .
 bringalzolaist.qpon CNAME .
 *.bringalzolaist.qpon CNAME .
 brinnyyeta.qpon CNAME .
@@ -76492,8 +76436,6 @@ brisketleafboy.qpon CNAME .
 *.brisketleafboy.qpon CNAME .
 brokingcutheal.qpon CNAME .
 *.brokingcutheal.qpon CNAME .
-broughtkittock.qpon CNAME .
-*.broughtkittock.qpon CNAME .
 bruleschacun.qpon CNAME .
 *.bruleschacun.qpon CNAME .
 buenashomogenrattier.qpon CNAME .
@@ -79940,18 +79882,10 @@ blocagekohls.shop CNAME .
 *.blocagekohls.shop CNAME .
 blowsemaze.shop CNAME .
 *.blowsemaze.shop CNAME .
-bogtrotdowning.shop CNAME .
-*.bogtrotdowning.shop CNAME .
-boopisalce.shop CNAME .
-*.boopisalce.shop CNAME .
 booteryembrase.shop CNAME .
 *.booteryembrase.shop CNAME .
-bossilylopezia.shop CNAME .
-*.bossilylopezia.shop CNAME .
 bowsiefaces.shop CNAME .
 *.bowsiefaces.shop CNAME .
-braiderdiscede.shop CNAME .
-*.braiderdiscede.shop CNAME .
 brawexstill.shop CNAME .
 *.brawexstill.shop CNAME .
 breezekiss.shop CNAME .
@@ -81140,8 +81074,6 @@ blnfsdkskzqfh.site CNAME .
 *.blnfsdkskzqfh.site CNAME .
 blyuwuwktvaog.site CNAME .
 *.blyuwuwktvaog.site CNAME .
-boipbshmjoatp.site CNAME .
-*.boipbshmjoatp.site CNAME .
 bosmjrzfssqus.site CNAME .
 *.bosmjrzfssqus.site CNAME .
 bpbnzbkaegpvk.site CNAME .
@@ -81150,8 +81082,6 @@ bpkeydnjfxnlr.site CNAME .
 *.bpkeydnjfxnlr.site CNAME .
 brditqozcvagl.site CNAME .
 *.brditqozcvagl.site CNAME .
-brdwfcecefhts.site CNAME .
-*.brdwfcecefhts.site CNAME .
 broadsimp.site CNAME .
 *.broadsimp.site CNAME .
 broadsview.site CNAME .
@@ -83394,6 +83324,8 @@ cleancarpet.store CNAME .
 *.cleancarpet.store CNAME .
 cloudtransfer.store CNAME .
 *.cloudtransfer.store CNAME .
+dragxel.store CNAME .
+*.dragxel.store CNAME .
 edapotheke.store CNAME .
 *.edapotheke.store CNAME .
 www.erectionpills.store CNAME .
@@ -85444,10 +85376,6 @@ bjdnqdbmktbhm.website CNAME .
 *.bjdnqdbmktbhm.website CNAME .
 bkmmafrixfake.website CNAME .
 *.bkmmafrixfake.website CNAME .
-bocjjotrtujka.website CNAME .
-*.bocjjotrtujka.website CNAME .
-bpkphtmwwqjub.website CNAME .
-*.bpkphtmwwqjub.website CNAME .
 brtwzoygdqohq.website CNAME .
 *.brtwzoygdqohq.website CNAME .
 bsigxzskaybsw.website CNAME .

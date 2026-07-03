@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 19:08 UTC
-! Version: 2026.0702.1908.46
+! Last modified: 02 Jul 2026 22:50 UTC
+! Version: 2026.0702.2250.31
 ! Syntax: AdBlock
-! Number of entries: 146988
+! Number of entries: 146949
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||togelgame.150m.com^
@@ -22624,7 +22624,6 @@
 ||apexcasino25.buzz^
 ||apexcasino27.top^
 ||apexcasino29.fun^
-||apexcasino3007.site^
 ||apexcasino761.team^
 ||apexcasino948.fun^
 ||apexcasino99.lol^
@@ -32237,11 +32236,8 @@
 ||bluecollarcasino.net^
 ||blueday.club^
 ||bluedoorlabs.com^
-||bluefairyandco.com^
 ||bluefoxcasino.com^
 ||bluefoxcasinoarena.com^
-||bluegrassloudoun.com^
-||blueolimp.casino^
 ||blueslotstech.com^
 ||bluesq.com^
 ||bluesquarecasino.mom^
@@ -32310,7 +32306,6 @@
 ||bni4d.pro^
 ||bnj7pokerdom.com^
 ||bnk.casino^
-||bnoln.poker^
 ||bnx.casino^
 ||bo-kazandiranfirsatlar.site^
 ||bo-kazandiranfirsatlar3.site^
@@ -32338,11 +32333,8 @@
 ||boaboaclub.casino^
 ||boaboavip.casino^
 ||boapoker.com^
-||boardprep.net^
-||boardwalkgrill.net^
 ||boba138.buzz^
 ||boba138.org^
-||boba55.id^
 ||bobabaru.com^
 ||bobacepek.com^
 ||bobaceri.com^
@@ -32537,7 +32529,6 @@
 ||bolderbets.fun^
 ||bolderbets.store^
 ||boleh888casino.com^
-||bollywood.casino^
 ||bollywood-casino.com^
 ||bollywood-casino-gim.fun^
 ||bollywood-casino-mtt.top^
@@ -32621,7 +32612,6 @@
 ||bonanza899.xyz^
 ||bonanza99net1.xyz^
 ||bonanzagame.com^
-||bonanzagame19.com^
 ||bonanzagame35.com^
 ||bonanzaslot88.win^
 ||bonaslotid.pics^
@@ -32656,7 +32646,6 @@
 ||bongo.gg^
 ||bongobongo.ke^
 ||bongobongo.ug^
-||bongoslots.com^
 ||bongslots.shop^
 ||bongslotskr.shop^
 ||bongvip.buzz^
@@ -32770,7 +32759,6 @@
 ||bonuschipcasino.com^
 ||bonuscodes.com^
 ||bonuscodespoker.nl^
-||bonuscrabcasinode.top^
 ||bonusdedebetgame.com^
 ||bonuseg1xbet.com^
 ||bonuses-casino.top^
@@ -32857,7 +32845,6 @@
 ||booi-slots.xyz^
 ||booi6213.casino^
 ||booicasino.se^
-||booicasino-023.buzz^
 ||booicasino-ar.com^
 ||booicasino-fao.top^
 ||booicasino-off.xyz^
@@ -32903,7 +32890,6 @@
 ||boombetspain.com^
 ||boomcasino.com^
 ||boomcasino.vlaanderen^
-||boomcasino-de.de^
 ||boomcasino1.com^
 ||boomcasino1.de^
 ||boomcasinocup.com^
@@ -32996,7 +32982,6 @@
 ||boomingbet.id^
 ||boomingbet.pro^
 ||boompoker.xyz^
-||boomrestaurant.net^
 ||booms-casino.com^
 ||boomsbet-casino-win.com^
 ||boomsbetcasino.info^
@@ -33010,7 +32995,6 @@
 ||boomzinocasino777.com^
 ||boomzinocasinode.de^
 ||boomzycasino.net^
-||boorcasino.com^
 ||boostcasino.com^
 ||boostcasino.forum^
 ||boostercracker.com^
@@ -33200,7 +33184,6 @@
 ||boydgamingcasinosmap.lol^
 ||boydgamingcasinosnearme.lol^
 ||boydgamingcasinosslotjackpots.lol^
-||boyiwallart.com^
 ||boyle-casino.net^
 ||boylecasino-ie.com^
 ||boylescasinouk.com^
@@ -33310,7 +33293,6 @@
 ||brandnewonlinecasinosusanodepositbo.lol^
 ||brandnewonlinecasinosusanodepositbon.lol^
 ||brandnewsocialcasinosusarealmoney.lol^
-||brandyns.com^
 ||brandywinephotonics.com^
 ||brango-casino-ca-play.com^
 ||brango-casino-new-zealand.com^
@@ -33377,7 +33359,6 @@
 ||breadbybetsy.com^
 ||breadspread.xyz^
 ||breaknews.cloud^
-||breathdiagnosticsinc.com^
 ||brenjitu4d.online^
 ||bresbet.com^
 ||brettibbets.com^
@@ -33401,7 +33382,6 @@
 ||brickgeekz.com^
 ||brickhousebonanza.casino^
 ||bridgeprojectcleveland.com^
-||bridgetonnc.net^
 ||brighton-casino.com^
 ||brightshare.com^
 ||brillbet.casino^
@@ -33511,10 +33491,8 @@
 ||bro138.pro^
 ||broadcnnewz.xyz^
 ||broaderbets.com^
-||broadheadquarters.com^
 ||brockgroup.xyz^
 ||brocktonfair.net^
-||brokenspokeranchhunts.com^
 ||brokerstorm.com^
 ||brolly.mobi^
 ||bronzecasino.irish^
@@ -40496,7 +40474,6 @@
 ||casino-sunmakers.de^
 ||casino-sunnyplayer.com^
 ||casino-supabet.org^
-||casino-super.ink^
 ||casino-super.net^
 ||casino-super.org^
 ||casino-superbetim.com^
@@ -48073,7 +48050,6 @@
 ||casino47095com.cyou^
 ||casino471.buzz^
 ||casino471.fun^
-||casino471.team^
 ||casino4710.beer^
 ||casino4712.cyou^
 ||casino47120.buzz^
@@ -48127,7 +48103,6 @@
 ||casino47473.buzz^
 ||casino47477.buzz^
 ||casino4748.buzz^
-||casino475.top^
 ||casino4750.fun^
 ||casino4751.cyou^
 ||casino4753.click^
@@ -49490,7 +49465,6 @@
 ||casino572.buzz^
 ||casino572.cfd^
 ||casino572.cyou^
-||casino572.fun^
 ||casino572.online^
 ||casino57203.buzz^
 ||casino57216.buzz^
@@ -50909,7 +50883,6 @@
 ||casino6709.buzz^
 ||casino67094.buzz^
 ||casino671.com^
-||casino671.fun^
 ||casino67106.buzz^
 ||casino67118.buzz^
 ||casino6715.click^
@@ -70053,7 +70026,6 @@
 ||dragonmoney431.casino^
 ||dragonmoney44.casino^
 ||dragonmoney4444.casino^
-||dragonmoney483.casino^
 ||dragonmoney51.casino^
 ||dragonmoney5226.casino^
 ||dragonmoney551.casino^
@@ -72666,7 +72638,6 @@
 ||evacasino.global^
 ||evacasino.link^
 ||evacasino.website^
-||evacasino-30-06.click^
 ||evacasino-gold.makeup^
 ||evacasino-hot.click^
 ||evacasino-sex.buzz^
@@ -73993,10 +73964,8 @@
 ||fenixcasino.se^
 ||fenixcasino.top^
 ||fenixcasino.us^
-||fenixcasino-nice.sbs^
 ||fenixcasino-online.vip^
 ||fenixcasino-pf.top^
-||fenixcasino-ru.fun^
 ||fenixcasino1.com^
 ||fenixcasino2016.top^
 ||fenixcasino23.fun^
@@ -111642,7 +111611,6 @@
 ||pbets.net^
 ||pbg.casino^
 ||pbj-shop.com^
-||pbm.casino^
 ||pbowin.vip^
 ||pbs.casino^
 ||pc-cn-ggpoker.com^
@@ -113713,7 +113681,6 @@
 ||pinco1047.casino^
 ||pinco13g.casino^
 ||pinco1456.casino^
-||pinco15dz.casino^
 ||pinco1852.casino^
 ||pinco2202.casino^
 ||pinco224.casino^
@@ -113746,7 +113713,6 @@
 ||pinco88x.win^
 ||pinco89casino.com^
 ||pinco915.casino^
-||pinco9158.casino^
 ||pinco95rus.casino^
 ||pincobets-kg.com^
 ||pincobets-tj.com^
@@ -114291,7 +114257,6 @@
 ||pinup-casino777.fun^
 ||pinup-casino777.xyz^
 ||pinup-casino923-win.win^
-||pinup-casino95.fun^
 ||pinup-casino999.online^
 ||pinup-casinoazaz.shop^
 ||pinup-casinoc.buzz^
@@ -122671,7 +122636,6 @@
 ||riobetcasino-zy.xyz^
 ||riobetcasino-zzp.top^
 ||riobetcasino11tes.ru^
-||riobetcasino201.top^
 ||riobetcasino2025.ru^
 ||riobetcasino2025-official.ru^
 ||riobetcasino444.com^
@@ -126557,7 +126521,6 @@
 ||sherrisanderspetportraits.com^
 ||sherwood.casino^
 ||shewin.ph^
-||shf.casino^
 ||shibain.lat^
 ||shibainucasino.net^
 ||shibainucasino.org^
@@ -138803,7 +138766,6 @@
 ||vaycasinoslot.icu^
 ||vaycasinotekgiris.icu^
 ||vaycasinotekgiris.vip^
-||vaycasinotekgirisi.icu^
 ||vaycasinoturkey2026.icu^
 ||vaycasinoturkeycasino.icu^
 ||vaycasinovip-giris.cam^
@@ -140738,7 +140700,6 @@
 ||vodka833.casino^
 ||vodka8331.casino^
 ||vodka83g.casino^
-||vodka83io.casino^
 ||vodka84t.casino^
 ||vodka8504.casino^
 ||vodka86j.casino^

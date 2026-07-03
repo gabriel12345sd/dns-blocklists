@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jul 2026 18:14 UTC
-! Version: 2026.0702.1814.51
+! Last modified: 02 Jul 2026 21:54 UTC
+! Version: 2026.0702.2154.22
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -2161,7 +2161,6 @@
 @@||bridg.ee^
 @@||bridge.dev^
 @@||brief.ly^
-@@||briefbyte.online^
 @@||briefen.me^
 @@||brightestbeginning.me^
 @@||brightscanr.com^

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783019400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783045800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 19:10 UTC
-; Version: 2026.0702.1910.38
+; Last modified: 03 Jul 2026 02:30 UTC
+; Version: 2026.0703.0230.38
 ; Syntax: RPZ
-; Number of entries: 62132
+; Number of entries: 62120
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2386,8 +2386,6 @@ altadefinizionegratis.bond CNAME .
 *.altadefinizionegratis.bond CNAME .
 bollyflix.bond CNAME .
 *.bollyflix.bond CNAME .
-booook.bond CNAME .
-*.booook.bond CNAME .
 casa-cinema.bond CNAME .
 *.casa-cinema.bond CNAME .
 cb01net.bond CNAME .
@@ -6548,8 +6546,6 @@ bokashoka.com CNAME .
 *.bokashoka.com CNAME .
 bollyflix4.com CNAME .
 *.bollyflix4.com CNAME .
-bollyflixreview.com CNAME .
-*.bollyflixreview.com CNAME .
 bolmovies.com CNAME .
 *.bolmovies.com CNAME .
 bomplay.com CNAME .
@@ -6576,8 +6572,6 @@ botstress.com CNAME .
 *.botstress.com CNAME .
 box4k.com CNAME .
 *.box4k.com CNAME .
-boxingstreams100.com CNAME .
-*.boxingstreams100.com CNAME .
 boxofficewatch.com CNAME .
 *.boxofficewatch.com CNAME .
 boxopus.com CNAME .
@@ -8446,6 +8440,10 @@ yuptracker.gaijinent.com CNAME .
 *.yuptracker.gaijinent.com CNAME .
 yuptracker-eu.gaijinent.com CNAME .
 *.yuptracker-eu.gaijinent.com CNAME .
+yuptracker-sa.gaijinent.com CNAME .
+*.yuptracker-sa.gaijinent.com CNAME .
+yuptracker-us.gaijinent.com CNAME .
+*.yuptracker-us.gaijinent.com CNAME .
 galaxsys-gamesalt10-54rg78cw.com CNAME .
 *.galaxsys-gamesalt10-54rg78cw.com CNAME .
 galaxyaudiobook.com CNAME .
@@ -16014,8 +16012,6 @@ skymovieshd.free CNAME .
 *.skymovieshd.free CNAME .
 vegamovies.free CNAME .
 *.vegamovies.free CNAME .
-bollyflix.frl CNAME .
-*.bollyflix.frl CNAME .
 vegamovies.frl CNAME .
 *.vegamovies.frl CNAME .
 123movies9.fun CNAME .
@@ -43552,8 +43548,6 @@ flemmix.prof CNAME .
 *.flemmix.prof CNAME .
 mkvcinemas.prof CNAME .
 *.mkvcinemas.prof CNAME .
-bollyflix.promo CNAME .
-*.bollyflix.promo CNAME .
 cineblog01.promo CNAME .
 *.cineblog01.promo CNAME .
 dontorrent.promo CNAME .
@@ -54974,8 +54968,6 @@ best4stremio.space CNAME .
 *.best4stremio.space CNAME .
 blackvid.space CNAME .
 *.blackvid.space CNAME .
-bonsaiprolink.space CNAME .
-*.bonsaiprolink.space CNAME .
 bxks.space CNAME .
 *.bxks.space CNAME .
 cmovies.space CNAME .
@@ -57886,8 +57878,6 @@ vegamovies.travel CNAME .
 *.vegamovies.travel CNAME .
 seikai-no-fansubs.us.tt CNAME .
 *.seikai-no-fansubs.us.tt CNAME .
-bolly4u.tube CNAME .
-*.bolly4u.tube CNAME .
 cineblog.tube CNAME .
 *.cineblog.tube CNAME .
 tracker.d.tube CNAME .
@@ -61058,8 +61048,6 @@ bollyflix1.xyz CNAME .
 *.bollyflix1.xyz CNAME .
 booter.xyz CNAME .
 *.booter.xyz CNAME .
-booxhare.xyz CNAME .
-*.booxhare.xyz CNAME .
 btorrent.xyz CNAME .
 *.btorrent.xyz CNAME .
 c1movies.xyz CNAME .

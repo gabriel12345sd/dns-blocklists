@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783019880 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783032000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 19:18 UTC
-; Version: 2026.0702.1918.54
+; Last modified: 02 Jul 2026 22:40 UTC
+; Version: 2026.0702.2240.01
 ; Syntax: RPZ
-; Number of entries: 34318
+; Number of entries: 34220
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -5337,20 +5337,6 @@ bolt-vpn.com CNAME .
 *.bolt-vpn.com CNAME .
 boltunblocker.com CNAME .
 *.boltunblocker.com CNAME .
-weklfjdas.asdklfj.bonded-game.com CNAME .
-*.weklfjdas.asdklfj.bonded-game.com CNAME .
-vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com CNAME .
-*.vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com CNAME .
-ugyjfbsdrtghbfvxdrgtf.dfgvbhgfcvb.bonded-game.com CNAME .
-*.ugyjfbsdrtghbfvxdrgtf.dfgvbhgfcvb.bonded-game.com CNAME .
-uytjhuyghbjkuiyhbjku.fghvhbvghjgj.bonded-game.com CNAME .
-*.uytjhuyghbjkuiyhbjku.fghvhbvghjgj.bonded-game.com CNAME .
-xcvscvgfdcdfg.rdfgcvbfcbv.bonded-game.com CNAME .
-*.xcvscvgfdcdfg.rdfgcvbfcbv.bonded-game.com CNAME .
-xcvjklesjdklfddsf.xcivuoirkjdkfds.bonded-game.com CNAME .
-*.xcvjklesjdklfddsf.xcivuoirkjdkfds.bonded-game.com CNAME .
-ytmusicub.bonded-game.com CNAME .
-*.ytmusicub.bonded-game.com CNAME .
 booeuu.com CNAME .
 *.booeuu.com CNAME .
 booiuu.com CNAME .
@@ -5383,118 +5369,36 @@ boostqz.com CNAME .
 *.boostqz.com CNAME .
 boowuu.com CNAME .
 *.boowuu.com CNAME .
-areyousure.bostoncareercounselor.com CNAME .
-*.areyousure.bostoncareercounselor.com CNAME .
-m.athislife.bostoncareercounselor.com CNAME .
-*.m.athislife.bostoncareercounselor.com CNAME .
 brightfuture.bostoncareercounselor.com CNAME .
 *.brightfuture.bostoncareercounselor.com CNAME .
-scien.ceislife.bostoncareercounselor.com CNAME .
-*.scien.ceislife.bostoncareercounselor.com CNAME .
-choose-a-career.bostoncareercounselor.com CNAME .
-*.choose-a-career.bostoncareercounselor.com CNAME .
-s.cienceislife.bostoncareercounselor.com CNAME .
-*.s.cienceislife.bostoncareercounselor.com CNAME .
-college.bostoncareercounselor.com CNAME .
-*.college.bostoncareercounselor.com CNAME .
-mathislif.e.bostoncareercounselor.com CNAME .
-*.mathislif.e.bostoncareercounselor.com CNAME .
-scienceislif.e.bostoncareercounselor.com CNAME .
-*.scienceislif.e.bostoncareercounselor.com CNAME .
-scienc.eislife.bostoncareercounselor.com CNAME .
-*.scienc.eislife.bostoncareercounselor.com CNAME .
-sci.enceislife.bostoncareercounselor.com CNAME .
-*.sci.enceislife.bostoncareercounselor.com CNAME .
 g.eometryislife.bostoncareercounselor.com CNAME .
 *.g.eometryislife.bostoncareercounselor.com CNAME .
 geom.etryislife.bostoncareercounselor.com CNAME .
 *.geom.etryislife.bostoncareercounselor.com CNAME .
-mathisli.fe.bostoncareercounselor.com CNAME .
-*.mathisli.fe.bostoncareercounselor.com CNAME .
-freedih.bostoncareercounselor.com CNAME .
-*.freedih.bostoncareercounselor.com CNAME .
-frittledb.bostoncareercounselor.com CNAME .
-*.frittledb.bostoncareercounselor.com CNAME .
-frittledsocool.bostoncareercounselor.com CNAME .
-*.frittledsocool.bostoncareercounselor.com CNAME .
 geometryislife.bostoncareercounselor.com CNAME .
 *.geometryislife.bostoncareercounselor.com CNAME .
 get.bostoncareercounselor.com CNAME .
 *.get.bostoncareercounselor.com CNAME .
-ddahmed.hi.bostoncareercounselor.com CNAME .
-*.ddahmed.hi.bostoncareercounselor.com CNAME .
-mat.hislife.bostoncareercounselor.com CNAME .
-*.mat.hislife.bostoncareercounselor.com CNAME .
-sc.ienceislife.bostoncareercounselor.com CNAME .
-*.sc.ienceislife.bostoncareercounselor.com CNAME .
-mathisl.ife.bostoncareercounselor.com CNAME .
-*.mathisl.ife.bostoncareercounselor.com CNAME .
-scienceisl.ife.bostoncareercounselor.com CNAME .
-*.scienceisl.ife.bostoncareercounselor.com CNAME .
 ihaveadream.bostoncareercounselor.com CNAME .
 *.ihaveadream.bostoncareercounselor.com CNAME .
-imboring.bostoncareercounselor.com CNAME .
-*.imboring.bostoncareercounselor.com CNAME .
 geometry.islife.bostoncareercounselor.com CNAME .
 *.geometry.islife.bostoncareercounselor.com CNAME .
-math.islife.bostoncareercounselor.com CNAME .
-*.math.islife.bostoncareercounselor.com CNAME .
-science.islife.bostoncareercounselor.com CNAME .
-*.science.islife.bostoncareercounselor.com CNAME .
-jobfinder.bostoncareercounselor.com CNAME .
-*.jobfinder.bostoncareercounselor.com CNAME .
 jobs.bostoncareercounselor.com CNAME .
 *.jobs.bostoncareercounselor.com CNAME .
-learning.bostoncareercounselor.com CNAME .
-*.learning.bostoncareercounselor.com CNAME .
 learningaboutjob.bostoncareercounselor.com CNAME .
 *.learningaboutjob.bostoncareercounselor.com CNAME .
 library.bostoncareercounselor.com CNAME .
 *.library.bostoncareercounselor.com CNAME .
 geometryis.life.bostoncareercounselor.com CNAME .
 *.geometryis.life.bostoncareercounselor.com CNAME .
-mathis.life.bostoncareercounselor.com CNAME .
-*.mathis.life.bostoncareercounselor.com CNAME .
-scienceis.life.bostoncareercounselor.com CNAME .
-*.scienceis.life.bostoncareercounselor.com CNAME .
 login.bostoncareercounselor.com CNAME .
 *.login.bostoncareercounselor.com CNAME .
-idk.lol-fr.bostoncareercounselor.com CNAME .
-*.idk.lol-fr.bostoncareercounselor.com CNAME .
-mathislife.bostoncareercounselor.com CNAME .
-*.mathislife.bostoncareercounselor.com CNAME .
 geo.metryislife.bostoncareercounselor.com CNAME .
 *.geo.metryislife.bostoncareercounselor.com CNAME .
-scie.nceislife.bostoncareercounselor.com CNAME .
-*.scie.nceislife.bostoncareercounselor.com CNAME .
 wwww.o.bostoncareercounselor.com CNAME .
 *.wwww.o.bostoncareercounselor.com CNAME .
 ge.ometryislife.bostoncareercounselor.com CNAME .
 *.ge.ometryislife.bostoncareercounselor.com CNAME .
-pluhh.bostoncareercounselor.com CNAME .
-*.pluhh.bostoncareercounselor.com CNAME .
-psecurly-by-void.bostoncareercounselor.com CNAME .
-*.psecurly-by-void.bostoncareercounselor.com CNAME .
-raven-new.bostoncareercounselor.com CNAME .
-*.raven-new.bostoncareercounselor.com CNAME .
-school.bostoncareercounselor.com CNAME .
-*.school.bostoncareercounselor.com CNAME .
-scienceislife.bostoncareercounselor.com CNAME .
-*.scienceislife.bostoncareercounselor.com CNAME .
-shadow-good.bostoncareercounselor.com CNAME .
-*.shadow-good.bostoncareercounselor.com CNAME .
-mathi.slife.bostoncareercounselor.com CNAME .
-*.mathi.slife.bostoncareercounselor.com CNAME .
-sciencei.slife.bostoncareercounselor.com CNAME .
-*.sciencei.slife.bostoncareercounselor.com CNAME .
-solidlogic.bostoncareercounselor.com CNAME .
-*.solidlogic.bostoncareercounselor.com CNAME .
-studystuff.bostoncareercounselor.com CNAME .
-*.studystuff.bostoncareercounselor.com CNAME .
-thatswhattheywantyoutothink.bostoncareercounselor.com CNAME .
-*.thatswhattheywantyoutothink.bostoncareercounselor.com CNAME .
-ma.thislife.bostoncareercounselor.com CNAME .
-*.ma.thislife.bostoncareercounselor.com CNAME .
 ultra.bostoncareercounselor.com CNAME .
 *.ultra.bostoncareercounselor.com CNAME .
 use.bostoncareercounselor.com CNAME .
@@ -25827,8 +25731,6 @@ dead.hsk.org.np CNAME .
 *.dead.hsk.org.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
-pms-ssd1.bot.nu CNAME .
-*.pms-ssd1.bot.nu CNAME .
 anycast.censurfridns.nu CNAME .
 *.anycast.censurfridns.nu CNAME .
 unicast.censurfridns.nu CNAME .

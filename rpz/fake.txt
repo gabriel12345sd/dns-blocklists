@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783015920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783029120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 18:12 UTC
-; Version: 2026.0702.1812.55
+; Last modified: 02 Jul 2026 21:52 UTC
+; Version: 2026.0702.2152.42
 ; Syntax: RPZ
-; Number of entries: 33874
+; Number of entries: 33864
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -192,8 +192,6 @@ billabongwien.at CNAME .
 *.billabongwien.at CNAME .
 blitzgeld.at CNAME .
 *.blitzgeld.at CNAME .
-bmfflnanzonlinegv.at CNAME .
-*.bmfflnanzonlinegv.at CNAME .
 bookinginfo.at CNAME .
 *.bookinginfo.at CNAME .
 bozok.at CNAME .
@@ -4098,8 +4096,6 @@ bnp-otc.com CNAME .
 *.bnp-otc.com CNAME .
 bnp-otccoin.com CNAME .
 *.bnp-otccoin.com CNAME .
-bnpfx.com CNAME .
-*.bnpfx.com CNAME .
 bnpotc.com CNAME .
 *.bnpotc.com CNAME .
 bo-bank.com CNAME .
@@ -4170,8 +4166,6 @@ borpillshop.com CNAME .
 *.borpillshop.com CNAME .
 boseaustria.com CNAME .
 *.boseaustria.com CNAME .
-bosen-outdoor.com CNAME .
-*.bosen-outdoor.com CNAME .
 web.bossaapp.com CNAME .
 *.web.bossaapp.com CNAME .
 bossoptions.com CNAME .
@@ -4316,8 +4310,6 @@ fr.brokeragea.com CNAME .
 *.fr.brokeragea.com CNAME .
 brokerandco.com CNAME .
 *.brokerandco.com CNAME .
-brokereins.com CNAME .
-*.brokereins.com CNAME .
 brokers500.com CNAME .
 *.brokers500.com CNAME .
 brokersinternaational.com CNAME .
@@ -7110,6 +7102,8 @@ evoragaming.com CNAME .
 *.evoragaming.com CNAME .
 evutal.com CNAME .
 *.evutal.com CNAME .
+ewigesleder.com CNAME .
+*.ewigesleder.com CNAME .
 exakubusinessclub.com CNAME .
 *.exakubusinessclub.com CNAME .
 exceptionalg.com CNAME .
@@ -9994,6 +9988,8 @@ ignitionmodelcars.com CNAME .
 *.ignitionmodelcars.com CNAME .
 ihrbedarf.com CNAME .
 *.ihrbedarf.com CNAME .
+ihrmunzhandler.com CNAME .
+*.ihrmunzhandler.com CNAME .
 ihrrasentraktor.com CNAME .
 *.ihrrasentraktor.com CNAME .
 iinfitenily.com CNAME .
@@ -10902,6 +10898,8 @@ kindertische.com CNAME .
 *.kindertische.com CNAME .
 kindnessl.com CNAME .
 *.kindnessl.com CNAME .
+kindrucksackgarten.com CNAME .
+*.kindrucksackgarten.com CNAME .
 kingdales.com CNAME .
 *.kingdales.com CNAME .
 kingequipshop.com CNAME .
@@ -21658,8 +21656,6 @@ blizzak.de CNAME .
 *.blizzak.de CNAME .
 bluedo.de CNAME .
 *.bluedo.de CNAME .
-bluehend-land.de CNAME .
-*.bluehend-land.de CNAME .
 blueoceanproject.de CNAME .
 *.blueoceanproject.de CNAME .
 bluestonesolar.de CNAME .
@@ -21668,8 +21664,6 @@ blum-film.de CNAME .
 *.blum-film.de CNAME .
 blumen-fusshoeller.de CNAME .
 *.blumen-fusshoeller.de CNAME .
-blumen-guete.de CNAME .
-*.blumen-guete.de CNAME .
 blumenbanmai.de CNAME .
 *.blumenbanmai.de CNAME .
 blumenelbracht.de CNAME .
@@ -21694,8 +21688,6 @@ bmw-bikertreff-bonsberg.de CNAME .
 *.bmw-bikertreff-bonsberg.de CNAME .
 boardss.de CNAME .
 *.boardss.de CNAME .
-boastore.de CNAME .
-*.boastore.de CNAME .
 bobostore.de CNAME .
 *.bobostore.de CNAME .
 boggbags.de CNAME .
@@ -21714,8 +21706,6 @@ bongochat.de CNAME .
 *.bongochat.de CNAME .
 bonluda.de CNAME .
 *.bonluda.de CNAME .
-booxshop.de CNAME .
-*.booxshop.de CNAME .
 boridashop.de CNAME .
 *.boridashop.de CNAME .
 borrelioseweb.de CNAME .
@@ -21756,10 +21746,6 @@ breitbandangebote.de CNAME .
 *.breitbandangebote.de CNAME .
 breitner-berlin.de CNAME .
 *.breitner-berlin.de CNAME .
-bremenwerkstatt.de CNAME .
-*.bremenwerkstatt.de CNAME .
-bremer-boutique.de CNAME .
-*.bremer-boutique.de CNAME .
 brennholz-anhaenger.de CNAME .
 *.brennholz-anhaenger.de CNAME .
 brennholz-forstservice-gilbert.de CNAME .
@@ -21808,8 +21794,6 @@ brevilledeutschland.de CNAME .
 *.brevilledeutschland.de CNAME .
 brimes.de CNAME .
 *.brimes.de CNAME .
-bringershop.de CNAME .
-*.bringershop.de CNAME .
 brinkmann-mode.de CNAME .
 *.brinkmann-mode.de CNAME .
 brinkmannkanzlei.de CNAME .
@@ -26212,6 +26196,8 @@ moebelkick.de CNAME .
 *.moebelkick.de CNAME .
 moebeluber.de CNAME .
 *.moebeluber.de CNAME .
+moebelverlosung.de CNAME .
+*.moebelverlosung.de CNAME .
 moebelwunerland.de CNAME .
 *.moebelwunerland.de CNAME .
 mohrmode.de CNAME .
@@ -29646,6 +29632,8 @@ meiers.eu CNAME .
 *.meiers.eu CNAME .
 meldebescheinigung.eu CNAME .
 *.meldebescheinigung.eu CNAME .
+ministryoftoys.eu CNAME .
+*.ministryoftoys.eu CNAME .
 minoxidily.eu CNAME .
 *.minoxidily.eu CNAME .
 mojekamagra.eu CNAME .
@@ -33186,6 +33174,8 @@ dinosaurier.store CNAME .
 *.dinosaurier.store CNAME .
 direktbike.store CNAME .
 *.direktbike.store CNAME .
+dragxel.store CNAME .
+*.dragxel.store CNAME .
 duftbaum.store CNAME .
 *.duftbaum.store CNAME .
 ebashop.store CNAME .

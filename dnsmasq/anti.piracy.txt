@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 19:10 UTC
-# Version: 2026.0702.1910.38
+# Last modified: 03 Jul 2026 02:30 UTC
+# Version: 2026.0703.0230.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 31066
+# Number of entries: 31060
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -617,6 +617,8 @@ local=/pre.fyp.nl/
 local=/ettv.g3g.fun/
 local=/yuptracker.gaijinent.com/
 local=/yuptracker-eu.gaijinent.com/
+local=/yuptracker-sa.gaijinent.com/
+local=/yuptracker-us.gaijinent.com/
 local=/bt-tracker.gamexp.ru/
 local=/tracker.gaytor.rent/
 local=/hh.gbdev.io/
@@ -3881,7 +3883,6 @@ local=/bojtes-hodyachih-mertwecov-lordfilm.ru/
 local=/bokashoka.com/
 local=/bolly4u.bayern/
 local=/bolly4u.cologne/
-local=/bolly4u.tube/
 local=/bollyflix.army/
 local=/bollyflix.baby/
 local=/bollyflix.bond/
@@ -3892,7 +3893,6 @@ local=/bollyflix.esq/
 local=/bollyflix.faith/
 local=/bollyflix.fish/
 local=/bollyflix.fit/
-local=/bollyflix.frl/
 local=/bollyflix.ist/
 local=/bollyflix.life/
 local=/bollyflix.med/
@@ -3901,7 +3901,6 @@ local=/bollyflix.one/
 local=/bollyflix.online/
 local=/bollyflix.pet/
 local=/bollyflix.pro/
-local=/bollyflix.promo/
 local=/bollyflix.pub/
 local=/bollyflix.run/
 local=/bollyflix.services/
@@ -3916,7 +3915,6 @@ local=/bollyflix1.xyz/
 local=/bollyflix4.com/
 local=/bollyflixmovies.online/
 local=/bollyflixpet.site/
-local=/bollyflixreview.com/
 local=/bollywood.eu/
 local=/bolmovies.com/
 local=/bolnica-piit-lordfilm.ru/
@@ -3936,7 +3934,6 @@ local=/bonoov.fr/
 local=/bonsaihd.fun/
 local=/bonsaiprolink.shop/
 local=/bonsaiprolink.site/
-local=/bonsaiprolink.space/
 local=/boogiymans-lordfilm.ru/
 local=/bookaudiobook.net/
 local=/bookawarezone.digital/
@@ -3950,7 +3947,6 @@ local=/books-share.com/
 local=/booktracker.org/
 local=/boomep.com/
 local=/boommovie.org/
-local=/booook.bond/
 local=/boorn-lordfilm.ru/
 local=/boostfluence.com/
 local=/boot.lu/
@@ -3967,7 +3963,6 @@ local=/bootylounge.org/
 local=/bootyou.net/
 local=/bootytape.com/
 local=/bootytorrents.com/
-local=/booxhare.xyz/
 local=/born-lordfilm3.ru/
 local=/borutois-lordfilm.ru/
 local=/borutos-lordfilm.ru/
@@ -3988,7 +3983,6 @@ local=/box.sk/
 local=/box4k.com/
 local=/boxbit.org/
 local=/boxfilmes.net/
-local=/boxingstreams100.com/
 local=/boxingusa.info/
 local=/boxofficewatch.com/
 local=/boxopus.com/

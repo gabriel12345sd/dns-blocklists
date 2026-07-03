@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 18:53 UTC
-# Version: 2026.0702.1853.01
+# Last modified: 03 Jul 2026 02:45 UTC
+# Version: 2026.0703.0245.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 90851
+# Number of entries: 90815
 #
 0-0-0checkmate.com
 0.0-02.net
@@ -327,7 +327,6 @@ www.09racing.com
 s.0cf.io
 s3.0dayporno.com
 0dayreleases.com
-0ed35fac92.com
 0f1qtj.ru
 0fees.net
 business.0fees.net
@@ -351,6 +350,7 @@ www.0hi.me
 0i0i0i0.com
 u50.0i0i0i0.com
 0jxaw4gb7qh8.top
+0l7t5qhb4.com
 0network.com
 0nyzdw2maq.com
 0oo9j37xp.com
@@ -679,6 +679,7 @@ www.1payer.net
 1popov.ru
 company.1ps.ru
 1push.io
+1r0br5zeq.com
 1rajbet.in
 1rtb.com
 1rtb.net
@@ -4531,7 +4532,6 @@ redirect.301redirect.site
 302br.net
 303bus.net
 30dcf.com
-30ea3091fb.com
 www.30girl.com
 30inwarehouses.com
 hizou.30maps.com
@@ -4811,7 +4811,6 @@ unitedfarm.3cdn.net
 wmc.3cdn.net
 3ckz.com
 webapi.3cx.com
-3d6a6c3707.com
 3d7b481b4d.com
 www.3dchampions.org
 analytics.3dcloud.io
@@ -4882,6 +4881,7 @@ us-east-eb2.3lift.com
 us-east-tlx.3lift.com
 us-west-tlx.3lift.com
 video-prod.3lift.com
+3lp5jbwp4ep5oh9x.cfd
 smetrics.3m.com
 3mads.com
 filter.3mads.com
@@ -5138,6 +5138,7 @@ sp.qf.56.com
 56ebl651j6t43r.cfd
 56voxor.net
 5761b6af55.com
+57703b28d4.com
 57883.net
 ai.57883.net
 alexa.57883.net
@@ -5403,6 +5404,7 @@ vd.7vid.net
 82query.com
 83net.jp
 83phwin.com
+84067f6a2e.com
 840withnetworks.net
 84302764.xyz
 www.84302764.xyz
@@ -9633,7 +9635,6 @@ afishamedia.net
 afkwa.com
 cpm.afkwa.com
 afm01.com
-afmndx.com
 afodreet.net
 afovivytex.com
 afp.ai
@@ -22793,7 +22794,6 @@ www.bloombergnewstoday.com
 posthog.bloomgrowth.com
 bloopsbordel.cfd
 blousekudo.com
-blowenstork.qpon
 blowingwind.xyz
 blowsemaze.shop
 bloxplay.com
@@ -22924,12 +22924,10 @@ adserver.bluestack.app
 bluestacksdownloads.com
 s0b.bluestreak.com
 bluestrode.qpon
-bluetackclasp.com
 bluetrafficstream.com
 creative.bluetrafficstream.com
 go.bluetrafficstream.com
 bluevinebooks.com
-blumesaccoy.qpon
 blurbreimbursetrombone.com
 blurtsbrerd.com
 kg.blurtsbrerd.com
@@ -23026,7 +23024,6 @@ boarderoomph.cyou
 boardss.de
 metrics.boat-ed.com
 boatedcourts.qpon
-boatjadeinconsistency.com
 metrics.boatsgroup.com
 bob-recs.com
 rgr.bob-recs.com
@@ -23042,16 +23039,13 @@ sgtm.bobvila.com
 jf365.boc.cn
 cdn2.jf365.boc.cn
 mlife.jf365.boc.cn
-bocjjotrtujka.website
 sadobemarketing.boden.com
 bodkinsmudde.com
 bodnerautoservice.com
-bodockvirent.cfd
 www.bodyawaregrieving.com
 bodybossmotivate.com
 bodyclick.net
 boeinq.co
-boersgrim.qpon
 boersstarryscanty.qpon
 boffoadsapi.com
 rtb-apac.boffoadsapi.com
@@ -23063,7 +23057,6 @@ boganhands.cyou
 etual.boggbag.com
 hleca.boggbag.com
 bogletsalmon.cyou
-bogtrotdowning.shop
 boguingmowra.cfd
 bogusdrop.com
 bogustrouble.com
@@ -23072,7 +23065,6 @@ applytics.boi9osyg1uwtyafn.com
 boiledegglabs.com
 boilingmadsoup.com
 boilrivulet.com
-boipbshmjoatp.site
 bojel.com
 bokepindo13.name
 bokoawreak.cfd
@@ -23098,7 +23090,6 @@ bolgspot.com
 doeading.bolgspot.com
 janshabd.bolgspot.com
 lilygallardo.bolgspot.com
-bolkdoutous.qpon
 bollyocean.com
 www.bollyocean.com
 bologuron.club
@@ -23109,7 +23100,6 @@ boltepse.com
 metrics.ms.boltgaming.io
 fra01.metrics.ms.boltgaming.io
 bombardina.pl
-bombingdwt.qpon
 bombora.com
 customers.bombora.com
 knowledge.bombora.com
@@ -23124,7 +23114,6 @@ bam.bonad.io
 bongeo.bonad.io
 context.bonad.io
 bonafides.club
-bonasacarga.cyou
 bondeddarkenedswerve.com
 bonertraffic13.info
 boneycootchturakoo.cyou
@@ -23145,8 +23134,6 @@ bonnettaking.com
 ads.bonniercorp.com
 sst.bonprix.de
 bonsaiaccisefoaming.cyou
-bonserdalteen.cfd
-bonsoirforlorn.cfd
 analytics.bontty.com
 bonusbitcoin.co
 bonuscaf.com
@@ -23170,10 +23157,8 @@ boo-box.com
 boobausauhipsa.net
 analytics.boohoo.com
 analytics.boohooman.com
-booingtruddo.cfd
 bookbannershop.com
 client-events-ingress.bookbub.com
-bookedalloy.cyou
 asanalytics.booking.com
 counters.booking.com
 web-perf.booking.com
@@ -23182,7 +23167,6 @@ bookingbuddy.com
 assets.bookingbuddy.com
 www.bookingbuddy.com
 analytics.bookingscloud.ai
-bookletlurky.qpon
 bookmsg.com
 static.bookmsg.com
 adtech-events.bookmyshow.com
@@ -23203,7 +23187,6 @@ log1.boomplaymusic.com
 log2.boomplaymusic.com
 log3.boomplaymusic.com
 boonkaleshot.cyou
-boopisalce.shop
 boopislucific.qpon
 boorantech.com
 boostcdn.net
@@ -23248,7 +23231,6 @@ boredhippie.com
 boredomcuff.com
 a.boredpanda.bio
 boresorson.cfd
-borghcheskey.cyou
 boridashop.de
 boringegotistical.com
 borishagamas.qpon
@@ -23257,9 +23239,7 @@ boronsbeverse.qpon
 borrowhourglass.com
 matomo.bosa.be
 bosmjrzfssqus.site
-bosonicbtisesimblot.qpon
 bosselinorrummage.com
-bossilylopezia.shop
 analytics.d2c.bossrevolution.com
 bossyhearing.com
 bostanciescort34.com
@@ -23272,7 +23252,6 @@ botagleeksimpresa.qpon
 botanyreadersettlement.com
 botanysummarytables.com
 www.botchecker.com
-botellahidable.cyou
 botfaqtor.ru
 5-182-5-41.botfaqtor.ru
 blocked.botfaqtor.ru
@@ -23288,7 +23267,6 @@ botradar.tech
 botscanner.com
 bottierrangleneavil.cfd
 bottlestonightapp.com
-bougarspassquilly.qpon
 bougeebayingmealy.qpon
 bouhoagy.net
 boulder-collide.com
@@ -23318,12 +23296,9 @@ www.bouncex.com
 analytics.boundlessnotions.com
 boundlessveil.com
 bountyformseedlings.com
-bournedisced.cyou
 bourrepardale.com
 pix.boursorama.com
 boustahe.com
-bouwdirect.info
-bouwplus.info
 bovinetimingunsaddle.com
 boweddemand.com
 bowerywill.com
@@ -23358,13 +23333,10 @@ bpath.com
 bpbnzbkaegpvk.site
 bpgritsnivsgk.space
 bpkeydnjfxnlr.site
-bpkphtmwwqjub.website
 webtracking-v01.bpmonline.com
-bptigavzsmjuy.online
 bpywqfn.cc
 bq2okgjfhn9v924z.cfd
 bqgvndiluuekk.space
-bqiacikyzzero.online
 bqpthdh.cc
 bqrjotqnqh.com
 bqstreamer.com
@@ -23389,14 +23361,12 @@ bracdn.online
 wrapper.bracdn.online
 bracecherry.com
 bracemascara.com
-braceroinnerly.cfd
 brackedignotus.cyou
 brackenads.com
 stats.bradmax.com
 tracking.bradyid.com
 bragidylismtooken.cyou
 brahmsflidge.com
-braiderdiscede.shop
 brainberries.co
 img-cdn.brainberries.co
 braincash.com
@@ -23413,7 +23383,6 @@ b-cdn.do.brainsland.com
 ingest.do.brainsland.com
 client-analytics.braintreegateway.com
 brainybasin.com
-bramefluent.qpon
 api.branch.io
 api2.branch.io
 api3.branch.io
@@ -23454,7 +23423,6 @@ sd559908.js.brandsmat.com
 ob.sd559908.js.brandsmat.com
 obs.sd559908.js.brandsmat.com
 brashstudiocrucial.com
-brassedunicism.qpon
 brationalfilarded.com
 braun634.com
 analytics.brave.com
@@ -23554,7 +23522,6 @@ brdtnet.com
 clientsdk.brdtnet.com
 http-test1.brdtnet.com
 proxyjs.brdtnet.com
-brdwfcecefhts.site
 metrics.breadfinancial.com
 www.breadpro.com
 breakableinsurance.com
@@ -23573,7 +23540,6 @@ bredmykixnaj.com
 breedsmuteexams.com
 breezekiss.shop
 bregato.com
-bregmaaurally.cyou
 brehn.de
 www.brehn.de
 breimayanceworrel.cfd
@@ -23582,7 +23548,6 @@ brenuingerde.com
 brezella.com
 brg0.com
 bv.brg0.com
-briarshops.qpon
 www.brickandmobile.com
 bricklylobbers.cfd
 bricks-co.com
@@ -23613,7 +23578,6 @@ news.bridgetowermedia.com
 bridgevine.com
 brief-dish.pro
 brielayover.com
-briersabrupt.qpon
 brieveuh.com
 brigadedelegatesandbox.com
 bright-sdk.com
@@ -23672,15 +23636,12 @@ rapper.bringmethehats.com
 brinkow.com
 s.brinkow.com
 brinnyyeta.qpon
-brioletspikily.cfd
 briquettwasome.qpon
-briseisnodules.cyou
 briskbluffer.cfd
 briskeagle.io
 brisketleafboy.qpon
 brisknessdebtordismiss.com
 briskpelican.io
-briskyfab.cyou
 metrics.britbox.com
 gtm.metrics.britbox.com
 www.britepic.com
@@ -23723,7 +23684,6 @@ brocode3s.com
 brodirect5s.site
 brodmn.com
 brodownload6s.site
-brodownload8s.com
 broidbaxtone.cfd
 broker-qx.pro
 www.brokerbabe.com
@@ -23736,7 +23696,6 @@ metrics.brooksrunning.com
 broosnighed.com
 broredir5s.site
 brothers-company.ru
-broughtkittock.qpon
 brounelink.com
 browdcelaeno.cfd
 push.brownbrothers.io
@@ -30271,7 +30230,6 @@ d24w6bsrhbeh9d.cloudfront.net
 d25dfknw9ghxs6.cloudfront.net
 d26xw8rp6mlgfg.cloudfront.net
 d27gtglsu4f4y2.cloudfront.net
-d292swwe9zki3u.cloudfront.net
 d2cli4kgl5uxre.cloudfront.net
 d2cmqkwo8rxlr9.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
@@ -39665,6 +39623,7 @@ op.dragonfru.it
 cdn.dragonstatic.com
 dragoploat.qpon
 dragstergibletshaded.com
+dragxel.store
 drailendways.shop
 drainomnipotentbeseech.com
 drainpaste.com
@@ -40852,6 +40811,7 @@ e3eb4eq0v.com
 e3fbosf1tz3d.xyz
 cdn.e3fbosf1tz3d.xyz
 e3j60qqdk.com
+e427d04a02.com
 e59c256d56ea60ed930cb7a416555cff78f41f6bf650b649bea85a87.com
 e69c935570.com
 e7cod.com
@@ -54281,6 +54241,7 @@ l2top.ru
 l3uvrk68bj4bw1l1ttqpguw12bt9b.cfd
 l5id.com
 js.l5id.com
+l7vrv4crj8g5rc.cfd
 l90tkc.ru
 sadobemetrics.la-z-boy.com
 sssjp.la-z-boy.com
@@ -63499,6 +63460,7 @@ x8.obunko.com
 obutecao.com
 obvioushome.com
 sgtm.ocado.com
+occasional-prize.pro
 occasionforfeitarray.com
 occlgtilkdc.com
 occultsfee.cfd
@@ -73915,6 +73877,7 @@ serootdaimons.qpon
 seropalame.cfd
 serpensguarabu.qpon
 serpentine-bat.pro
+serpentine-church.pro
 serranberime.com
 sersh.com
 sertulepedrail.cfd
@@ -83256,6 +83219,7 @@ wdc.ttrk.io
 www.ttt777.com
 tttpcdjavbfjl.online
 ttwmed.com
+ttyn7py8l4ql3ny.cfd
 ttzhmzji8bjm53bve3f2tnpwg2.cfd
 www.ttzmedia.com
 statistics.tu-darmstadt.de

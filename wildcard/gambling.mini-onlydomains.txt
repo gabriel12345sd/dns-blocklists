@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 19:09 UTC
-# Version: 2026.0702.1909.59
+# Last modified: 02 Jul 2026 22:51 UTC
+# Version: 2026.0702.2251.50
 # Syntax: Domains (without subdomains)
-# Number of entries: 122805
+# Number of entries: 122771
 #
 web-119bet-2025-google-vip-119bet.119-hello.com
 images.1649348.com
@@ -18794,7 +18794,6 @@ apexcasino24.buzz
 apexcasino25.buzz
 apexcasino27.top
 apexcasino29.fun
-apexcasino3007.site
 apexcasino761.team
 apexcasino948.fun
 apexcasino99.lol
@@ -26973,10 +26972,8 @@ bluechipcasinolucky.com
 bluecollarcasino.net
 blueday.club
 bluedoorlabs.com
-bluefairyandco.com
 bluefoxcasino.com
 bluefoxcasinoarena.com
-bluegrassloudoun.com
 blueslotstech.com
 bluesq.com
 bluesquarecasino.mom
@@ -27025,7 +27022,6 @@ bnbpacinko88.xyz
 bnbsultancuana1.xyz
 bni4d.pro
 bnj7pokerdom.com
-bnoln.poker
 bnx.casino
 bo-vegas.casino
 bo238b.site
@@ -27048,8 +27044,6 @@ boaboacasino-suomi.com
 boaboaclub.casino
 boaboavip.casino
 boapoker.com
-boardprep.net
-boardwalkgrill.net
 boba138.buzz
 boba138.org
 bobabaru.com
@@ -27217,7 +27211,6 @@ bolavitaslot.casino
 bolawins.pro
 bolderbets.fun
 bolderbets.store
-bollywood.casino
 bollywood-casino.com
 bollywood-casino-mtt.top
 bollywood-casino-qls.top
@@ -27291,7 +27284,6 @@ bonanza88slots.com
 bonanza899.xyz
 bonanza99net1.xyz
 bonanzagame.com
-bonanzagame19.com
 bonanzagame35.com
 bonaslotid.pics
 bonaslotid.xyz
@@ -27320,7 +27312,6 @@ bongdaso.studio
 bongo.gg
 bongobongo.ke
 bongobongo.ug
-bongoslots.com
 bongslots.shop
 bongslotskr.shop
 bongvip.buzz
@@ -27416,7 +27407,6 @@ bonuscasinosnotongamstop.ink
 bonuschipcasino.com
 bonuscodes.com
 bonuscodespoker.nl
-bonuscrabcasinode.top
 bonusdedebetgame.com
 bonuseg1xbet.com
 bonuses-casino.top
@@ -27596,7 +27586,6 @@ boomerangcasinostar.com
 boomerangscasino.ch
 boomingbet.id
 boomingbet.pro
-boomrestaurant.net
 booms-casino.com
 boomsbet-casino-win.com
 boomsbetcasino.info
@@ -27609,7 +27598,6 @@ boomzinocasino-belgie.com
 boomzinocasino24.com
 boomzinocasino777.com
 boomzinocasinode.de
-boorcasino.com
 boostcasino.com
 boostcasino.forum
 boostercracker.com
@@ -27866,7 +27854,6 @@ brandnewonlinecasinosusanodepositb.lol
 brandnewonlinecasinosusanodepositbo.lol
 brandnewonlinecasinosusanodepositbon.lol
 brandnewsocialcasinosusarealmoney.lol
-brandyns.com
 brandywinephotonics.com
 brango-casino-ca-play.com
 brango-casino-new-zealand.com
@@ -27927,7 +27914,6 @@ brcrown03.com
 breadbybetsy.com
 breadspread.xyz
 breaknews.cloud
-breathdiagnosticsinc.com
 bresbet.com
 brettibbets.com
 brexioncasinoland.com
@@ -27949,7 +27935,6 @@ brice-nvcasino.com
 brice-nvcasinol.com
 brickhousebonanza.casino
 bridgeprojectcleveland.com
-bridgetonnc.net
 brighton-casino.com
 brightshare.com
 brillbet.casino
@@ -28040,10 +28025,8 @@ bro-winnercasino.com
 bro138.pro
 broadcnnewz.xyz
 broaderbets.com
-broadheadquarters.com
 brockgroup.xyz
 brocktonfair.net
-brokenspokeranchhunts.com
 brokerstorm.com
 brolly.mobi
 bronzecasino.irish
@@ -33488,7 +33471,6 @@ casino-sugar.net
 casino-sugar96.com
 casino-sunnyplayer.com
 casino-supabet.org
-casino-super.ink
 casino-super.net
 casino-super.org
 casino-superboss.com
@@ -39820,7 +39802,6 @@ casino47014.buzz
 casino4703.cyou
 casino4707.cfd
 casino4708.fun
-casino471.team
 casino4712.cyou
 casino47120.buzz
 casino47135.buzz
@@ -39865,7 +39846,6 @@ casino47464.buzz
 casino47473.buzz
 casino47477.buzz
 casino4748.buzz
-casino475.top
 casino4750.fun
 casino4753.click
 casino4756.cfd
@@ -40980,7 +40960,6 @@ casino5719.online
 casino572.buzz
 casino572.cfd
 casino572.cyou
-casino572.fun
 casino572.online
 casino57203.buzz
 casino57216.buzz
@@ -42163,7 +42142,6 @@ casino67086.buzz
 casino6709.buzz
 casino67094.buzz
 casino671.com
-casino671.fun
 casino67106.buzz
 casino67118.buzz
 casino6715.cyou
@@ -58032,7 +58010,6 @@ dragonmoney376.casino
 dragonmoney431.casino
 dragonmoney44.casino
 dragonmoney4444.casino
-dragonmoney483.casino
 dragonmoney51.casino
 dragonmoney5226.casino
 dragonmoney551.casino
@@ -60221,7 +60198,6 @@ evabcc.casino
 evabcp.casino
 evabdq.casino
 evacasino.website
-evacasino-30-06.click
 evacasino-gold.makeup
 evacasino-hot.click
 evacasino-sex.buzz
@@ -61341,9 +61317,7 @@ fenix59.casino
 fenix60.casino
 fenixcasino.top
 fenixcasino.us
-fenixcasino-nice.sbs
 fenixcasino-pf.top
-fenixcasino-ru.fun
 fenixcasino1.com
 fenixcasino23.fun
 fenixcasino24.buzz
@@ -93125,7 +93099,6 @@ pb88.pro
 pbb.casino
 pbg.casino
 pbj-shop.com
-pbm.casino
 pbowin.vip
 pbs.casino
 pc-cn-ggpoker.com
@@ -94939,7 +94912,6 @@ pinco1046.casino
 pinco1047.casino
 pinco13g.casino
 pinco1456.casino
-pinco15dz.casino
 pinco1852.casino
 pinco2202.casino
 pinco224.casino
@@ -94968,7 +94940,6 @@ pinco824fv.casino
 pinco8714.casino
 pinco88x.win
 pinco89casino.com
-pinco9158.casino
 pinco95rus.casino
 pincobets-kg.com
 pincobets-tj.com
@@ -95376,7 +95347,6 @@ pinup-casino589.ru
 pinup-casino77.com
 pinup-casino777.fun
 pinup-casino777.xyz
-pinup-casino95.fun
 pinup-casino999.online
 pinup-casinoazaz.shop
 pinup-casinogames.online
@@ -102225,7 +102195,6 @@ riobetcasino-zsg.top
 riobetcasino-zy.xyz
 riobetcasino-zzp.top
 riobetcasino11tes.ru
-riobetcasino201.top
 riobetcasino2025.ru
 riobetcasino2025-official.ru
 riobetcasino51.fun
@@ -105461,7 +105430,6 @@ sherriparkerpokerrunbikeshow.com
 sherrisanderspetportraits.com
 sherwood.casino
 shewin.ph
-shf.casino
 shibainucasino.net
 shibainucasino.org
 shibaslotmax100.xyz
@@ -115874,7 +115842,6 @@ vaycasinoresmigirisi.vip
 vaycasinoslot.icu
 vaycasinotekgiris.icu
 vaycasinotekgiris.vip
-vaycasinotekgirisi.icu
 vaycasinoturkey2026.icu
 vaycasinoturkeycasino.icu
 vaycasinoyeniadres.org
@@ -117546,7 +117513,6 @@ vodka82dv.casino
 vodka82p.casino
 vodka8331.casino
 vodka83g.casino
-vodka83io.casino
 vodka84t.casino
 vodka8504.casino
 vodka86j.casino

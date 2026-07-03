@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 18:10 UTC
-# Version: 2026.0702.1810.16
+# Last modified: 03 Jul 2026 01:49 UTC
+# Version: 2026.0703.0149.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 56921
+# Number of entries: 56886
 #
 fd01ce9a02.0012e30263.com
 c2c4aecf0a.0073a85a5d.com
@@ -512,7 +512,6 @@ v6.bonusgom.com
 v6.bonuspis.com
 v6.bonussuc.com
 bm.boodiecilice.rest
-di.boonshalicot.com
 xa.boozierosmotic.com
 hi.borishclammy.com
 fd.borskanawha.top
@@ -521,7 +520,6 @@ jm.botchkaandron.com
 ny.botisopper.com
 oq.botryreeject.com
 uw.boucleseidolic.com
-sm.bouclestroft.qpon
 nz.bouffeswhaups.com
 dw.bowelsregrab.com
 ge.bownunseel.com
@@ -548,7 +546,6 @@ pdvzz.brilllantsdates.net
 cn.brisketsereins.com
 zoqrxm.brlliiantsdates.com
 beazzm.brllllantdates.com
-tv.broilquiet.digital
 pr.bromiseunnasal.com
 fk.broomsunvoted.com
 oz.bryanvoiced.shop
@@ -14458,22 +14455,17 @@ blueberrywaistcoat.com
 bluebirdac.com
 bluebirdbookings.com
 bluecracken.site
-bluefinziff.life
 blueflowerfield.com
 bluegaslamp.org
 blueistheneworanges.com
 bluelinknow.com
-bluemoonplain.com
 bluemtnscollective.com
 blueparrot.media
 blueravenfarm.com
 bluereflection-sun.com
 bluesky-hk.com
-blueskygrove.com
 bluestacksdownloads.com
-bluetackclasp.com
 bluetoad.com
-bluetreedream.com
 bluewombat.dk
 bluffforester.com
 bluffybluffyincomeautomatically.com
@@ -14491,7 +14483,6 @@ blushinghappilyberenice.com
 blusterflintbig.com
 blusterhawspontaneous.com
 blvuwgejhs.com
-blwviknoqfpij.online
 blyqvidllwukv.website
 blzz.xyz
 bm-bluemoon.com
@@ -14516,7 +14507,6 @@ bmmadspay.com
 bmmrealtors.com
 bmndx.com
 bmoreferral.com
-bmpfqjcu.icu
 bmplajgk.com
 bmqfq.com
 bmqkp.com
@@ -14579,7 +14569,6 @@ boaststockingsaucer.com
 boasttopmostporch.com
 boataushaus.net
 boatcontinuing.com
-boatjadeinconsistency.com
 boatski.com
 boatssail.com
 boatssubsistconcerned.com
@@ -14616,7 +14605,6 @@ boffoadsfeeds.com
 bofwcwlstyrts.com
 bogads.com
 bogarchaicagriculture.com
-bogiesmudrock.top
 bogrex.com
 bogrodius.com
 bogus-orange.pro
@@ -14636,7 +14624,6 @@ boilingroof.pro
 boilingtransportation.pro
 boilove.com
 boilrivulet.com
-boiqzsgnywkuv.today
 boisefallfesitval.com
 boistkinkled.com
 bojel.com
@@ -14650,7 +14637,6 @@ boldmeasurement.pro
 boleto-uno.mx
 bolingbrooklocksmith.us
 boliviahotelguide.com
-bollixgonidic.click
 bollyocean.com
 bolnet-med.ru
 bolokaitsended.com
@@ -14669,7 +14655,6 @@ bondagelexikon.com
 bondeddarkenedswerve.com
 bondedheearts.com
 bondfondif.com
-bondtide.com
 bonduccodline.com
 bondvisits.com
 bonepa.com
@@ -14699,7 +14684,6 @@ bonynation.pro
 bonyspecialist.pro
 bonzai.ad
 bonzai.co
-bonzecarcel.top
 bonzi.link
 bonzuna.com
 boo-box.com
@@ -14712,7 +14696,6 @@ bookadil.com
 bookbannershop.com
 bookcrafters.com
 bookcrazystadium.com
-bookedalloy.cyou
 bookkeeperamusing.com
 bookletoncoming.com
 bookmakers.click
@@ -14742,7 +14725,6 @@ bootpostcardkate.com
 bootsinflictdemanded.com
 bootsquench.com
 bootsrap.one
-bootstrap-framework.org
 bootstraplugin.com
 bootswishesdisappointment.com
 bootycallz.co
@@ -14791,7 +14773,6 @@ bossywake.pro
 bostoncosmeticsurgeries.net
 bostopago.com
 bot-checker.com
-botamirdaha.help
 botanyspiritualmaxim.com
 botanysummarytables.com
 botedidymia.cfd
@@ -14818,7 +14799,6 @@ botvwyytbwpdb.site
 boudja.com
 boufikesha.net
 boughcouncil.com
-bougiesptinus.top
 bouglema.net
 bouhoagy.net
 boulevardrelative.com
@@ -14835,7 +14815,6 @@ boundarybusiness.com
 boundarynight.com
 boundlessbrake.com
 boundlessdisordercogent.com
-boundlessslid.com
 boundlessveil.com
 boundlozenge.com
 boundslecture.com
@@ -14875,7 +14854,6 @@ boxbosomcompare.com
 boxcartidalvoicing.com
 boxestuskwizard.com
 boxif.xyz
-boxingcringed.click
 boxingsgets.com
 boxingsuffocate.com
 boxlikepavers.com
@@ -14887,7 +14865,6 @@ boxypluckunrelated.com
 boyaidare.club
 boydco.school
 boyfriendmeaningless.com
-boyhoodstound.cyou
 boyiinlove.com
 boyllove.com
 boyloveers.com
@@ -14917,14 +14894,12 @@ bpvpbv.icu
 bpvubrpialperi.com
 bpwarfol.xyz
 bqajoisaiwlxs.site
-bqdhrr.top
 bqgrsgchpqt.com
 bqgwxqoqjqvbz.online
 bqkrcowacahy.com
 bqlmhr.icu
 bqogqcbbr.com
 bqqxukllxe.com
-bqrdoilvhadpq.vip
 bqsfutwtn.com
 bqucnpdwtqgbw.com
 bqxnpvzbrurde.online
@@ -14951,7 +14926,6 @@ brainient.com
 brainlyads.com
 brainpermitted.com
 brakiefissive.com
-bramb.site
 branchborder.com
 brand.net
 brandads.net
@@ -14965,7 +14939,6 @@ brandlabs.ai
 brandnewapp.pro
 brandnewkindly.com
 brandnewsnorted.com
-brandonvillate.top
 brandreachsys.com
 brandtown.net
 brandvoom.com
@@ -15035,11 +15008,8 @@ breedsdusk.com
 breedsmuteexams.com
 breedssupposedlypoetry.com
 breezebiddingvarying.com
-breezebrowsing.com
-breezycliffpath.com
 brefadmuxo.com
 breka.fit
-brevetottroye.com
 brevissnod.com
 brevitychestprocess.com
 brewbagelpillar.com
@@ -15053,7 +15023,6 @@ bricks-co.com
 bricksbraird.com
 bricksurprisingselect.com
 brickswitnessed.com
-bricoleapioid.com
 bricovernici.com
 bridalcommonwealthtabloid.com
 bridalplums.com
@@ -15086,9 +15055,7 @@ brighteroption.com
 brightesthatedexplain.com
 brightforesthill.com
 brightfuturevision.com
-brightgrasswood.com
 brightinnovate.com
-brightleafhill.com
 brightlygauntlet.com
 brightmeadowpath.com
 brightmorningvibes.com
@@ -15150,14 +15117,12 @@ brodderapelike.com
 brodirect1s.site
 brodmn.com
 brodownload6s.site
-brodownload8s.com
 brodownloads.site
 brodsands.com
 broken-breast.pro
 broken-food.pro
 broken-fun.com
 broken-independent.pro
-broken-reason.pro
 brokendaughter.pro
 brokenfibberunmoved.com
 broker-qx.pro

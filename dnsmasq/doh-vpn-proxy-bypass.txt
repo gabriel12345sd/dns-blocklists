@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jul 2026 19:18 UTC
-# Version: 2026.0702.1918.54
+# Last modified: 02 Jul 2026 22:40 UTC
+# Version: 2026.0702.2240.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17159
+# Number of entries: 17110
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -771,13 +771,6 @@ local=/d.bod.lol/
 local=/dns.bofh.in/
 local=/nana.rammer.boiso.ar/
 local=/doh.boje8.me/
-local=/weklfjdas.asdklfj.bonded-game.com/
-local=/vcsefghfhreesgfdf.dfgrdcfhfgfds.bonded-game.com/
-local=/ugyjfbsdrtghbfvxdrgtf.dfgvbhgfcvb.bonded-game.com/
-local=/uytjhuyghbjkuiyhbjku.fghvhbvghjgj.bonded-game.com/
-local=/xcvscvgfdcdfg.rdfgcvbfcbv.bonded-game.com/
-local=/xcvjklesjdklfddsf.xcivuoirkjdkfds.bonded-game.com/
-local=/ytmusicub.bonded-game.com/
 local=/adguard.bonis.de/
 local=/adguard1.bonis.de/
 local=/adguard2.bonis.de/
@@ -788,67 +781,25 @@ local=/dns2.bortus.io/
 local=/dns4.bortus.io/
 local=/doh.bortzmeyer.fr/
 local=/cloudns.bosco.ovh/
-local=/m.athislife.bostoncareercounselor.com/
-local=/scien.ceislife.bostoncareercounselor.com/
-local=/s.cienceislife.bostoncareercounselor.com/
-local=/mathislif.e.bostoncareercounselor.com/
-local=/scienceislif.e.bostoncareercounselor.com/
-local=/scienc.eislife.bostoncareercounselor.com/
-local=/sci.enceislife.bostoncareercounselor.com/
 local=/g.eometryislife.bostoncareercounselor.com/
 local=/geom.etryislife.bostoncareercounselor.com/
-local=/mathisli.fe.bostoncareercounselor.com/
-local=/ddahmed.hi.bostoncareercounselor.com/
-local=/mat.hislife.bostoncareercounselor.com/
-local=/sc.ienceislife.bostoncareercounselor.com/
-local=/mathisl.ife.bostoncareercounselor.com/
-local=/scienceisl.ife.bostoncareercounselor.com/
 local=/geometry.islife.bostoncareercounselor.com/
-local=/math.islife.bostoncareercounselor.com/
-local=/science.islife.bostoncareercounselor.com/
 local=/geometryis.life.bostoncareercounselor.com/
-local=/mathis.life.bostoncareercounselor.com/
-local=/scienceis.life.bostoncareercounselor.com/
-local=/idk.lol-fr.bostoncareercounselor.com/
 local=/geo.metryislife.bostoncareercounselor.com/
-local=/scie.nceislife.bostoncareercounselor.com/
 local=/wwww.o.bostoncareercounselor.com/
 local=/ge.ometryislife.bostoncareercounselor.com/
-local=/mathi.slife.bostoncareercounselor.com/
-local=/sciencei.slife.bostoncareercounselor.com/
-local=/ma.thislife.bostoncareercounselor.com/
-local=/areyousure.bostoncareercounselor.com/
 local=/brightfuture.bostoncareercounselor.com/
-local=/choose-a-career.bostoncareercounselor.com/
-local=/college.bostoncareercounselor.com/
-local=/freedih.bostoncareercounselor.com/
-local=/frittledb.bostoncareercounselor.com/
-local=/frittledsocool.bostoncareercounselor.com/
 local=/geometryislife.bostoncareercounselor.com/
 local=/get.bostoncareercounselor.com/
 local=/ihaveadream.bostoncareercounselor.com/
-local=/imboring.bostoncareercounselor.com/
-local=/jobfinder.bostoncareercounselor.com/
 local=/jobs.bostoncareercounselor.com/
-local=/learning.bostoncareercounselor.com/
 local=/learningaboutjob.bostoncareercounselor.com/
 local=/library.bostoncareercounselor.com/
 local=/login.bostoncareercounselor.com/
-local=/mathislife.bostoncareercounselor.com/
-local=/pluhh.bostoncareercounselor.com/
-local=/psecurly-by-void.bostoncareercounselor.com/
-local=/raven-new.bostoncareercounselor.com/
-local=/school.bostoncareercounselor.com/
-local=/scienceislife.bostoncareercounselor.com/
-local=/shadow-good.bostoncareercounselor.com/
-local=/solidlogic.bostoncareercounselor.com/
-local=/studystuff.bostoncareercounselor.com/
-local=/thatswhattheywantyoutothink.bostoncareercounselor.com/
 local=/ultra.bostoncareercounselor.com/
 local=/use.bostoncareercounselor.com/
 local=/user.bostoncareercounselor.com/
 local=/vcsaxinter.bostoncareercounselor.com/
-local=/pms-ssd1.bot.nu/
 local=/pakupaku.bounceme.net/
 local=/lenz.bouncers4rent.com/
 local=/dns.bovat.net/
