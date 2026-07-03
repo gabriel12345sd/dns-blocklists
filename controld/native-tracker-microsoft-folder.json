@@ -1415,6 +1415,13 @@
       }
     },
     {
+      "PK": "kg-legacy-analytics.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "k-ring-fallback.msedge.net",
       "action": {
         "do": 0,

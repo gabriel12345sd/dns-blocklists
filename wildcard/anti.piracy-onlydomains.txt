@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 10:35 UTC
-# Version: 2026.0703.1035.02
+# Last modified: 03 Jul 2026 18:37 UTC
+# Version: 2026.0703.1837.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 31244
+# Number of entries: 31245
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -3278,6 +3278,7 @@ arrayanime.com
 arrow-strelae-lordfilm.ru
 arrow-strelas-lordfilm.ru
 arrows-lordfilm.ru
+arrowtv.net
 arrowu-lordfilm.ru
 arrr.xyz
 arteenz.com
@@ -3428,6 +3429,7 @@ b-h.us
 b2s-share.com
 b98.tv
 baberepublic.com
+babfilm.com
 baby-beamup.club
 babystreaming.com
 backrooms-lordfilm.ru
@@ -4757,6 +4759,7 @@ cinefreak.net
 cinefreak.top
 cinefun.co
 cinehd.app
+cinehdplus.biz
 cinehub24.com
 cinema24.tv
 cinemaapk.com
@@ -5025,7 +5028,6 @@ cosmoneo.com
 cotapers.org
 cottnya-lordfilms.ru
 couchtuner.cloud
-couchtuner.show
 couchtuner.space
 couchtuner0.com
 courseclub.me
@@ -5078,7 +5080,6 @@ crackingpatching.org
 crackloader.com
 crackmykey.com
 crackmymac.com
-cracknbastreams.com
 cracknest.com
 cracknet.net
 cracknews.com
@@ -5180,7 +5181,6 @@ cross.moe
 crosstowntorrents.org
 crotorrents.com
 crownbit.cc
-cruscros.me
 cruzing.xyz
 cryptowarez.info
 crystal-warez.in
@@ -8025,6 +8025,7 @@ fullmovieswatch.online
 fullmoviewatch.co
 fullmoviewatchonline.com
 fullmoviez.live
+fullmoviez.xyz
 fullpcsoftware.com
 fullprogramlarindir.com
 fullreleasez.com

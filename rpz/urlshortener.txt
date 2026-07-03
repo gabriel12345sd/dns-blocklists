@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783029240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783103820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Jul 2026 21:54 UTC
-; Version: 2026.0702.2154.22
+; Last modified: 03 Jul 2026 18:37 UTC
+; Version: 2026.0703.1837.08
 ; Syntax: RPZ
-; Number of entries: 19996
+; Number of entries: 19994
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1259,8 +1259,6 @@ conteudo.megasoft.com.br CNAME .
 *.conteudo.megasoft.com.br CNAME .
 nabio.com.br CNAME .
 *.nabio.com.br CNAME .
-red1.com.br CNAME .
-*.red1.com.br CNAME .
 rocketlink.com.br CNAME .
 *.rocketlink.com.br CNAME .
 shortlinks.com.br CNAME .
@@ -17643,6 +17641,8 @@ wy.si CNAME .
 *.wy.si CNAME .
 yx.si CNAME .
 *.yx.si CNAME .
+0mjgn0m.site CNAME .
+*.0mjgn0m.site CNAME .
 138beo.site CNAME .
 *.138beo.site CNAME .
 abbr.site CNAME .
@@ -19855,8 +19855,6 @@ gacorwak.xyz CNAME .
 *.gacorwak.xyz CNAME .
 ggapps.xyz CNAME .
 *.ggapps.xyz CNAME .
-gxh1yqz2v.xyz CNAME .
-*.gxh1yqz2v.xyz CNAME .
 hellokity.xyz CNAME .
 *.hellokity.xyz CNAME .
 hgs.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783075200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783103760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 10:40 UTC
-; Version: 2026.0703.1040.59
+; Last modified: 03 Jul 2026 18:36 UTC
+; Version: 2026.0703.1836.17
 ; Syntax: RPZ
-; Number of entries: 34154
+; Number of entries: 34078
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -555,10 +555,6 @@ dkslfj.widkjlfls.chacrasdeabbott.ar CNAME .
 *.dkslfj.widkjlfls.chacrasdeabbott.ar CNAME .
 boredombyjonas.allysports.com.ar CNAME .
 *.boredombyjonas.allysports.com.ar CNAME .
-fernbyjonas.allysports.com.ar CNAME .
-*.fernbyjonas.allysports.com.ar CNAME .
-jonasmadethisfr.allysports.com.ar CNAME .
-*.jonasmadethisfr.allysports.com.ar CNAME .
 edu-english.asolafirma.com.ar CNAME .
 *.edu-english.asolafirma.com.ar CNAME .
 tasks.media.bianchetti.com.ar CNAME .
@@ -585,8 +581,6 @@ gah.lutyk.com.ar CNAME .
 *.gah.lutyk.com.ar CNAME .
 maroon.momentos.com.ar CNAME .
 *.maroon.momentos.com.ar CNAME .
-canlite.mymcreditos.com.ar CNAME .
-*.canlite.mymcreditos.com.ar CNAME .
 bleakly.mza.com.ar CNAME .
 *.bleakly.mza.com.ar CNAME .
 ixl.mza.com.ar CNAME .
@@ -1115,8 +1109,6 @@ learninghub.deltacompy.com.br CNAME .
 *.learninghub.deltacompy.com.br CNAME .
 gabogioa.destroyerkisscover.com.br CNAME .
 *.gabogioa.destroyerkisscover.com.br CNAME .
-how2math.destroyerkisscover.com.br CNAME .
-*.how2math.destroyerkisscover.com.br CNAME .
 man.destroyerkisscover.com.br CNAME .
 *.man.destroyerkisscover.com.br CNAME .
 tests.teach.fullsense.com.br CNAME .
@@ -3103,8 +3095,6 @@ kuailian-coc.com.cn CNAME .
 *.kuailian-coc.com.cn CNAME .
 kuailian-dlxz.com.cn CNAME .
 *.kuailian-dlxz.com.cn CNAME .
-kuailian-it.com.cn CNAME .
-*.kuailian-it.com.cn CNAME .
 kuailian0.com.cn CNAME .
 *.kuailian0.com.cn CNAME .
 kuailianccn.com.cn CNAME .
@@ -3117,8 +3107,6 @@ kuailianlinea.com.cn CNAME .
 *.kuailianlinea.com.cn CNAME .
 kuailianvp.com.cn CNAME .
 *.kuailianvp.com.cn CNAME .
-letvpn.com.cn CNAME .
-*.letvpn.com.cn CNAME .
 n-kuailian.com.cn CNAME .
 *.n-kuailian.com.cn CNAME .
 org-kuailian.com.cn CNAME .
@@ -6033,54 +6021,28 @@ covertproxy.com CNAME .
 *.104-36-85-232.cprapid.com CNAME .
 cqoskrvd.com CNAME .
 *.cqoskrvd.com CNAME .
-aboot.blank.crabdance.com CNAME .
-*.aboot.blank.crabdance.com CNAME .
 carmineandosvielarecool.crabdance.com CNAME .
 *.carmineandosvielarecool.crabdance.com CNAME .
-cassiusthund.crabdance.com CNAME .
-*.cassiusthund.crabdance.com CNAME .
 crab-dance.com.crabdance.com CNAME .
 *.crab-dance.com.crabdance.com CNAME .
-diddywasinnocent.crabdance.com CNAME .
-*.diddywasinnocent.crabdance.com CNAME .
-diddywasinoccent.crabdance.com CNAME .
-*.diddywasinoccent.crabdance.com CNAME .
 moc.ecnadbarc.crabdance.com CNAME .
 *.moc.ecnadbarc.crabdance.com CNAME .
-fahh.crabdance.com CNAME .
-*.fahh.crabdance.com CNAME .
-ourschooliscool.bg.geekarouny.crabdance.com CNAME .
-*.ourschooliscool.bg.geekarouny.crabdance.com CNAME .
 ilovecalebg.crabdance.com CNAME .
 *.ilovecalebg.crabdance.com CNAME .
 imbored.crabdance.com CNAME .
 *.imbored.crabdance.com CNAME .
 jasper.crabdance.com CNAME .
 *.jasper.crabdance.com CNAME .
-joesproxy.crabdance.com CNAME .
-*.joesproxy.crabdance.com CNAME .
-kaidenb.crabdance.com CNAME .
-*.kaidenb.crabdance.com CNAME .
 learningcreativethinking.crabdance.com CNAME .
 *.learningcreativethinking.crabdance.com CNAME .
-lickingheights.crabdance.com CNAME .
-*.lickingheights.crabdance.com CNAME .
 la.manchaland.crabdance.com CNAME .
 *.la.manchaland.crabdance.com CNAME .
-maselivolovesscience.crabdance.com CNAME .
-*.maselivolovesscience.crabdance.com CNAME .
-mroybtnd.crabdance.com CNAME .
-*.mroybtnd.crabdance.com CNAME .
 nrusimha.crabdance.com CNAME .
 *.nrusimha.crabdance.com CNAME .
 graphicon.org.crabdance.com CNAME .
 *.graphicon.org.crabdance.com CNAME .
-random12.crabdance.com CNAME .
-*.random12.crabdance.com CNAME .
 yourname.chosen-domain.tld.crabdance.com CNAME .
 *.yourname.chosen-domain.tld.crabdance.com CNAME .
-utopiaunblocker.crabdance.com CNAME .
-*.utopiaunblocker.crabdance.com CNAME .
 clever.com.santi.craftleds.com CNAME .
 *.clever.com.santi.craftleds.com CNAME .
 crash1ytics.com CNAME .
@@ -6119,8 +6081,6 @@ cryoutdome.cryodome.com CNAME .
 *.cryoutdome.cryodome.com CNAME .
 bx3.cdn.gh-pages.cryodome.com CNAME .
 *.bx3.cdn.gh-pages.cryodome.com CNAME .
-googla.cryodome.com CNAME .
-*.googla.cryodome.com CNAME .
 crypticvpn.com CNAME .
 *.crypticvpn.com CNAME .
 cryptohippie.com CNAME .
@@ -15927,8 +15887,6 @@ dns.hub.com.de CNAME .
 *.dns.hub.com.de CNAME .
 i-ready.com.de CNAME .
 *.i-ready.com.de CNAME .
-ixl.com.de CNAME .
-*.ixl.com.de CNAME .
 tools.math.com.de CNAME .
 *.tools.math.com.de CNAME .
 noredink.com.de CNAME .
@@ -20447,8 +20405,6 @@ html-5-16313065.codehs.me CNAME .
 *.html-5-16313065.codehs.me CNAME .
 titaniumnetwork1.codehs.me CNAME .
 *.titaniumnetwork1.codehs.me CNAME .
-fun-math.algebra.coffeeon.me CNAME .
-*.fun-math.algebra.coffeeon.me CNAME .
 putanythinghere.coffeeon.me CNAME .
 *.putanythinghere.coffeeon.me CNAME .
 doh.cornes.me CNAME .
@@ -23205,8 +23161,6 @@ nothing.computersforpeace.net CNAME .
 *.nothing.computersforpeace.net CNAME .
 dns1.conne.net CNAME .
 *.dns1.conne.net CNAME .
-vmi2604183.contaboserver.net CNAME .
-*.vmi2604183.contaboserver.net CNAME .
 cool-proxy.net CNAME .
 *.cool-proxy.net CNAME .
 craft.tech.countyohio.net CNAME .
@@ -25601,26 +25555,10 @@ gngstopblockinmyshi.geetabasyal.com.np CNAME .
 *.gngstopblockinmyshi.geetabasyal.com.np CNAME .
 texasmatheducation.geetabasyal.com.np CNAME .
 *.texasmatheducation.geetabasyal.com.np CNAME .
-voidnrtowkr93urridudi.geetabasyal.com.np CNAME .
-*.voidnrtowkr93urridudi.geetabasyal.com.np CNAME .
 espanol-de-la-class-4a.gitadhakal.com.np CNAME .
 *.espanol-de-la-class-4a.gitadhakal.com.np CNAME .
 tasks.know.kabindrakajibajracharya.com.np CNAME .
 *.tasks.know.kabindrakajibajracharya.com.np CNAME .
-fahhhhhhhhhhhhhhhhhh.kshitizkiran.com.np CNAME .
-*.fahhhhhhhhhhhhhhhhhh.kshitizkiran.com.np CNAME .
-ilovesecurly.kshitizkiran.com.np CNAME .
-*.ilovesecurly.kshitizkiran.com.np CNAME .
-imgooningtojacksongillrn.kshitizkiran.com.np CNAME .
-*.imgooningtojacksongillrn.kshitizkiran.com.np CNAME .
-jackyboo.kshitizkiran.com.np CNAME .
-*.jackyboo.kshitizkiran.com.np CNAME .
-jackyboocomeback.kshitizkiran.com.np CNAME .
-*.jackyboocomeback.kshitizkiran.com.np CNAME .
-pooppoopopopo.kshitizkiran.com.np CNAME .
-*.pooppoopopopo.kshitizkiran.com.np CNAME .
-johannnnnnnny.kshitizpaudel.com.np CNAME .
-*.johannnnnnnny.kshitizpaudel.com.np CNAME .
 linuxarch11.lokprakashpandey.com.np CNAME .
 *.linuxarch11.lokprakashpandey.com.np CNAME .
 learningcomesfirst.madhavkhanal.com.np CNAME .
@@ -25641,8 +25579,6 @@ garlandisd.nabinshahi.com.np CNAME .
 *.garlandisd.nabinshahi.com.np CNAME .
 ixlmath.nembahadurraskoti.com.np CNAME .
 *.ixlmath.nembahadurraskoti.com.np CNAME .
-sevenlaks.omprakashyadav.com.np CNAME .
-*.sevenlaks.omprakashyadav.com.np CNAME .
 ideas.theory.parikshit.com.np CNAME .
 *.ideas.theory.parikshit.com.np CNAME .
 dns.rkjha.com.np CNAME .
@@ -25653,16 +25589,8 @@ haygoledd.sarojchaulagain808.com.np CNAME .
 *.haygoledd.sarojchaulagain808.com.np CNAME .
 art.sunilamaharjan.com.np CNAME .
 *.art.sunilamaharjan.com.np CNAME .
-r4ne-fern-2.suwal.com.np CNAME .
-*.r4ne-fern-2.suwal.com.np CNAME .
 r4sele.suwal.com.np CNAME .
 *.r4sele.suwal.com.np CNAME .
-r4yne-endis-kydf.suwal.com.np CNAME .
-*.r4yne-endis-kydf.suwal.com.np CNAME .
-r4yne-endis-rvaht.suwal.com.np CNAME .
-*.r4yne-endis-rvaht.suwal.com.np CNAME .
-r4yne-galaxy.suwal.com.np CNAME .
-*.r4yne-galaxy.suwal.com.np CNAME .
 asjhdbjahwbjdvahgwvdbvasgvdjlwda.woodcraftgallery.com.np CNAME .
 *.asjhdbjahwbjdvahgwvdbvasgvdjlwda.woodcraftgallery.com.np CNAME .
 room-32-toys.woodcraftgallery.com.np CNAME .
@@ -34149,10 +34077,6 @@ science.willemvisser.co.za CNAME .
 *.science.willemvisser.co.za CNAME .
 endis.worldoflighting.co.za CNAME .
 *.endis.worldoflighting.co.za CNAME .
-akanethegoat.worldoflights.co.za CNAME .
-*.akanethegoat.worldoflights.co.za CNAME .
-fweeeeeisawesome.worldoflights.co.za CNAME .
-*.fweeeeeisawesome.worldoflights.co.za CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 easymoney.zone CNAME .

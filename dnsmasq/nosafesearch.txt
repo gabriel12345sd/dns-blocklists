@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:17 UTC
-# Version: 2026.0619.1817.47
+# Last modified: 03 Jul 2026 18:34 UTC
+# Version: 2026.0703.1834.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 207
+# Number of entries: 206
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -27,7 +27,6 @@ local=/search.aol.ca/
 local=/search.aol.com/
 local=/suche.aol.de/
 local=/search.azkware.net/
-local=/librex.baczek.me/
 local=/searx.baczek.me/
 local=/searx.bbaovanc.com/
 local=/search.biboumail.fr/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 10:35 UTC
-# Version: 2026.0703.1035.02
+# Last modified: 03 Jul 2026 18:37 UTC
+# Version: 2026.0703.1837.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 31244
+# Number of entries: 31245
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -3278,6 +3278,7 @@ local=/arrayanime.com/
 local=/arrow-strelae-lordfilm.ru/
 local=/arrow-strelas-lordfilm.ru/
 local=/arrows-lordfilm.ru/
+local=/arrowtv.net/
 local=/arrowu-lordfilm.ru/
 local=/arrr.xyz/
 local=/arteenz.com/
@@ -3428,6 +3429,7 @@ local=/b-h.us/
 local=/b2s-share.com/
 local=/b98.tv/
 local=/baberepublic.com/
+local=/babfilm.com/
 local=/baby-beamup.club/
 local=/babystreaming.com/
 local=/backrooms-lordfilm.ru/
@@ -4757,6 +4759,7 @@ local=/cinefreak.net/
 local=/cinefreak.top/
 local=/cinefun.co/
 local=/cinehd.app/
+local=/cinehdplus.biz/
 local=/cinehub24.com/
 local=/cinema24.tv/
 local=/cinemaapk.com/
@@ -5025,7 +5028,6 @@ local=/cosmoneo.com/
 local=/cotapers.org/
 local=/cottnya-lordfilms.ru/
 local=/couchtuner.cloud/
-local=/couchtuner.show/
 local=/couchtuner.space/
 local=/couchtuner0.com/
 local=/courseclub.me/
@@ -5078,7 +5080,6 @@ local=/crackingpatching.org/
 local=/crackloader.com/
 local=/crackmykey.com/
 local=/crackmymac.com/
-local=/cracknbastreams.com/
 local=/cracknest.com/
 local=/cracknet.net/
 local=/cracknews.com/
@@ -5180,7 +5181,6 @@ local=/cross.moe/
 local=/crosstowntorrents.org/
 local=/crotorrents.com/
 local=/crownbit.cc/
-local=/cruscros.me/
 local=/cruzing.xyz/
 local=/cryptowarez.info/
 local=/crystal-warez.in/
@@ -8025,6 +8025,7 @@ local=/fullmovieswatch.online/
 local=/fullmoviewatch.co/
 local=/fullmoviewatchonline.com/
 local=/fullmoviez.live/
+local=/fullmoviez.xyz/
 local=/fullpcsoftware.com/
 local=/fullprogramlarindir.com/
 local=/fullreleasez.com/

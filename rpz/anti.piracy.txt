@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783074900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783103820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 10:35 UTC
-; Version: 2026.0703.1035.02
+; Last modified: 03 Jul 2026 18:37 UTC
+; Version: 2026.0703.1837.43
 ; Syntax: RPZ
-; Number of entries: 62488
+; Number of entries: 62490
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1434,6 +1434,8 @@ cineblog01.biz CNAME .
 *.cineblog01.biz CNAME .
 cineby.biz CNAME .
 *.cineby.biz CNAME .
+cinehdplus.biz CNAME .
+*.cinehdplus.biz CNAME .
 coexist.biz CNAME .
 *.coexist.biz CNAME .
 cpasbien-torrent.biz CNAME .
@@ -6224,6 +6226,8 @@ b2s-share.com CNAME .
 *.b2s-share.com CNAME .
 baberepublic.com CNAME .
 *.baberepublic.com CNAME .
+babfilm.com CNAME .
+*.babfilm.com CNAME .
 babystreaming.com CNAME .
 *.babystreaming.com CNAME .
 badasstorrents.com CNAME .
@@ -6936,8 +6940,6 @@ crackmykey.com CNAME .
 *.crackmykey.com CNAME .
 crackmymac.com CNAME .
 *.crackmymac.com CNAME .
-cracknbastreams.com CNAME .
-*.cracknbastreams.com CNAME .
 cracknest.com CNAME .
 *.cracknest.com CNAME .
 cracknews.com CNAME .
@@ -33900,8 +33902,6 @@ crackstreams.me CNAME .
 *.crackstreams.me CNAME .
 cricfree.me CNAME .
 *.cricfree.me CNAME .
-cruscros.me CNAME .
-*.cruscros.me CNAME .
 cuevana3.me CNAME .
 *.cuevana3.me CNAME .
 ddl.me CNAME .
@@ -36298,6 +36298,8 @@ multiki.arjlover.net CNAME .
 *.multiki.arjlover.net CNAME .
 torrent.arjlover.net CNAME .
 *.torrent.arjlover.net CNAME .
+arrowtv.net CNAME .
+*.arrowtv.net CNAME .
 as-bd.net CNAME .
 *.as-bd.net CNAME .
 asblink.net CNAME .
@@ -54574,8 +54576,6 @@ hdmovie2.shopping CNAME .
 *.hdmovie2.shopping CNAME .
 123movie.show CNAME .
 *.123movie.show CNAME .
-couchtuner.show CNAME .
-*.couchtuner.show CNAME .
 eurostreaming.show CNAME .
 *.eurostreaming.show CNAME .
 lordfilm1.show CNAME .
@@ -61542,6 +61542,8 @@ fullmovieshub5.xyz CNAME .
 *.fullmovieshub5.xyz CNAME .
 fullmoviestar.xyz CNAME .
 *.fullmoviestar.xyz CNAME .
+fullmoviez.xyz CNAME .
+*.fullmoviez.xyz CNAME .
 gdrivedl.xyz CNAME .
 *.gdrivedl.xyz CNAME .
 gdrivemovies.xyz CNAME .

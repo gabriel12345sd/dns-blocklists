@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 09:50 UTC
-# Version: 2026.0703.0950.57
+# Last modified: 03 Jul 2026 18:24 UTC
+# Version: 2026.0703.1824.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56790
+# Number of entries: 56735
 #
 *.fd01ce9a02.0012e30263.com
 *.c2c4aecf0a.0073a85a5d.com
@@ -792,7 +792,6 @@
 *.www-mechanicsbank.co.com
 *.www-slash.co.com
 *.ybab.co.uk
-*.gh.coacherplumper.world
 *.wj.coateebyth.com
 *.xy.cobaltsottawa.com
 *.ve.cobourgscubas.com
@@ -812,7 +811,6 @@
 *.forexxzx.blogspot.com.eg
 *.www.citygame.com.au
 *.ncs.conf.com.cn
-*.www.cyberfortradies.com.au
 *.ck1.duanzipai.com.cn
 *.tr.dwjq.com.cn
 *.www.fifthwall.com.au
@@ -826,9 +824,6 @@
 *.sacolamobile.influenciadormagalu.com.br
 *.delivery.momentummedia.com.au
 *.formspark.rongviet.com.vn
-*.cohorts.spotify.com.cn
-*.mcwp.spotify.com.cn
-*.xn--6krsm155l.spotify.com.cn
 *.www.supportcoordinationassociation.com.au
 *.tickets.website.com.se
 *.www.xzc.com.tw
@@ -853,7 +848,6 @@
 *.bykj.com.cn
 *.cdragon.com.cn
 *.ch-qishui-music.com.cn
-*.cn-wps-zh.com.cn
 *.commissionfactory.com.au
 *.constructaus.com.au
 *.cpdc.com.cn
@@ -873,11 +867,7 @@
 *.fsxc.com.cn
 *.ftdg.com.cn
 *.fzpress.com.cn
-*.gf-qishuiapp.com.cn
 *.gfjl.com.cn
-*.ggooglle-chrrome.com.cn
-*.google-ch-chrome.com.cn
-*.google-zhcn-chrome.com.cn
 *.grarimpo.com.br
 *.gxtvu.com.cn
 *.hb26v.com.cn
@@ -958,27 +948,18 @@
 *.pg.congeesaquafer.com
 *.yw.conidiafoggara.com
 *.xcvk.connectiamay-naat.com
-*.gravrw.connectonlinee.com
-*.vzqalw.connectonlinee.com
-*.wazndx.connectonlinee.com
-*.wzawg.connectonlinee.com
 *.net.contoscn.com
 *.rv.convictgreyed.com
 *.larasub.conxxx.pro
 *.uf.coodleborstal.com
 *.ep.coolenwudge.com
 *.eo.coombrecuse.com
-*.vzxdjl.coonectonline.com
-*.sj.coontahshooks.click
 *.se.coraciimidwife.com
 *.bg.corapeacoat.com
 *.app.corn-staging.com
 *.ro.cornofuggy.com
 *.dj.cornulecede.com
 *.zi.coronermeanie.com
-*.cs.corretrude.com
-*.lr.corrumpskeptic.cyou
-*.ph.corsesvauntie.world
 *.ts.corsesvriddhi.com
 *.cm.corvusbowknot.com
 *.ss.corylusspignut.com
@@ -1014,7 +995,6 @@
 *.ki.crinumslobated.com
 *.vg.croceicbevil.com
 *.ye.croonerrosed.com
-*.kc.crosierorganza.click
 *.ly.crowbarrinds.com
 *.qc.crowertrapa.shop
 *.sw.cruxseekers.com
@@ -13209,7 +13189,6 @@
 *.bananasadvocate.com
 *.bananascasketuntrue.com
 *.bananasrevolveoccupy.com
-*.banclip.com
 *.bandageretaliateemail.com
 *.bandisoft.org
 *.bandizip.pro
@@ -17319,7 +17298,6 @@
 *.coachroi.com
 *.coachtinkleundress.com
 *.coacoaha.net
-*.coagulamalabar.top
 *.coajouthaphe.top
 *.coakeegrir.net
 *.coaldiameteritself.com
@@ -17333,7 +17311,6 @@
 *.coarseneat.pro
 *.coarseschool.com
 *.coastalbloom.xyz
-*.coastalhomesofnewengland.com
 *.coastalscontractors.com
 *.coastweightfastidious.com
 *.coatfood.com
@@ -17351,7 +17328,6 @@
 *.cobrax.ru
 *.cobsulsouptigro.net
 *.cobwebanalysis.com
-*.cobwebcomprehension.com
 *.cobwebhauntedallot.com
 *.cobwebpreserved.com
 *.cobwebsituationstyling.com
@@ -17398,7 +17374,6 @@
 *.coffee2play.com
 *.coffeehousevertical.com
 *.coffeemanianyc.com
-*.coffretuncall.shop
 *.cofshajchblegc.com
 *.coftfdtcjtnjt.website
 *.cogaijaimt.net
@@ -17411,7 +17386,6 @@
 *.cogocast.net
 *.cogrrjdblji.net
 *.coguan.com
-*.cogzsatyhofvp.online
 *.cohabitguesscrab.com
 *.cohawaut.com
 *.cohereexceptingfocused.com
@@ -17469,7 +17443,6 @@
 *.collectiveevidencesire.com
 *.collectivequestioningcompartment.com
 *.collectivesmother.com
-*.collectorcommander.com
 *.collectorhissinaccessible.com
 *.collectortack.com
 *.collectrum.com
@@ -17503,7 +17476,6 @@
 *.colorsealprosper.co
 *.colortherapybath.com
 *.colossal-extension.com
-*.colossal-pathway.life
 *.colossalanswer.com
 *.colossalblame.com
 *.colossalclouds.com
@@ -17533,7 +17505,6 @@
 *.combinedcomputermaze.com
 *.combofile4u.click
 *.combotag.com
-*.combspreter.com
 *.combustiblestarkjerk.com
 *.come-get-s0me.com
 *.come-get-s0me.net
@@ -17591,8 +17562,6 @@
 *.communitylearningcenter.org
 *.como-encontrar.com
 *.compactjetvillain.com
-*.companiondirectly.com
-*.companionsignal.com
 *.comparablethrongalight.com
 *.comparativehoneycomb.com
 *.comparativehumour.com
@@ -17674,7 +17643,6 @@
 *.concernproducingparenting.com
 *.concertblogger.com
 *.concertskidwhich.com
-*.conchybutyral.shop
 *.conciergeeccentricstrained.com
 *.conciergeradialsupernova.com
 *.conciliateexpeditionadjust.com
@@ -17738,7 +17706,6 @@
 *.confusedindustry.com
 *.confuserage.com
 *.confusingepisodevest.com
-*.cong-keren.site
 *.congerstunish.com
 *.congestprowessburger.com
 *.conghui.net
@@ -17751,7 +17718,6 @@
 *.congtogel168.site
 *.conicsbowle.com
 *.conicsfizzles.com
-*.coniesmolten.com
 *.conjeller-chikemon.com
 *.conjunctionimproved.com
 *.conjunctionrepresentativepowerless.com
@@ -17798,7 +17764,6 @@
 *.consistcountry.com
 *.consistencyjacksonwasteful.com
 *.consolevolcano.com
-*.consortshaheen.shop
 *.conspicuousclasp.com
 *.consplcuousdate.com
 *.consplcuousdates.com
@@ -17906,7 +17871,6 @@
 *.controversialboxsubmit.com
 *.controversialmini.com
 *.controversychilly.com
-*.contus.sbs
 *.convdlink.com
 *.convenebeice.com
 *.conveniencegymnasium.com
@@ -17921,7 +17885,6 @@
 *.convergettechnology.net
 *.convers.link
 *.conversationbarleyruling.com
-*.conversationknightsvista.com
 *.conversationstruggle.com
 *.conversionfrontproximity.com
 *.convert2.cn
@@ -17958,7 +17921,6 @@
 *.cookieless-data.com
 *.cookieretro.com
 *.cookingbarren.com
-*.cookingmestee.shop
 *.cookpad-ads.com
 *.cookshalee.top
 *.cool-emerald.com
@@ -17966,7 +17928,6 @@
 *.cooladblocker.info
 *.coolbooth.com
 *.coolbytesgrill.com
-*.coolcestas.shop
 *.cooldeal.by
 *.coolerads.com
 *.cooleronboard.com
@@ -18010,7 +17971,6 @@
 *.cootlogix.com
 *.copacet.com
 *.copcwa.org
-*.copepodethynyl.rest
 *.copiedoxbow.com
 *.copierbleakmilestone.com
 *.copierconscientious.com
@@ -18019,7 +17979,6 @@
 *.copitinamon.com
 *.coppedgauily.com
 *.coppercranberrylamp.com
-*.coprahsjivaran.top
 *.coptiksihuserg.com
 *.copycatnews.com
 *.copyfelonysorrowful.com
@@ -18040,7 +17999,6 @@
 *.corkassumedharden.com
 *.corkymarketing.com
 *.cornchoreconnecting.com
-*.corneamandra.shop
 *.corneey.com
 *.corneredsedatetedious.com
 *.corneredtomb.com
@@ -18077,7 +18035,6 @@
 *.corrupt-tone.com
 *.corruptionburlylawsuit.com
 *.corruptionproposalinflux.com
-*.corsypacha.top
 *.corvoidhas.com
 *.cosadranoumte.com
 *.cosakimya.com
@@ -18152,7 +18109,6 @@
 *.courageousbaby.com
 *.courageousfunny.pro
 *.courageousnegationflesh.com
-*.courilblaze.cyou
 *.coursecontrived.com
 *.coursecreatorpartners.com
 *.coursejavgg124.fun
@@ -18182,18 +18138,15 @@
 *.coveteddutifulprescribe.com
 *.covettunica.com
 *.covivado.club
-*.cowagederris.top
 *.cowardlydefinite.com
 *.cowardprotest.com
 *.cowardsagrias.com
-*.cowbellwanigan.top
 *.cowbirdipecacs.top
 *.cowpencinclis.com
 *.coxiesthubble.com
 *.coxsoyajnvesrd.com
 *.cozaifteghy.com
 *.cozbxsxralcxd.website
-*.cozeyunclear.shop
 *.cozibaneco.com
 *.cozigplpxpcih.site
 *.cozydaating.net
@@ -18201,7 +18154,6 @@
 *.cozydatingplace.com
 *.cozydatingpllace.com
 *.cozydusk.com
-*.cozyforestglade.com
 *.cozyhillside.com
 *.cp333.cc
 *.cpa3iqcp.de
@@ -18275,7 +18227,6 @@
 *.cqrjzgam.com
 *.cqrqudjmhslqh.website
 *.cqrvwq.com
-*.cqstbvkcpbqut.one
 *.cquozcdrrbcua.online
 *.cqxfpeudfzhoe.website
 *.cqxstzfithstp.site
@@ -18314,7 +18265,6 @@
 *.crakbanner.com
 *.crakedquartin.com
 *.crakrevenue.xyz
-*.cramb.site
 *.cramfinalizesluice.com
 *.cramgrasshopperfasten.com
 *.crampcrossroadbaptize.com
@@ -18324,7 +18274,6 @@
 *.craniolgozzan.com
 *.crankyfolkoutwit.com
 *.crannyrevelation.com
-*.cranymousse.shop
 *.craptroopstammer.com
 *.crashchance.com
 *.crashedimpatientlybegin.com
@@ -18367,7 +18316,6 @@
 *.creaseinprofitst.com
 *.creaseinquiries.com
 *.creatablegluesurvival.com
-*.createblee.shop
 *.createdremainder.com
 *.creatingbankvolatile.com
 *.creationworked.com
@@ -18386,7 +18334,6 @@
 *.credibilityinternalhoneycomb.com
 *.credibly-app.com
 *.creditcable.info
-*.creditcapos.click
 *.credsnow.com
 *.credulouseffort.com
 *.creeddelirium.com
@@ -18462,7 +18409,6 @@
 *.crojikskrubis.com
 *.croni.site
 *.cronozen.com
-*.crookdestinationjanuary.com
 *.crooked-loan.pro
 *.crookedchange.com
 *.crookedcreature.com
@@ -18494,7 +18440,6 @@
 *.crowdstrikereposify.net
 *.crowdsuitcaseuntwist.com
 *.crowimplore.com
-*.croysoaps.cfd
 *.crptentry.com
 *.crptgate.com
 *.crqjtfoolnelm.site
@@ -18543,11 +18488,9 @@
 *.cruzswim.org
 *.crwcubnbvskb.com
 *.crwdcntrl.net
-*.crwdgrough.shop
 *.crxcr1.com
 *.cryingforanyth.com
 *.cryingtherefore.com
-*.cryingtimpano.help
 *.cryjun.com
 *.cryorganichash.com
 *.crypticdismaynorth.com
@@ -27177,7 +27120,6 @@
 *.gxbrh.com
 *.gxetowrzlnqbf.online
 *.gxfuqntda.xyz
-*.gxh1yqz2v.xyz
 *.gxkmjltsp.com
 *.gxlyxvjvwmbff.store
 *.gxmyi.com
@@ -40540,6 +40482,7 @@
 *.phonehalfmoonwild.com
 *.phonesex-maturelady.com
 *.phonewx.com
+*.phonomelica.cfd
 *.phonydepth.com
 *.phonysample.com
 *.phonystand.com
@@ -46299,6 +46242,7 @@
 *.shocked-failure.com
 *.shocked-home.com
 *.shockedgrowth.com
+*.shockedguard.com
 *.shocking-honey.com
 *.shocking-strategy.pro
 *.shockingappointment.pro
@@ -48900,6 +48844,7 @@
 *.tadcacsimn.com
 *.tadkasolwsmu.com
 *.tadod.com
+*.taffetauncages.cfd
 *.tafmaster.com
 *.tagalodrome.com
 *.tagbucket.cc

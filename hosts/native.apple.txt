@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jun 2026 10:39 UTC
-# Version: 2026.0620.1039.14
+# Last modified: 03 Jul 2026 18:44 UTC
+# Version: 2026.0703.1844.28
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 112
 #
@@ -28,7 +28,6 @@
 0.0.0.0 supportmetrics.v.aaplimg.com
 0.0.0.0 xp.v.aaplimg.com
 0.0.0.0 ab.apple.com.akadns.net
-0.0.0.0 cstat-lb.apple.com.akadns.net
 0.0.0.0 diagassets-lb.apple.com.akadns.net
 0.0.0.0 diagnostics.apple.com.akadns.net
 0.0.0.0 iadcontent-lb.apple.com.akadns.net
@@ -37,13 +36,11 @@
 0.0.0.0 iphonesubmissions.apple.com.akadns.net
 0.0.0.0 radarsubmissions.apple.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
-0.0.0.0 skadnetwork.iad-apple.com.akadns.net
 0.0.0.0 partiality.itunes-apple.com.akadns.net
-0.0.0.0 xp.itunes-apple.com.akadns.net
-0.0.0.0 xp-cdn-lb.itunes-apple.com.akadns.net
 0.0.0.0 searchads.lb-apple.com.akadns.net
 0.0.0.0 advertising.apple.com
 0.0.0.0 advp.apple.com
+0.0.0.0 analytics-events.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 cstat.apple.com
@@ -73,6 +70,7 @@
 0.0.0.0 launch.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 msc-dct-prod.msc.apple.com
+0.0.0.0 news-analytics-events.apple.com
 0.0.0.0 news-app-events.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-notification-events.apple.com
@@ -81,6 +79,7 @@
 0.0.0.0 odin-signals.apple.com
 0.0.0.0 performance-partners.apple.com
 0.0.0.0 phonesubmissions.apple.com
+0.0.0.0 podcasts-analytics-events.apple.com
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 proxy-skadnetwork.apple.com
 0.0.0.0 radarsubmissions.apple.com
@@ -90,6 +89,7 @@
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 tv-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 xp.apple.com
 0.0.0.0 xp-cdn.apple.com

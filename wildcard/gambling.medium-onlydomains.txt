@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 10:51 UTC
-# Version: 2026.0703.1051.27
+# Last modified: 03 Jul 2026 18:41 UTC
+# Version: 2026.0703.1841.34
 # Syntax: Domains (without subdomains)
-# Number of entries: 145621
+# Number of entries: 145581
 #
 images.0998455.com
 web-119bet-2025-google-vip-119bet.119-hello.com
@@ -696,7 +696,6 @@ oasis-casino.co.uk
 ojo-casinoe.co.uk
 olabet.co.mz
 olgcasino.co.com
-onedollardepositcasino.co.nz
 online-casinos.co.uk
 online-slot.co.uk
 onlineblackjack.co.nz
@@ -832,8 +831,6 @@ spaceslots.co.no
 spiderbetscasino.co.nl
 spin-king-casinos.co.uk
 spinalto-casino.co.nl
-spinbet-casinoonline.co.nz
-spinbet-nz-casino.co.nz
 spincasino.co.uk
 spinhubcasino.co.nl
 spinking-casino-uk.co.uk
@@ -923,7 +920,6 @@ vegasmobilecasino.co.uk
 velobetcasinogb.co.uk
 verde-casino.co.rs
 versus-ny.co.uk
-virgingamescasino.co.nz
 visitballycasino.co.uk
 vladcasino.co.com
 volcanobingo.co.uk
@@ -978,8 +974,6 @@ zodiaccasino-gb.co.uk
 ipv4.colgagnez.org
 ipv6.colgagnez.org
 136bet.com.br
-18betcasino.com.br
-1betcasino.com.br
 1red-casino.com.pl
 1win.com.br
 1win.com.ci
@@ -996,30 +990,18 @@ ipv6.colgagnez.org
 1xbet-ir.com.co
 1xbet-kz.com.kz
 1xslots-casino.com.br
-21bitcasino.com.br
-21dukes-casino.com.br
 22bet.com.gh
 22bet.com.sn
 24-casinoss.com.de
 24casinoss.com.de
 29blackcasino.com.pl
 2jbets.com.pk
-31betcasino.com.br
-32redcasino.com.br
-333casino.com.br
-465betcasino.com.br
-5betcasino.com.br
 5gbet.com.br
-5gringoscasino.com.br
 666casino.com.se
-77fcasino.com.br
 77uu123.com.br
 79x.com.br
-7gamescasino.com.br
 7signscasino.com.se
-7slotscasino.com.br
 7slotsonline.com.tr
-813bet.com.br
 8brasas.com.mx
 98bets.com.br
 acertabets.com.br
@@ -1323,7 +1305,6 @@ ecuabet.com.ec
 ehfb-sbetsports.com.cn
 elgrandatero.com.ve
 elitebet.com.au
-elmetodokairos.com.ar
 energycasinoo.com.pl
 energys-casino.com.pl
 epoker.com.br
@@ -1838,7 +1819,6 @@ toto-casino.com.de
 totogamingcasino.com.tr
 trespiesalgato.com.mx
 trino-casinos.com.de
-triunfobet.com.ve
 trivela.com.br
 tropicanacasino.com.de
 trustedcasinosingapore.com.sg
@@ -10877,6 +10857,7 @@ coin.z.com
 1yq.casino
 1zl.casino
 2-baxterbet16.com
+2-cowboyspin82.com
 20-bet.com
 20-bet.org
 200-prosent-casino-bonus.com
@@ -13262,6 +13243,7 @@ coin.z.com
 4177s.com
 417betsorte.com
 417betss.com
+41823278.com
 4183.casino
 4186.casino
 4187.casino
@@ -15430,6 +15412,7 @@ coin.z.com
 6577w.com
 657mariobet.com
 65838.casino
+65856860.com
 6588bet0017.com
 6588bet10.com
 6588bet61.com
@@ -31121,6 +31104,7 @@ bigpirate.com
 bigpoker88.app
 bigshotgames.com
 bigslot188zz.com
+bigslot288aa.com
 bigspincasino.com
 bigtakacasino.com
 bigthunderslots.com
@@ -63016,6 +63000,7 @@ cepat777.pro
 cepat88.site
 cepat89gula.com
 ceq.casino
+cerah88.nl
 cerahawan88.xyz
 ceri123.top
 ceri123bj.com
@@ -63790,6 +63775,7 @@ clicknowyunitoto.com
 climatealpha.ai
 climbpoker.com
 clindamycin150mg.store
+clinicayinyang.com
 clinocasino.pro
 clintonbrook.com
 cliosfoodcraft.com
@@ -64029,6 +64015,7 @@ cn-score-ggpoker.com
 cn-xpj-casino-hkxpj.com
 cn2872ba6.vip
 cn3.casino
+cn5566.com
 cnc.bet
 cnfuchuangvalve.com
 cngbbq.com
@@ -64101,7 +64088,6 @@ cocacolaindonesia.com
 cocasinocolombia.com
 cocasinoenlinea.co
 cocasinoenvivo.co
-cocasinomilyon.vip
 cocasinos.co
 cocasinosonlinecolombia.co
 cocasinovirtual.com
@@ -64457,7 +64443,6 @@ comicplaycasino.cz
 comicplayslots.com
 cominascasino.com
 cominascasino.net
-comjojobetgiris.top
 comlinesfewvveslotsfeenvw.xyz
 commercialradioawards.org
 commissionkings.ag
@@ -64504,7 +64489,6 @@ congtogel.lol
 congtogel.win
 congtogel-alternatif.com
 connectusglobal.com
-connectwithcinch.com
 connerstrongcasinonight.com
 connexion1xbet-ci.com
 connexion1xbet-ivoire.com
@@ -64523,7 +64507,6 @@ conquestadorcasino-online.com
 conquestadorcasinocanadaplay.com
 cons-suph.com
 conservativearchives.com
-consulnat.com
 consumslots.site
 contademoslotspg.com
 contekangame.xyz
@@ -64628,7 +64611,6 @@ cor77.vip
 coral-bets.com
 coral-casino.io
 coralcasino.se
-coralcasino-de.de
 coralcasino-ie.com
 coralcasinos.org
 coralonline.casino
@@ -64660,11 +64642,9 @@ corigbetcasino.net
 corigbetcasinocz.com
 corkursi4d.com
 corla188.pro
-cornerstonebibleinstitute.com
 coroajogo.com
 coroarbet.com
 coroarbetsorte.com
-corptechy.com
 correctcasinos.com
 coruja777slots.bet
 coruletacasino.co
@@ -64688,7 +64668,6 @@ cosmo-betcasino.com
 cosmo-casino.bet
 cosmo-casino.click
 cosmo-casino.io
-cosmo-casino.online
 cosmo-casino.top
 cosmo-casino-nz.com
 cosmo-casino-nz.online
@@ -64837,25 +64816,15 @@ cratoscasino-resmi.vip
 cratoscasinodemo.com
 cratoscasinoo.co
 cratosroyalbet-11hazirangirisleri.icu
-cratosroyalbet-2026giris.top
-cratosroyalbet-adrestakip.icu
-cratosroyalbet-bestlinks2026.icu
-cratosroyalbet-bet2026com.vip
-cratosroyalbet-casinoqdresi2026.icu
-cratosroyalbet-linkactiwe2026.icu
-cratosroyalbet-startwin2026.icu
-cratosroyalbet-viphesqp2026.icu
 cratosroyalbet2026guncelersm.icu
 cratosroyalbet2026s.vip
 cratosroyalbet2026yenilink.vip
-cratosroyalbetaktif-giris.vip
 cratosroyalbetdomain.com
 cratosroyalbetgiris.co
 cratosroyalbetkesingiris.com
 cratosroyalbetlinki-guncel.icu
 cratosroyalbets.pro
 cratosroyalbets.vip
-cratosroyalbetserigiris.vip
 cratosroyalbetsonadres.icu
 cratosroyalbetsongiris.one
 cratosroyalbetsorunsuzgiris.one
@@ -64977,7 +64946,6 @@ creditcard-casinos.com
 creditcardcasinonl.com
 creditcardcasinos.ink
 creditcardcasinos.site
-creditfree88.com
 creditinfoweb.com
 creditnova.xyz
 creditwritedowns.com
@@ -65035,12 +65003,10 @@ cresuscasinofr.app
 cresuscasinofr24.com
 cresuscasinofrance.site
 cresuscasinos.org
-cresuscasinoss.fr
 cresusfrcasino.com
 cresusonline.casino
 cresusscasino.app
 cri.casino
-criarcom.com
 cricasinodesk.com
 cricasinozone.com
 cricaza247.com
@@ -65107,7 +65073,6 @@ crocoslotscasino.app
 crocoslotscasino.ch
 crocoslotscasino.com
 crocoslotscasino.pl
-crocoslotscasino-de.de
 crocoslotscodelab.com
 crocoslotscontentlab.life
 crocoslotshochzeit.pro
@@ -65219,7 +65184,6 @@ crowngoldcasinovip.com
 crowngreen-online-casino.com
 crowngreencasinocan.com
 crownjewelz-casino.net
-crownonline.casino
 crownpalacecasino.nl
 crownplay.com
 crownplay-casino.online
@@ -65294,7 +65258,6 @@ crypto.games
 crypto-casino.icu
 crypto-casino.reviews
 crypto-casino-canada.org
-crypto-casino-online.com
 crypto-casino-vodds.com
 crypto-games.io
 crypto-leocasino.com
@@ -65323,9 +65286,6 @@ cryptobosscasino.com
 cryptobosscasino.vip
 cryptobosscasino04.com
 cryptobosscasino28.com
-cryptobosscasino37.com
-cryptobosscasino38.com
-cryptobosscasino39.com
 cryptocapital.co
 cryptocasino.asia
 cryptocasino.cash
@@ -65470,7 +65430,6 @@ cryptoonlinecasinousa.lol
 cryptoonlinecasinowwwtoptiercasin.lol
 cryptopalacecasino.lol
 cryptopalacecasinobonuscode.lol
-cryptopalacecasinologin.lol
 cryptopalacecasinonodeposit.lol
 cryptopalacecasinonodepositb.lol
 cryptopalacecasinonodepositbo.lol
@@ -92830,6 +92789,7 @@ libertyslotslogin.lol
 libertyslotsnodepositbonus.lol
 libertyslotsplay.com
 libertyslotssistersites.lol
+libo888.cc
 libongo.casino
 libra-betcasino.com
 libra168.club

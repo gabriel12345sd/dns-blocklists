@@ -3214,6 +3214,13 @@
       }
     },
     {
+      "PK": "layoffs.fyi",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "leafbrowser.site",
       "action": {
         "do": 1,

@@ -36,6 +36,13 @@
       }
     },
     {
+      "PK": "analytics-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "api-adservices.apple.com",
       "action": {
         "do": 0,
@@ -107,13 +114,6 @@
     },
     {
       "PK": "cstat.g.aaplimg.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cstat-lb.apple.com.akadns.net",
       "action": {
         "do": 0,
         "status": 1
@@ -428,6 +428,13 @@
       }
     },
     {
+      "PK": "news-analytics-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "news-app-events.apple.com",
       "action": {
         "do": 0,
@@ -506,6 +513,13 @@
     },
     {
       "PK": "phonesubmissions.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "podcasts-analytics-events.apple.com",
       "action": {
         "do": 0,
         "status": 1
@@ -694,6 +708,13 @@
       }
     },
     {
+      "PK": "tv-analytics-events.apple.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "weather-analytics-events.apple.com",
       "action": {
         "do": 0,
@@ -723,20 +744,6 @@
     },
     {
       "PK": "xp-cdn.apple.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xp-cdn-lb.itunes-apple.com.akadns.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xp.itunes-apple.com.akadns.net",
       "action": {
         "do": 0,
         "status": 1

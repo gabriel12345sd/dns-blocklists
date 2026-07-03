@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Jun 2026 15:44 UTC
-# Version: 2026.0630.1544.04
+# Last modified: 03 Jul 2026 19:21 UTC
+# Version: 2026.0703.1921.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1226
+# Number of entries: 1225
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -579,7 +579,6 @@ local=/getresponsesite.com/
 local=/gg123.vip/
 local=/gilde.in/
 local=/gildenseite.de/
-local=/girlsense.com/
 local=/glide.page/
 local=/glitch.me/
 local=/godaddysites.com/

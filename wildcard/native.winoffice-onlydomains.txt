@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 18:52 UTC
-# Version: 2026.0626.1852.33
+# Last modified: 03 Jul 2026 18:46 UTC
+# Version: 2026.0703.1846.02
 # Syntax: Domains (without subdomains)
-# Number of entries: 387
+# Number of entries: 388
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -380,6 +380,7 @@ ehtelemetrystaging-alias.servicebus.windows.net
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 hme-live-loganalytics-namespace.servicebus.windows.net
 hme-uat-loganalytics-namespace.servicebus.windows.net
+kg-legacy-analytics.servicebus.windows.net
 licensingtelemetry-prod.servicebus.windows.net
 nexxtv-events.servicebus.windows.net
 ppm-licensingtelemetry.servicebus.windows.net

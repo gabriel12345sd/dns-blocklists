@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 10:52 UTC
-# Version: 2026.0703.1052.41
+# Last modified: 03 Jul 2026 18:42 UTC
+# Version: 2026.0703.1842.50
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 122473
+# Number of entries: 122443
 #
 *.images.0998455.com
 *.web-119bet-2025-google-vip-119bet.119-hello.com
@@ -616,7 +616,6 @@
 *.ojo-casinoe.co.uk
 *.olabet.co.mz
 *.olgcasino.co.com
-*.onedollardepositcasino.co.nz
 *.online-casinos.co.uk
 *.online-slot.co.uk
 *.onlineblackjack.co.nz
@@ -822,7 +821,6 @@
 *.velobetcasinogb.co.uk
 *.verde-casino.co.rs
 *.versus-ny.co.uk
-*.virgingamescasino.co.nz
 *.visitballycasino.co.uk
 *.volcanobingo.co.uk
 *.volt-casino.co.nl
@@ -888,17 +886,10 @@
 *.22bet.com.sn
 *.24-casinoss.com.de
 *.24casinoss.com.de
-*.333casino.com.br
-*.465betcasino.com.br
-*.5betcasino.com.br
 *.5gbet.com.br
-*.5gringoscasino.com.br
-*.77fcasino.com.br
 *.77uu123.com.br
 *.79x.com.br
-*.7gamescasino.com.br
 *.7slotsonline.com.tr
-*.813bet.com.br
 *.8brasas.com.mx
 *.98bets.com.br
 *.acertabets.com.br
@@ -1190,7 +1181,6 @@
 *.ehfb-sbetsports.com.cn
 *.elgrandatero.com.ve
 *.elitebet.com.au
-*.elmetodokairos.com.ar
 *.energycasinoo.com.pl
 *.epoker.com.br
 *.eur-sbetsports.com.cn
@@ -1658,7 +1648,6 @@
 *.totogamingcasino.com.tr
 *.trespiesalgato.com.mx
 *.trino-casinos.com.de
-*.triunfobet.com.ve
 *.trivela.com.br
 *.tropicanacasino.com.de
 *.trustedcasinosingapore.com.sg
@@ -11010,6 +10999,7 @@
 *.4177s.com
 *.417betsorte.com
 *.417betss.com
+*.41823278.com
 *.4183.casino
 *.4186.casino
 *.4187.casino
@@ -12785,6 +12775,7 @@
 *.6577bet99.com
 *.657mariobet.com
 *.65838.casino
+*.65856860.com
 *.6588bet0017.com
 *.6588bet10.com
 *.658bet2.com
@@ -53441,6 +53432,7 @@
 *.cepat88.site
 *.cepat89gula.com
 *.ceq.casino
+*.cerah88.nl
 *.cerahawan88.xyz
 *.ceri123bj.com
 *.ceri123bl.com
@@ -54085,6 +54077,7 @@
 *.climatealpha.ai
 *.climbpoker.com
 *.clindamycin150mg.store
+*.clinicayinyang.com
 *.clintonbrook.com
 *.cliosfoodcraft.com
 *.clipcasino.app
@@ -54265,6 +54258,7 @@
 *.cn-xpj-casino-hkxpj.com
 *.cn2872ba6.vip
 *.cn3.casino
+*.cn5566.com
 *.cnc.bet
 *.cnfuchuangvalve.com
 *.cngbbq.com
@@ -54602,7 +54596,6 @@
 *.comicplayslots.com
 *.cominascasino.com
 *.cominascasino.net
-*.comjojobetgiris.top
 *.comlinesfewvveslotsfeenvw.xyz
 *.commercialradioawards.org
 *.commissionkings.ag
@@ -54641,7 +54634,6 @@
 *.congtogel.lol
 *.congtogel-alternatif.com
 *.connectusglobal.com
-*.connectwithcinch.com
 *.connerstrongcasinonight.com
 *.connexion1xbet-ci.com
 *.connexion1xbet-ivoire.com
@@ -54657,7 +54649,6 @@
 *.conquestadorcasinocanadaplay.com
 *.cons-suph.com
 *.conservativearchives.com
-*.consulnat.com
 *.contademoslotspg.com
 *.contekangame.xyz
 *.conti-casino-es.top
@@ -54760,10 +54751,8 @@
 *.corgipg.club
 *.corgipg.com
 *.corigbetcasinocz.com
-*.cornerstonebibleinstitute.com
 *.coroarbet.com
 *.coroarbetsorte.com
-*.corptechy.com
 *.correctcasinos.com
 *.coruja777slots.bet
 *.coruletadecasino.co
@@ -54783,7 +54772,6 @@
 *.cosmo-casino.bet
 *.cosmo-casino.click
 *.cosmo-casino.io
-*.cosmo-casino.online
 *.cosmo-casino.top
 *.cosmo-casino-nz.online
 *.cosmobet.com
@@ -54908,24 +54896,14 @@
 *.cratoscasino-resmi.vip
 *.cratoscasinodemo.com
 *.cratosroyalbet-11hazirangirisleri.icu
-*.cratosroyalbet-2026giris.top
-*.cratosroyalbet-adrestakip.icu
-*.cratosroyalbet-bestlinks2026.icu
-*.cratosroyalbet-bet2026com.vip
-*.cratosroyalbet-casinoqdresi2026.icu
-*.cratosroyalbet-linkactiwe2026.icu
-*.cratosroyalbet-startwin2026.icu
-*.cratosroyalbet-viphesqp2026.icu
 *.cratosroyalbet2026guncelersm.icu
 *.cratosroyalbet2026s.vip
 *.cratosroyalbet2026yenilink.vip
-*.cratosroyalbetaktif-giris.vip
 *.cratosroyalbetdomain.com
 *.cratosroyalbetgiris.co
 *.cratosroyalbetlinki-guncel.icu
 *.cratosroyalbets.pro
 *.cratosroyalbets.vip
-*.cratosroyalbetserigiris.vip
 *.cratosroyalbetsonadres.icu
 *.cratosroyalbetsongiris.one
 *.cratosroyalbetsorunsuzgiris.one
@@ -55033,7 +55011,6 @@
 *.creditcard-casinos.com
 *.creditcardcasinonl.com
 *.creditcardcasinos.ink
-*.creditfree88.com
 *.creditnova.xyz
 *.creditwritedowns.com
 *.cresus-casino.co
@@ -55080,12 +55057,10 @@
 *.cresuscasinofr24.com
 *.cresuscasinofrance.site
 *.cresuscasinos.org
-*.cresuscasinoss.fr
 *.cresusfrcasino.com
 *.cresusonline.casino
 *.cresusscasino.app
 *.cri.casino
-*.criarcom.com
 *.cricaza247.com
 *.cricazacasino.com
 *.cricbet99.casino
@@ -55296,7 +55271,6 @@
 *.crypto-casino.icu
 *.crypto-casino.reviews
 *.crypto-casino-canada.org
-*.crypto-casino-online.com
 *.crypto-casino-vodds.com
 *.crypto-games.io
 *.crypto-leocasino.com
@@ -55323,9 +55297,6 @@
 *.cryptobosscasino.vip
 *.cryptobosscasino04.com
 *.cryptobosscasino28.com
-*.cryptobosscasino37.com
-*.cryptobosscasino38.com
-*.cryptobosscasino39.com
 *.cryptocapital.co
 *.cryptocasino.asia
 *.cryptocasino.cash
@@ -55463,7 +55434,6 @@
 *.cryptoonlinecasinowwwtoptiercasin.lol
 *.cryptopalacecasino.lol
 *.cryptopalacecasinobonuscode.lol
-*.cryptopalacecasinologin.lol
 *.cryptopalacecasinonodeposit.lol
 *.cryptopalacecasinonodepositb.lol
 *.cryptopalacecasinonodepositbo.lol
