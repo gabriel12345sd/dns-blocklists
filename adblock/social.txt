@@ -704,11 +704,6 @@
 ||reactjs.org^
 ||reactor.cc^
 ||recoiljs.org^
-||redd.it^
-||reddit.com^
-||redditmail.com^
-||redditmedia.com^
-||redditstatic.com^
 ||redkix.com^
 ||rocksdb.com^
 ||rocksdb.net^
