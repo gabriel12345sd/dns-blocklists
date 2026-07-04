@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783103820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783147740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 18:37 UTC
-; Version: 2026.0703.1837.08
+; Last modified: 04 Jul 2026 06:49 UTC
+; Version: 2026.0704.0649.32
 ; Syntax: RPZ
-; Number of entries: 19994
+; Number of entries: 19988
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -8991,8 +8991,6 @@ zipurl.fr CNAME .
 *.69run.fun CNAME .
 bj88php.fun CNAME .
 *.bj88php.fun CNAME .
-doodsty.fun CNAME .
-*.doodsty.fun CNAME .
 letsconnect.fun CNAME .
 *.letsconnect.fun CNAME .
 minitv.fun CNAME .
@@ -13911,8 +13909,6 @@ cturl.me CNAME .
 *.cturl.me CNAME .
 curts.me CNAME .
 *.curts.me CNAME .
-cutx.me CNAME .
-*.cutx.me CNAME .
 cvent.me CNAME .
 *.cvent.me CNAME .
 dems.me CNAME .
@@ -18589,8 +18585,6 @@ learnit.today CNAME .
 *.learnit.today CNAME .
 rfx.today CNAME .
 *.rfx.today CNAME .
-daftar.tokyo CNAME .
-*.daftar.tokyo CNAME .
 a2z.tools CNAME .
 *.a2z.tools CNAME .
 everlink.tools CNAME .

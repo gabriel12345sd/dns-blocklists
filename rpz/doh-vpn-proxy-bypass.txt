@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783103760 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783151040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 18:36 UTC
-; Version: 2026.0703.1836.17
+; Last modified: 04 Jul 2026 07:44 UTC
+; Version: 2026.0704.0744.07
 ; Syntax: RPZ
-; Number of entries: 34078
+; Number of entries: 34014
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -723,8 +723,6 @@ vcsa.creographix.at CNAME .
 *.vcsa.creographix.at CNAME .
 cv2.at CNAME .
 *.cv2.at CNAME .
-bu-abdulla.dd-it.at CNAME .
-*.bu-abdulla.dd-it.at CNAME .
 dns.fancyorg.at CNAME .
 *.dns.fancyorg.at CNAME .
 dns.family.fraiss.at CNAME .
@@ -1239,14 +1237,6 @@ save.compy.ca CNAME .
 *.save.compy.ca CNAME .
 dnscrypt.ca CNAME .
 *.dnscrypt.ca CNAME .
-cipxeni.dsn-hkpr.ca CNAME .
-*.cipxeni.dsn-hkpr.ca CNAME .
-temperxnepro.dsn-hkpr.ca CNAME .
-*.temperxnepro.dsn-hkpr.ca CNAME .
-uaregoat.dsn-hkpr.ca CNAME .
-*.uaregoat.dsn-hkpr.ca CNAME .
-xentinirbytes.dsn-hkpr.ca CNAME .
-*.xentinirbytes.dsn-hkpr.ca CNAME .
 dns.edgeworkssystems.ca CNAME .
 *.dns.edgeworkssystems.ca CNAME .
 ag.ff0x.ca CNAME .
@@ -2453,8 +2443,6 @@ learnaboutbillclinton.cencopro.cl CNAME .
 *.learnaboutbillclinton.cencopro.cl CNAME .
 bran.covalpo.cl CNAME .
 *.bran.covalpo.cl CNAME .
-joinpd.ctx.cl CNAME .
-*.joinpd.ctx.cl CNAME .
 sss.datamining.cl CNAME .
 *.sss.datamining.cl CNAME .
 67hub.decoro.cl CNAME .
@@ -6195,8 +6183,6 @@ desmos.dazzos.com CNAME .
 *.desmos.dazzos.com CNAME .
 edu.dazzos.com CNAME .
 *.edu.dazzos.com CNAME .
-rapidbio.dazzos.com CNAME .
-*.rapidbio.dazzos.com CNAME .
 httpdns.platform.dbankcloud.com CNAME .
 *.httpdns.platform.dbankcloud.com CNAME .
 agh.dchoe.com CNAME .
@@ -6603,8 +6589,6 @@ doneverdrop.com CNAME .
 *.doneverdrop.com CNAME .
 gpthinker.donghaiji.com CNAME .
 *.gpthinker.donghaiji.com CNAME .
-toocoolforschool.donhoo.com CNAME .
-*.toocoolforschool.donhoo.com CNAME .
 doniuniu.com CNAME .
 *.doniuniu.com CNAME .
 donpv.com CNAME .
@@ -7129,20 +7113,6 @@ easycallofduty.com CNAME .
 *.easycallofduty.com CNAME .
 easychaoshen.com CNAME .
 *.easychaoshen.com CNAME .
-electronic.easycharge-batteries.com CNAME .
-*.electronic.easycharge-batteries.com CNAME .
-galaxies.easycharge-batteries.com CNAME .
-*.galaxies.easycharge-batteries.com CNAME .
-pn.easycharge-batteries.com CNAME .
-*.pn.easycharge-batteries.com CNAME .
-see.easycharge-batteries.com CNAME .
-*.see.easycharge-batteries.com CNAME .
-shopping.easycharge-batteries.com CNAME .
-*.shopping.easycharge-batteries.com CNAME .
-vcsa.easycharge-batteries.com CNAME .
-*.vcsa.easycharge-batteries.com CNAME .
-dgfv.easychargebatteries.com CNAME .
-*.dgfv.easychargebatteries.com CNAME .
 easychiji.com CNAME .
 *.easychiji.com CNAME .
 easychinaapp.com CNAME .
@@ -15903,8 +15873,6 @@ adguard.crestfallen.de CNAME .
 *.adguard.crestfallen.de CNAME .
 dns.csaonline.de CNAME .
 *.dns.csaonline.de CNAME .
-cuckepiso.de CNAME .
-*.cuckepiso.de CNAME .
 nextcloud.d-alahmad.de CNAME .
 *.nextcloud.d-alahmad.de CNAME .
 dns.datenquark.de CNAME .
@@ -17245,8 +17213,6 @@ cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
 contentrush.fun CNAME .
 *.contentrush.fun CNAME .
-cusoahxuaobwhdieah.fun CNAME .
-*.cusoahxuaobwhdieah.fun CNAME .
 cv2.fun CNAME .
 *.cv2.fun CNAME .
 cynntex.fun CNAME .
@@ -17405,8 +17371,6 @@ coursera.gq CNAME .
 *.coursera.gq CNAME .
 learnvcsa.cynic.gq CNAME .
 *.learnvcsa.cynic.gq CNAME .
-rogofollower.cynic.gq CNAME .
-*.rogofollower.cynic.gq CNAME .
 r.platform.everfi.gq CNAME .
 *.r.platform.everfi.gq CNAME .
 flipgrid.gq CNAME .
@@ -17919,8 +17883,6 @@ chonglaicn.icu CNAME .
 *.chonglaicn.icu CNAME .
 datatech.icu CNAME .
 *.datatech.icu CNAME .
-dns.devopscloud.icu CNAME .
-*.dns.devopscloud.icu CNAME .
 dvprovider.icu CNAME .
 *.dvprovider.icu CNAME .
 extrememath.icu CNAME .
@@ -19675,8 +19637,6 @@ tests.ela.btbtrading.it CNAME .
 *.tests.ela.btbtrading.it CNAME .
 doh.ccb-net.it CNAME .
 *.doh.ccb-net.it CNAME .
-drive.google.com.csdue.it CNAME .
-*.drive.google.com.csdue.it CNAME .
 dns.home.daniil.it CNAME .
 *.dns.home.daniil.it CNAME .
 www-proxy.dariomingio.it CNAME .
@@ -19745,8 +19705,6 @@ rateavon.je CNAME .
 *.rateavon.je CNAME .
 apple072.jp CNAME .
 *.apple072.jp CNAME .
-hgkf01001ghakami.ddo.jp CNAME .
-*.hgkf01001ghakami.ddo.jp CNAME .
 test180.ddo.jp CNAME .
 *.test180.ddo.jp CNAME .
 googolclasroom.dob.jp CNAME .
@@ -25865,14 +25823,10 @@ classroomip.online CNAME .
 *.classroomip.online CNAME .
 croxproxy.online CNAME .
 *.croxproxy.online CNAME .
-honor.cyvexadns.online CNAME .
-*.honor.cyvexadns.online CNAME .
 vm.delfini.online CNAME .
 *.vm.delfini.online CNAME .
 deqyutix.online CNAME .
 *.deqyutix.online CNAME .
-dfwz7kmi.online CNAME .
-*.dfwz7kmi.online CNAME .
 djc5yls6yrtdmo69.online CNAME .
 *.djc5yls6yrtdmo69.online CNAME .
 dns4eu.online CNAME .
@@ -28797,20 +28751,14 @@ core.mind.corega.ro CNAME .
 *.core.mind.corega.ro CNAME .
 aaaaaaaaaa.dinprima.ro CNAME .
 *.aaaaaaaaaa.dinprima.ro CNAME .
-asdfghjkloiuytrewqzx.dinprima.ro CNAME .
-*.asdfghjkloiuytrewqzx.dinprima.ro CNAME .
 travel-to-ur-lovely.collage.dinprima.ro CNAME .
 *.travel-to-ur-lovely.collage.dinprima.ro CNAME .
 mlkjr.day.dinprima.ro CNAME .
 *.mlkjr.day.dinprima.ro CNAME .
-mathers.elaman.dinprima.ro CNAME .
-*.mathers.elaman.dinprima.ro CNAME .
 elstafantactida.dinprima.ro CNAME .
 *.elstafantactida.dinprima.ro CNAME .
 feather.fork.dinprima.ro CNAME .
 *.feather.fork.dinprima.ro CNAME .
-imisstheocean.dinprima.ro CNAME .
-*.imisstheocean.dinprima.ro CNAME .
 santa.littlehelper.dinprima.ro CNAME .
 *.santa.littlehelper.dinprima.ro CNAME .
 sleds.manutec.dinprima.ro CNAME .
@@ -28821,20 +28769,10 @@ qnfjdkfefjdmrjuemgjenfgjdnfjgheghd.dinprima.ro CNAME .
 *.qnfjdkfefjdmrjuemgjenfgjdnfjgheghd.dinprima.ro CNAME .
 r4sele.dinprima.ro CNAME .
 *.r4sele.dinprima.ro CNAME .
-r4yne-fern.dinprima.ro CNAME .
-*.r4yne-fern.dinprima.ro CNAME .
-r4yne-galaxy.dinprima.ro CNAME .
-*.r4yne-galaxy.dinprima.ro CNAME .
 slayerseducation.dinprima.ro CNAME .
 *.slayerseducation.dinprima.ro CNAME .
 vaperisveryeducational.dinprima.ro CNAME .
 *.vaperisveryeducational.dinprima.ro CNAME .
-vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro CNAME .
-*.vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro CNAME .
-whyarewearewhatarewearewhatarewe.dinprima.ro CNAME .
-*.whyarewearewhatarewearewhatarewe.dinprima.ro CNAME .
-drive.google.com.drciocan.ro CNAME .
-*.drive.google.com.drciocan.ro CNAME .
 mugi.drciocan.ro CNAME .
 *.mugi.drciocan.ro CNAME .
 muromachibaku.drciocan.ro CNAME .
@@ -29105,8 +29043,6 @@ qual.cuprum.ru CNAME .
 *.qual.cuprum.ru CNAME .
 s2.d3mik.ru CNAME .
 *.s2.d3mik.ru CNAME .
-s3.d3mik.ru CNAME .
-*.s3.d3mik.ru CNAME .
 d3vy.ru CNAME .
 *.d3vy.ru CNAME .
 dark-proxy.ru CNAME .

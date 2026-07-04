@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 10:53 UTC
-# Version: 2026.0703.1053.13
+# Last modified: 04 Jul 2026 07:43 UTC
+# Version: 2026.0704.0743.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3881
+# Number of entries: 3877
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -873,11 +873,9 @@
 0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.cysynex.cloud
-0.0.0.0 honor.cyvexadns.online
 0.0.0.0 nextcloud.d-alahmad.de
 0.0.0.0 dns.d365.in
 0.0.0.0 s2.d3mik.ru
-0.0.0.0 s3.d3mik.ru
 0.0.0.0 d3vy.ru
 0.0.0.0 dns.d4d.moe
 0.0.0.0 dns.d94.xyz
@@ -995,7 +993,6 @@
 0.0.0.0 doh-primary-pool.detoxifypornblocker.com
 0.0.0.0 dns.dev-umbrellagov.com
 0.0.0.0 adguard.ext.devkon.org
-0.0.0.0 dns.devopscloud.icu
 0.0.0.0 mainframe.dewed.de
 0.0.0.0 dns.dewei.dev
 0.0.0.0 dns.dgea.fr
@@ -1313,7 +1310,6 @@
 0.0.0.0 jp-nrt.doh.sb
 0.0.0.0 kr-sel.doh.sb
 0.0.0.0 nl-ams.doh.sb
-0.0.0.0 nl-ams2.doh.sb
 0.0.0.0 ru-mow.doh.sb
 0.0.0.0 sg-sin.doh.sb
 0.0.0.0 sm2.doh.pub

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 18:37 UTC
-# Version: 2026.0703.1837.08
+# Last modified: 04 Jul 2026 06:49 UTC
+# Version: 2026.0704.0649.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9997
+# Number of entries: 9994
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2760,7 +2760,6 @@ local=/cuturl.cloud/
 local=/cuturl.com/
 local=/cuturl.net/
 local=/cutwin.com/
-local=/cutx.me/
 local=/cutx.to/
 local=/cutxly.com/
 local=/cuty.io/
@@ -2798,7 +2797,6 @@ local=/dafa07.net/
 local=/dafire.cloud/
 local=/daftar.mx/
 local=/daftar.to/
-local=/daftar.tokyo/
 local=/daftarhoki.live/
 local=/dai.ly/
 local=/dailym.ai/
@@ -2971,7 +2969,6 @@ local=/domi.link/
 local=/domixox.com/
 local=/domlink.ink/
 local=/doods.sbs/
-local=/doodsty.fun/
 local=/doonor.com/
 local=/dopice.sk/
 local=/dopt.us/

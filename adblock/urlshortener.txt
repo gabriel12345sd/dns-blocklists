@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jul 2026 18:37 UTC
-! Version: 2026.0703.1837.08
+! Last modified: 04 Jul 2026 06:49 UTC
+! Version: 2026.0704.0649.32
 ! Syntax: AdBlock
-! Number of entries: 9997
+! Number of entries: 9994
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -2761,7 +2761,6 @@
 ||cuturl.com^
 ||cuturl.net^
 ||cutwin.com^
-||cutx.me^
 ||cutx.to^
 ||cutxly.com^
 ||cuty.io^
@@ -2799,7 +2798,6 @@
 ||dafire.cloud^
 ||daftar.mx^
 ||daftar.to^
-||daftar.tokyo^
 ||daftarhoki.live^
 ||dai.ly^
 ||dailym.ai^
@@ -2972,7 +2970,6 @@
 ||domixox.com^
 ||domlink.ink^
 ||doods.sbs^
-||doodsty.fun^
 ||doonor.com^
 ||dopice.sk^
 ||dopt.us^

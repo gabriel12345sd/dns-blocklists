@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Jul 2026 18:36 UTC
-! Version: 2026.0703.1836.17
+! Last modified: 04 Jul 2026 07:44 UTC
+! Version: 2026.0704.0744.07
 ! Syntax: AdBlock
-! Number of entries: 17039
+! Number of entries: 17007
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -2203,7 +2203,6 @@
 ||rf425d-8080.csb.app^
 ||rj7wzq-8080.csb.app^
 ||y9ze2o.csb.app^
-||drive.google.com.csdue.it^
 ||a5135324.csie.io^
 ||teaching944.cspcorp.com^
 ||duck.csproject.org^
@@ -2211,7 +2210,6 @@
 ||app.plugga-matte.ct.ws^
 ||grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws^
 ||helios-browser.ct.ws^
-||joinpd.ctx.cl^
 ||webdav.cubecloud.win^
 ||iux3-s.cuiy4trg8fmosya2iip3ci.name^
 ||mobile-socket.culturegps.com^
@@ -2223,14 +2221,11 @@
 ||dns.cybertonic.tech^
 ||dns2.cybrespace.net^
 ||learnvcsa.cynic.gq^
-||rogofollower.cynic.gq^
 ||dns.cynthialabs.net^
 ||dns.cysynex.cloud^
-||honor.cyvexadns.online^
 ||nextcloud.d-alahmad.de^
 ||dns.d365.in^
 ||s2.d3mik.ru^
-||s3.d3mik.ru^
 ||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.daarrk.tech^
@@ -2269,7 +2264,6 @@
 ||learnaboutbillclinton.daybits.net^
 ||desmos.dazzos.com^
 ||edu.dazzos.com^
-||rapidbio.dazzos.com^
 ||httpdns.platform.dbankcloud.cn^
 ||httpdns.platform.dbankcloud.com^
 ||httpdns-browser.platform.dbankcloud.cn^
@@ -2278,7 +2272,6 @@
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||agh.dchoe.com^
-||bu-abdulla.dd-it.at^
 ||adguard.bug3factory.ddns.net^
 ||7164.ddns.net^
 ||adguardnic.ddns.net^
@@ -2344,7 +2337,6 @@
 ||xx3madethis.ddnsking.com^
 ||dns.xyz.ddnss.eu^
 ||learnsowashcoorg.ddnss.org^
-||hgkf01001ghakami.ddo.jp^
 ||test180.ddo.jp^
 ||renaissance-go.de.com^
 ||why.is.it.my.fault.de-a.org^
@@ -2387,7 +2379,6 @@
 ||nirdogepx.developer.li^
 ||sinckfladogenirb.developer.li^
 ||adguard.ext.devkon.org^
-||dns.devopscloud.icu^
 ||mainframe.dewed.de^
 ||dns.dewei.dev^
 ||dns.dgea.fr^
@@ -2417,23 +2408,16 @@
 ||oijkmuiojk.yhujnmok.dingsheng-yule.com^
 ||travel-to-ur-lovely.collage.dinprima.ro^
 ||mlkjr.day.dinprima.ro^
-||mathers.elaman.dinprima.ro^
 ||feather.fork.dinprima.ro^
 ||santa.littlehelper.dinprima.ro^
 ||sleds.manutec.dinprima.ro^
 ||elaman.mathers.dinprima.ro^
 ||aaaaaaaaaa.dinprima.ro^
-||asdfghjkloiuytrewqzx.dinprima.ro^
 ||elstafantactida.dinprima.ro^
-||imisstheocean.dinprima.ro^
 ||qnfjdkfefjdmrjuemgjenfgjdnfjgheghd.dinprima.ro^
 ||r4sele.dinprima.ro^
-||r4yne-fern.dinprima.ro^
-||r4yne-galaxy.dinprima.ro^
 ||slayerseducation.dinprima.ro^
 ||vaperisveryeducational.dinprima.ro^
-||vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro^
-||whyarewearewhatarewearewhatarewe.dinprima.ro^
 ||dns.dionperera.com^
 ||dns-telkominfra.disacloud.com^
 ||doh.disconnect.app^
@@ -2524,7 +2508,6 @@
 ||takhtakh.domyah.net^
 ||watch-dexter.or-you-now.donciccio.net^
 ||gpthinker.donghaiji.com^
-||toocoolforschool.donhoo.com^
 ||dns.doserver.top^
 ||ns1.dotls.org^
 ||dns.dotnet.win^
@@ -2543,7 +2526,6 @@
 ||phonedns.dr3ff1c13nt.com^
 ||twingatedns.dr3ff1c13nt.com^
 ||dns.dragon0697.me^
-||drive.google.com.drciocan.ro^
 ||mugi.drciocan.ro^
 ||muromachibaku.drciocan.ro^
 ||dns.dremaxx.de^
@@ -2551,10 +2533,6 @@
 ||calebisdumb.drm.hk^
 ||dns.druta.me^
 ||agh.dshubham.xyz^
-||cipxeni.dsn-hkpr.ca^
-||temperxnepro.dsn-hkpr.ca^
-||uaregoat.dsn-hkpr.ca^
-||xentinirbytes.dsn-hkpr.ca^
 ||adguard.dsns.cloud^
 ||adguard2.dsns.cloud^
 ||sudoukayo.dtdns.org^
@@ -2829,13 +2807,6 @@
 ||yuhsce.easterndns.com^
 ||yuudai-shadow.easterndns.com^
 ||yuzu.easterndns.com^
-||electronic.easycharge-batteries.com^
-||galaxies.easycharge-batteries.com^
-||pn.easycharge-batteries.com^
-||see.easycharge-batteries.com^
-||shopping.easycharge-batteries.com^
-||vcsa.easycharge-batteries.com^
-||dgfv.easychargebatteries.com^
 ||ajh.eats-logi.lol^
 ||emis-kf-homework.echofx.com^
 ||emis-tech.echofx.com^
@@ -9023,7 +8994,6 @@
 ||ctilqhzv.cc^
 ||ctkangh.cn^
 ||cubedns.com^
-||cuckepiso.de^
 ||cudfhbej.com^
 ||cuisine.run^
 ||cuknrz.top^
@@ -9034,7 +9004,6 @@
 ||cunybr.com^
 ||curd.io^
 ||curser.dev^
-||cusoahxuaobwhdieah.fun^
 ||customudp.site^
 ||cv-unfiltered.xyz^
 ||cv2.at^
@@ -9166,7 +9135,6 @@
 ||dexira.ru^
 ||dft-cdn42.net^
 ||dfwdlitu.cc^
-||dfwz7kmi.online^
 ||dg6.me^
 ||dg6.top^
 ||dgcwbybv.cc^

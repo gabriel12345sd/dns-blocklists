@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1783075980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1783150980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Jul 2026 10:53 UTC
-; Version: 2026.0703.1053.13
+; Last modified: 04 Jul 2026 07:43 UTC
+; Version: 2026.0704.0743.11
 ; Syntax: RPZ
-; Number of entries: 6856
+; Number of entries: 6850
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2767,8 +2767,6 @@ dns.invent.hr CNAME .
 *.dns.invent.hr CNAME .
 dns.0ooo.icu CNAME .
 *.dns.0ooo.icu CNAME .
-dns.devopscloud.icu CNAME .
-*.dns.devopscloud.icu CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
 d2.shabi.icu CNAME .
@@ -4549,8 +4547,6 @@ dns.apigw.online CNAME .
 *.dns.apigw.online CNAME .
 dns-sehat.apigw.online CNAME .
 *.dns-sehat.apigw.online CNAME .
-honor.cyvexadns.online CNAME .
-*.honor.cyvexadns.online CNAME .
 vm.delfini.online CNAME .
 *.vm.delfini.online CNAME .
 dns4eu.online CNAME .
@@ -5643,8 +5639,6 @@ qual.cuprum.ru CNAME .
 *.qual.cuprum.ru CNAME .
 s2.d3mik.ru CNAME .
 *.s2.d3mik.ru CNAME .
-s3.d3mik.ru CNAME .
-*.s3.d3mik.ru CNAME .
 d3vy.ru CNAME .
 *.d3vy.ru CNAME .
 dehb.ru CNAME .
